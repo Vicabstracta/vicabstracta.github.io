@@ -33,7 +33,7 @@ const YukinaConfig: Configuration = {
 
   username: "WhitePaper 白芷",
   sign: "Ad Astra Per Aspera.",
-  avatarUrl: "https://s2.loli.net/2025/01/25/FPpTrQSezM8ivbl.webp",
+  avatarUrl: "/public/profile.jpg",
   socialLinks: [
     {
       icon: "line-md:github-loop",
@@ -62,6 +62,11 @@ const YukinaConfig: Configuration = {
     "https://s2.loli.net/2025/01/25/Pm89OveZq7NWUxF.webp",
     "https://s2.loli.net/2025/01/25/UCYKvc1ZhgPHB9m.webp",
     "https://s2.loli.net/2025/01/25/JjpLOW8VSmufzlA.webp",
+  ],
+
+  banners_carousel: [
+    "/public/color_1.webp",
+    "/public/color_2.webp",
   ],
 
   slugMode: "HASH", // 'RAW' | 'HASH'

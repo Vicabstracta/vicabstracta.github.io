@@ -25,6 +25,7 @@ interface Configuration {
   maxFooterTagChip: number;
 
   banners: string[];
+  banners_carousel: string[];
 
   slugMode: "HASH" | "RAW";
 

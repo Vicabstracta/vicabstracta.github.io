@@ -13,7 +13,7 @@ const { title, subTitle, bannerImage, slug } = Astro.props;
 const hasTitle = title !== undefined || subTitle !== undefined;
 const hasHeaderImg = bannerImage !== undefined || slug !== undefined;
 
-let carouselImgsList = YukinaConfig.banners;
+let carouselImgsList = YukinaConfig.banners_carousel;
 const carouselAnimationTime = `${carouselImgsList.length * 6}s`;
 ---
 
