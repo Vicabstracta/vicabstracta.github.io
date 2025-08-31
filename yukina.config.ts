@@ -3,8 +3,8 @@ import type { Configuration } from "./src/types/config";
 
 const YukinaConfig: Configuration = {
   title: "vicabstracta",
-  subTitle: "Yukina Template Demo Site",
-  brandTitle: "vicabstracta",
+  subTitle: "Ensayos, reseñas y entrevistas en profundidad",
+  brandTitle: "",
 
   description: "Demo Site",
 
