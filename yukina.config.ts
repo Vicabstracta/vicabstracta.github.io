@@ -2,9 +2,9 @@ import I18nKeys from "./src/locales/keys";
 import type { Configuration } from "./src/types/config";
 
 const YukinaConfig: Configuration = {
-  title: "Yukina",
+  title: "vicabstracta",
   subTitle: "Yukina Template Demo Site",
-  brandTitle: "Yukina",
+  brandTitle: "vicabstracta",
 
   description: "Demo Site",
 
@@ -54,8 +54,7 @@ const YukinaConfig: Configuration = {
   maxFooterTagChip: 24,
 
   banners: [
-    "/public/blog/apuntes/franciscopero/la-vision-de-un-hombre-que-excede-su-imagen.webp",
-    "/public/blog/apuntes/franciscopero/la-vision-de-un-hombre-que-excede-su-imagen.webp",
+    "/public/color_1.webp",
   ],
 
   banners_carousel: [

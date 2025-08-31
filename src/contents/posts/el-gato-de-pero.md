@@ -4,12 +4,20 @@ published: 2025-08-18
 description: Pinturas de Francisco Peró en Galería NAC
 tags: [Pintura, Ensayo, Notas]
 category: Inédito
-licenseName: Copywrite
+licenseName: CC BY-NC-ND 4.0
+licenseUrl: https://creativecommons.org/licenses/by-nc-nd/4.0/
 author: Victoria Abaroa
+cover: /public/blog/apuntes/franciscopero/la-vision-de-un-hombre-que-excede-su-imagen.webp
 draft: false
 ---
 
-![alt text](/public/blog/apuntes/franciscopero/la-vision-de-un-hombre-que-excede-su-imagen.webp)
+<figure class="blog-image">
+    <img
+        src="/public/blog/apuntes/franciscopero/la-vision-de-un-hombre-que-excede-su-imagen.webp">
+    <figcaption>
+        Insert caption here.
+    </figcaption>
+</figure>
 
 “El gato es críptico y cercano a cosas que los hombres no pueden ver”. La cita de HP Lovecraft resuena en mi mente mientras observo una de las pinturas de Francisco Peró en la Galería NAC. En la imagen, un gato grisáceo con cola de mapache y rosetas de leopardo arquea su cabeza para contemplar algo que pareciera encontrarse fuera del cuadro. Quizás mira la escena que cuelga de la pared adyacente a aquella en la que se despliega su micromundo: una especie de sala de espera del futuro, habitada por un hombre y seis mujeres. Tal vez solo se trate de cinco, ya que el torso de una de las mujeres emerge de la cadera de la que se encuentra detrás.
 
@@ -19,7 +27,13 @@ Esta pregunta se extiende por toda la sala, en la que los sujetos retratados apa
 
 Siguiendo la mirada del gato, me acerco a la pintura del salón futurista y me percato de que las manos del hombre aparecen borrosas. Estas sostienen un periodico con líneas de texto ilegibles, fragmentos de un glitch. Las manos del hombre como una alucinación artificial, el talón de Aquiles de las imágenes autogeneradas. El trazo de pintura, perceptible en cada cuadro, contradice la idea de una fotografía inventada.
 
-![alt text](/public/blog/apuntes/franciscopero/un-espacio-en-pausa.webp)
+<figure class="blog-image">
+    <img
+        src="/public/blog/apuntes/franciscopero/un-espacio-en-pausa.webp">
+    <figcaption>
+        Insert caption here.
+    </figcaption>
+</figure>
 
 Pixeles como pinceladas, posibilidades de código como productos de la imaginación humana.
 
