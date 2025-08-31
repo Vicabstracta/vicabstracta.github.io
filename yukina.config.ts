@@ -29,7 +29,7 @@ const YukinaConfig: Configuration = {
 
   username: "Victoria Abaroa Cajiao",
   sign: "Periodista cultural",
-  avatarUrl: "/public/profile.jpg",
+  avatarUrl: "/profile.jpg",
   socialLinks: [
     {
       icon: "line-md:instagram",
@@ -46,12 +46,12 @@ const YukinaConfig: Configuration = {
   maxFooterTagChip: 24,
 
   banners: [
-    "/public/color_1.webp",
+    "/color_1.webp",
   ],
 
   banners_carousel: [
-    "/public/color_1.webp",
-    "/public/color_2.webp",
+    "/color_1.webp",
+    "/color_2.webp",
   ],
 
   slugMode: "HASH", // 'RAW' | 'HASH'

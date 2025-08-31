@@ -7,13 +7,13 @@ category: Inédito
 licenseName: CC BY-NC-ND 4.0
 licenseUrl: https://creativecommons.org/licenses/by-nc-nd/4.0/
 author: Victoria Abaroa
-cover: /public/blog/apuntes/franciscopero/la-vision-de-un-hombre-que-excede-su-imagen.webp
+cover: /blog/apuntes/franciscopero/la-vision-de-un-hombre-que-excede-su-imagen.webp
 draft: false
 ---
 
 <figure class="blog-image">
     <img
-        src="/public/blog/apuntes/franciscopero/la-vision-de-un-hombre-que-excede-su-imagen.webp">
+        src="/blog/apuntes/franciscopero/la-vision-de-un-hombre-que-excede-su-imagen.webp">
     <figcaption>
         Insert caption here.
     </figcaption>
@@ -29,7 +29,7 @@ Siguiendo la mirada del gato, me acerco a la pintura del salón futurista y me p
 
 <figure class="blog-image">
     <img
-        src="/public/blog/apuntes/franciscopero/un-espacio-en-pausa.webp">
+        src="/blog/apuntes/franciscopero/un-espacio-en-pausa.webp">
     <figcaption>
         Insert caption here.
     </figcaption>
