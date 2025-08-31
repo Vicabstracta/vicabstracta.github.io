@@ -6,9 +6,9 @@ const YukinaConfig: Configuration = {
   subTitle: "Ensayos, reseñas y entrevistas en profundidad",
   brandTitle: "",
 
-  description: "Demo Site",
+  description: "Ensayos, reseñas y entrevistas en profundidad acerca de artes visuales.",
 
-  site: "https://yukina-blog.vercel.app",
+  site: "https://vicabstracta.github.io",
 
   locale: "es", // set for website language and date format
 
