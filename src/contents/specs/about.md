@@ -1,5 +1,3 @@
-# Special thanks to:
+# Bio
 
-- [Hexo Shoka theme](https://github.com/amehime/hexo-theme-shoka) for providing design inspiration
-
-- [Astro Fuwari template](https://github.com/saicaca/fuwari) for providing the main design concept and part of the implementation
+Licenciada en Periodismo por la Universidad del Desarrollo (UDD - Santiago, Chile), donde se desempeñó como ayudante de Periodismo Interpretativo. Cuenta con múltiples cursos vinculados al rubro de la Artes Visuales dictados por el MoMA y Node Center for Curatorial Studies (Berlín). Actualmente se encuentra cursando el Máster de Teoría y Crítica de la Cultura en la Universidad Carlos III de Madrid.  Sus textos han sido publicados en [Artishock](https://artishockrevista.com/), [Culturizarte](https://culturizarte.cl/), [Barbarie.lat](https://www.barbarie.lat/), [mediales.art](https://www.mediales.art/), Revista Ya y la revista digital de [AICA](https://aicainternational.news/).
