@@ -10,7 +10,7 @@ const YukinaConfig: Configuration = {
 
   site: "https://yukina-blog.vercel.app",
 
-  locale: "en", // set for website language and date format
+  locale: "es", // set for website language and date format
 
   navigators: [
     {
