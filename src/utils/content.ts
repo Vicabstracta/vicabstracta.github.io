@@ -1,5 +1,6 @@
 import { getCollection } from "astro:content";
 import { IdToSlug } from "./hash";
+import createSlug from "../lib/createSlug"
 
 /**
  * Represents an archive item with a title, slug, date, and optional tags.
@@ -85,7 +86,7 @@ export async function GetArchives() {
     }
     archives.get(year)!.push({
       title: post.data.title,
-      id: `/posts/${IdToSlug(post.id)}`,
+      id: `/posts/${createSlug(post.data.title)}`,
       date: date,
       tags: post.data.tags,
     });
@@ -127,7 +128,7 @@ export async function GetTags() {
       }
       tags.get(tagSlug)!.posts.push({
         title: post.data.title,
-        id: `/posts/${IdToSlug(post.id)}`,
+        id: `/posts/${createSlug(post.data.title)}`,
         date: new Date(post.data.published),
         tags: post.data.tags,
       });
@@ -165,7 +166,7 @@ export async function GetCategories() {
     }
     categories.get(categorySlug)!.posts.push({
       title: post.data.title,
-      id: `/posts/${IdToSlug(post.id)}`,
+      id: `/posts/${createSlug(post.data.title)}`,
       date: new Date(post.data.published),
       tags: post.data.tags,
     });

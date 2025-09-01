@@ -3,11 +3,14 @@ import { getCollection } from "astro:content";
 import { IdToSlug } from "../../utils/hash";
 import PostLayout from "../../layouts/PostLayout.astro";
 import { render } from "astro:content";
+import createSlug from "../../lib/createSlug"
 
 export async function getStaticPaths() {
   const postEntries = await getCollection("posts");
   return postEntries.map((entry) => ({
-    params: { slug: IdToSlug(entry.id) },
+    // Switch commented code in ...page and ...slug to turn off auto slug generation
+    // params: { slug: IdToSlug(entry.id) },
+    params: { slug: createSlug(entry.data.title) },
     props: { entry },
   }));
 }

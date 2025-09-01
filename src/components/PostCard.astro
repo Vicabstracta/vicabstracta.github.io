@@ -7,6 +7,7 @@ import { i18n } from "../locales/translation";
 import I18nKeys from "../locales/keys";
 import YukinaConfig from "../../yukina.config";
 import { formatDate } from "../utils/date";
+import createSlug from "../lib/createSlug"
 
 export interface Props {
   id: string;
@@ -21,7 +22,8 @@ export interface Props {
 
 const props = Astro.props;
 const entryID = IdToSlug(props.id);
-const contentUrl = `/posts/${entryID}`;
+const slug = createSlug(props.title)
+const contentUrl = `/posts/${slug}`;
 const { time, wordCount } = props.readingMetadata;
 ---
 
