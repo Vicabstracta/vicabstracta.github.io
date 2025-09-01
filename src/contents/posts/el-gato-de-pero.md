@@ -2,7 +2,7 @@
 title: El gato de Peró
 published: 2025-08-18
 description: Pinturas de Francisco Peró en Galería NAC
-tags: [Pintura, Ensayo, Notas]
+tags: [Pintura, Ensayo,]
 category: Inédito
 licenseName: CC BY-NC-ND 4.0
 licenseUrl: https://creativecommons.org/licenses/by-nc-nd/4.0/
@@ -15,7 +15,7 @@ draft: false
     <img
         src="/blog/apuntes/franciscopero/la-vision-de-un-hombre-que-excede-su-imagen.webp">
     <figcaption>
-        Insert caption here.
+        Francisco Peró, La visión de un hombre que excede su imágen, 2025
     </figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ Siguiendo la mirada del gato, me acerco a la pintura del salón futurista y me p
     <img
         src="/blog/apuntes/franciscopero/un-espacio-en-pausa.webp">
     <figcaption>
-        Insert caption here.
+        Francisco Peró, Espacio en pausa, 2025
     </figcaption>
 </figure>
 
