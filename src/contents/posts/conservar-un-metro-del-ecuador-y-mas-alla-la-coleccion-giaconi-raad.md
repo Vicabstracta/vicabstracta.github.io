@@ -2,7 +2,7 @@
 title: "Conservar ‘Un Metro Del Ecuador’, Y Más Allá. La Colección Giaconi Raad"
 published: 2024-01-06
 description: Artículo publicado en Artishock Revista
-tags: ['Rodolfo Kronfle Chambers']
+tags: []
 category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2024/01/06/coleccion-giaconi-raad-en-il-posto/
