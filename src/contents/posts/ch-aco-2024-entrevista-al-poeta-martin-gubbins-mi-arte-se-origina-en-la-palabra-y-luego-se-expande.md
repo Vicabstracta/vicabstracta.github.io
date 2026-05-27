@@ -4,6 +4,7 @@ published: 2024-03-22
 description: Artículo publicado en Culturizarte
 tags: []
 category: Culturizarte
+showFeaturedImage: true
 author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/ch-aco-2024-entrevista-al-poeta-martin-gubbins-mi-arte-se-origina-en-la-palabra-y-luego-se-expande/
 cover: /blog/apuntes/ch-aco-2024-entrevista-al-poeta-martin-gubbins-mi-arte-se-origina-en-la-palabra-y-luego-se-expande/MARTIN-GUBBINS-scaled.jpg

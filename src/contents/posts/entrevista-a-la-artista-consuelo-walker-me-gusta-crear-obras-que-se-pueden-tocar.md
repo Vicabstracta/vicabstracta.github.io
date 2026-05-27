@@ -4,6 +4,7 @@ published: 2023-12-05
 description: Artículo publicado en Culturizarte
 tags: []
 category: Culturizarte
+showFeaturedImage: true
 author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/entrevista-a-la-artista-consuelo-walker-me-gusta-crear-obras-que-se-pueden-tocar/
 cover: /blog/apuntes/entrevista-a-la-artista-consuelo-walker-me-gusta-crear-obras-que-se-pueden-tocar/consuelo-con-pony.png

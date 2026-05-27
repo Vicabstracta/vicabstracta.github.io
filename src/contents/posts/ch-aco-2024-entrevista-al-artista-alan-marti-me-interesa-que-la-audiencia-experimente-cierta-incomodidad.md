@@ -4,6 +4,7 @@ published: 2024-03-22
 description: Artículo publicado en Culturizarte
 tags: []
 category: Culturizarte
+showFeaturedImage: true
 author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/ch-aco-2024-entrevista-al-artista-alan-marti-me-interesa-que-la-audiencia-experimente-cierta-incomodidad/
 cover: /blog/apuntes/ch-aco-2024-entrevista-al-artista-alan-marti-me-interesa-que-la-audiencia-experimente-cierta-incomodidad/1711116932801-scaled.jpg

@@ -4,6 +4,7 @@ published: 2024-03-25
 description: Artículo publicado en Culturizarte
 tags: []
 category: Culturizarte
+showFeaturedImage: true
 author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/ch-aco-2024-entrevista-a-la-artista-marlis-lund-tengo-un-lado-muy-cuadrado-y-matematico-que-sin-duda-interactua-con-mi-veta-mas-plastica/
 cover: /blog/apuntes/ch-aco-2024-entrevista-a-la-artista-marlis-lund-tengo-un-lado-muy-cuadrado-y-matematico-que-sin-duda-interactua-con-mi-veta-mas-plastica/Marlis-Lund-scaled.jpg

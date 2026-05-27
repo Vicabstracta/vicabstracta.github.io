@@ -21,37 +21,41 @@ const { Content } = await render(entry);
 
 {
   !entry.data.licenseName && (
-    <PostLayout
-      title={entry.data.title}
-      subTitle={entry.data.description}
-      bannerImage={entry.data.cover}
-      published={entry.data.published}
-    >
-      <div
-        class="hidden"
-        data-pagefind-body
-        data-pagefind-weight="10"
-        data-pagefind-meta="title"
+      <PostLayout
+        title={entry.data.title}
+        subTitle={entry.data.description}
+        bannerImage={entry.data.cover}
+        showFeaturedImage={entry.data.showFeaturedImage}
+        objectPosition={entry.data.objectPosition}
+        published={entry.data.published}
       >
-        {entry.data.title}
-      </div>
-      <div data-pagefind-body>
-        <Content />
-      </div>
-    </PostLayout>
+        <div
+          class="hidden"
+          data-pagefind-body
+          data-pagefind-weight="10"
+          data-pagefind-meta="title"
+        >
+          {entry.data.title}
+        </div>
+        <div data-pagefind-body>
+          <Content />
+        </div>
+      </PostLayout>
   )
 }
 {
   entry.data.licenseName && (
-    <PostLayout
-      title={entry.data.title}
-      subTitle={entry.data.description}
-      bannerImage={entry.data.cover}
-      published={entry.data.published}
-      license={{ name: entry.data.licenseName, url: entry.data.licenseUrl }}
-      author={entry.data.author}
-      sourceLink={entry.data.sourceLink}
-    >
+      <PostLayout
+        title={entry.data.title}
+        subTitle={entry.data.description}
+        bannerImage={entry.data.cover}
+        showFeaturedImage={entry.data.showFeaturedImage}
+        objectPosition={entry.data.objectPosition}
+        published={entry.data.published}
+        license={{ name: entry.data.licenseName, url: entry.data.licenseUrl }}
+        author={entry.data.author}
+        sourceLink={entry.data.sourceLink}
+      >
       <div
         class="hidden"
         data-pagefind-body

@@ -4,9 +4,11 @@ published: 2024-03-26
 description: Artículo publicado en Culturizarte
 tags: []
 category: Culturizarte
+showFeaturedImage: true
 author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/ch-aco-2024-entrevista-a-la-artista-daniela-marin-mis-pinturas-representan-paisajes-imaginarios-en-desiertos-florecientes/
 cover: /blog/apuntes/ch-aco-2024-entrevista-a-la-artista-daniela-marin-mis-pinturas-representan-paisajes-imaginarios-en-desiertos-florecientes/Daniela-Marin-scaled.jpg
+objectPosition: 50% 40%
 ---
 
 **Por Victoria Abaroa**

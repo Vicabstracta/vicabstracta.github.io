@@ -4,6 +4,7 @@ published: 2024-01-10
 description: Artículo publicado en Culturizarte
 tags: []
 category: Culturizarte
+showFeaturedImage: true
 author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/festival-aprender-entrevista-al-escritor-felipe-cussen-no-conozco-otra-manera-mejor-de-ensenar-lo-que-me-interesa-que-mostrandolo/
 cover: /blog/apuntes/festival-aprender-entrevista-al-escritor-felipe-cussen-no-conozco-otra-manera-mejor-de-ensenar-lo-que-me-interesa-que-mostrandolo/1704888392165-scaled.jpg

@@ -4,6 +4,7 @@ published: 2024-03-25
 description: Artículo publicado en Culturizarte
 tags: []
 category: Culturizarte
+showFeaturedImage: true
 author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/ch-aco-2024-entrevista-a-la-artista-claudia-moreno-pastenes-lo-performativo-atraviesa-nuestro-pensamiento-artistico/
 cover: /blog/apuntes/ch-aco-2024-entrevista-a-la-artista-claudia-moreno-pastenes-lo-performativo-atraviesa-nuestro-pensamiento-artistico/Claudia-Moreno-scaled.jpg

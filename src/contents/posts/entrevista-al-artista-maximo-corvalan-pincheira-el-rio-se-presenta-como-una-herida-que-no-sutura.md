@@ -4,6 +4,7 @@ published: 2023-12-19
 description: Artículo publicado en Culturizarte
 tags: []
 category: Culturizarte
+showFeaturedImage: true
 author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/entrevista-al-artista-maximo-corvalan-pincheira-el-rio-se-presenta-como-una-herida-que-no-sutura/
 cover: /blog/apuntes/entrevista-al-artista-maximo-corvalan-pincheira-el-rio-se-presenta-como-una-herida-que-no-sutura/IMG-20231219-WA0004-scaled.jpg

@@ -17,6 +17,7 @@ export interface Props {
   tags?: string[];
   description?: string;
   image?: string;
+  objectPosition?: string;
   readingMetadata: { time: number; wordCount: number };
 }
 
@@ -38,6 +39,7 @@ const { time, wordCount } = props.readingMetadata;
       class="lozad absolute left-0 top-0 h-full w-full rounded-t-3xl object-cover lg:hidden"
       data-src={props.image ?? GetCoverURLForUnspecifiedEntry(entryID)}
       alt="CoverPost"
+      style={props.objectPosition ? `object-position: ${props.objectPosition}` : undefined}
     />
     <div class="absolute bottom-2 w-full">
       <div class="mx-2 flex flex-row justify-between">
@@ -152,6 +154,7 @@ const { time, wordCount } = props.readingMetadata;
           class="lozad h-[212px] w-[404px] select-none rounded-r-3xl object-cover dark:brightness-90"
           data-src={props.image ?? GetCoverURLForUnspecifiedEntry(entryID)}
           alt="PostCover"
+          style={props.objectPosition ? `object-position: ${props.objectPosition}` : undefined}
         />
       </a>
     </div>

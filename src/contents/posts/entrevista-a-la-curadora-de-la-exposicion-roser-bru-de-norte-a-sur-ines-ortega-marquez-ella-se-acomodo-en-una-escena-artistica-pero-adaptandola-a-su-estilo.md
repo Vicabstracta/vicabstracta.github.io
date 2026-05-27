@@ -4,6 +4,7 @@ published: 2024-02-01
 description: Artículo publicado en Culturizarte
 tags: []
 category: Culturizarte
+showFeaturedImage: true
 author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/entrevista-a-la-curadora-de-la-exposicion-roser-bru-de-norte-a-sur-ines-ortega-marquez-ella-se-acomodo-en-una-escena-artistica-pero-adaptandola-a-su-estilo/
 cover: /blog/apuntes/entrevista-a-la-curadora-de-la-exposicion-roser-bru-de-norte-a-sur-ines-ortega-marquez-ella-se-acomodo-en-una-escena-artistica-pero-adaptandola-a-su-estilo/WhatsApp-Image-2024-02-01-at-14.39.46.jpeg
