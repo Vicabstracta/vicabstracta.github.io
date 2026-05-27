@@ -4,9 +4,11 @@ published: 2024-09-23
 description: Artículo publicado en Culturizarte
 tags: []
 category: Culturizarte
+showFeaturedImage: true
 author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/entrevista-a-la-artista-visual-marcela-trujillo-mi-trabajo-no-trata-sobre-el-discurso-sino-que-sobre-las-pinturas-en-si-mismas/
 cover: /blog/apuntes/entrevista-a-la-artista-visual-marcela-trujillo-mi-trabajo-no-trata-sobre-el-discurso-sino-que-sobre-las-pinturas-en-si-mismas/IMG_8137-1-scaled.jpeg
+objectPosition: 50% 38%
 ---
 
 **Por Victoria Abaroa**

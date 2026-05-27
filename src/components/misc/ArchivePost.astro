@@ -5,11 +5,12 @@ import YukinaConfig from "../../../yukina.config";
 export interface Props {
   id: string;
   title: string;
+  titleShortened?: string;
   pubilished: Date;
   tags: string[] | undefined;
 }
 
-const { id, title, pubilished } = Astro.props;
+const { id, title, titleShortened, pubilished } = Astro.props;
 ---
 
 <div class="item">
@@ -37,7 +38,7 @@ const { id, title, pubilished } = Astro.props;
       <p
         class="title truncate font-semibold text-[var(--text-color)] transition-all"
       >
-        {title}
+        {titleShortened ?? title}
       </p>
     </div>
   </a>

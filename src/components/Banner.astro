@@ -6,9 +6,10 @@ export interface Props {
   title?: string;
   subTitle?: string;
   bannerImage?: string;
+  objectPosition?: string;
   slug?: string;
 }
-const { title, subTitle, bannerImage, slug } = Astro.props;
+const { title, subTitle, bannerImage, objectPosition, slug } = Astro.props;
 
 const hasTitle = title !== undefined || subTitle !== undefined;
 const hasHeaderImg = bannerImage !== undefined || slug !== undefined;
@@ -41,6 +42,7 @@ const carouselAnimationTime = `${carouselImgsList.length * 6}s`;
             class="item lozad"
             data-src={bannerImage ?? GetCoverURLForUnspecifiedEntry(slug ?? "")}
             alt="PostCoverr"
+            style={objectPosition ? `object-position: ${objectPosition}` : undefined}
           />
         </div>
       )

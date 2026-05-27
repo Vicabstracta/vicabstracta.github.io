@@ -7,6 +7,8 @@ interface Props {
   title?: string;
   subTitle?: string;
   bannerImage?: string;
+  showFeaturedImage?: boolean;
+  objectPosition?: string;
   published?: Date;
   license?: {
     name: string;
@@ -20,6 +22,8 @@ const {
   title,
   subTitle,
   bannerImage,
+  showFeaturedImage,
+  objectPosition,
   published,
   license,
   author,
@@ -27,7 +31,7 @@ const {
 } = Astro.props;
 ---
 
-<Main title={title} subTitle={subTitle} bannerImage={bannerImage}>
+<Main title={title} subTitle={subTitle} bannerImage={bannerImage} showFeaturedImage={showFeaturedImage} objectPosition={objectPosition}>
   <!-- <Fragment set:html={tocHTMLString} /> -->
   <div class="article-wrapper">
     <div class="article">

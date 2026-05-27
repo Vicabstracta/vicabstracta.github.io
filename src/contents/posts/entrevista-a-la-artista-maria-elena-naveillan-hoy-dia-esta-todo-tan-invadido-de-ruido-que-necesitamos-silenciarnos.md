@@ -4,9 +4,11 @@ published: 2024-02-08
 description: Artículo publicado en Culturizarte
 tags: []
 category: Culturizarte
+showFeaturedImage: true
 author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/entrevista-a-la-artista-maria-elena-naveillan-hoy-dia-esta-todo-tan-invadido-de-ruido-que-necesitamos-silenciarnos/
 cover: /blog/apuntes/entrevista-a-la-artista-maria-elena-naveillan-hoy-dia-esta-todo-tan-invadido-de-ruido-que-necesitamos-silenciarnos/MEN-recorte.jpeg
+objectPosition: 50% 30%
 ---
 
 **Por Victoria Abaroa** 

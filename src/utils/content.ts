@@ -7,6 +7,7 @@ import createSlug from "../lib/createSlug"
  */
 export interface Archive {
   title: string;
+  titleShortened?: string;
   id: string;
   date: Date;
   tags?: string[];
@@ -86,6 +87,7 @@ export async function GetArchives() {
     }
     archives.get(year)!.push({
       title: post.data.title,
+      titleShortened: post.data.titleShortened,
       id: `/posts/${createSlug(post.data.title)}`,
       date: date,
       tags: post.data.tags,
@@ -128,6 +130,7 @@ export async function GetTags() {
       }
       tags.get(tagSlug)!.posts.push({
         title: post.data.title,
+        titleShortened: post.data.titleShortened,
         id: `/posts/${createSlug(post.data.title)}`,
         date: new Date(post.data.published),
         tags: post.data.tags,
@@ -166,6 +169,7 @@ export async function GetCategories() {
     }
     categories.get(categorySlug)!.posts.push({
       title: post.data.title,
+      titleShortened: post.data.titleShortened,
       id: `/posts/${createSlug(post.data.title)}`,
       date: new Date(post.data.published),
       tags: post.data.tags,

@@ -4,9 +4,11 @@ published: 2024-03-22
 description: Artículo publicado en Culturizarte
 tags: []
 category: Culturizarte
+showFeaturedImage: true
 author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/ch-aco-2024-entrevista-a-la-artista-pia-aldana-la-fragilidad-de-la-ceramica-escultorica-refleja-la-vulnerabilidad-de-nuestro-medio-ambiente/
 cover: /blog/apuntes/ch-aco-2024-entrevista-a-la-artista-pia-aldana-la-fragilidad-de-la-ceramica-escultorica-refleja-la-vulnerabilidad-de-nuestro-medio-ambiente/PIA-ALDANA-scaled.jpg
+objectPosition: 50% 48%
 ---
 
 **Por Victoria Abaroa** 

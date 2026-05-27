@@ -11,6 +11,8 @@ export interface Props {
   title?: string;
   subTitle?: string;
   bannerImage?: string;
+  showFeaturedImage?: boolean;
+  objectPosition?: string;
   slug?: string;
 }
 
@@ -25,7 +27,8 @@ const props = Astro.props;
       <Banner
         title={props.title}
         subTitle={props.subTitle}
-        /*bannerImage={props.bannerImage}*/ //Disabled banner image overriding.
+        bannerImage={props.showFeaturedImage ? props.bannerImage : undefined}
+        objectPosition={props.objectPosition}
         slug={props.slug}
       />
     )
