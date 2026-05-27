@@ -50,8 +50,10 @@ const YukinaConfig: Configuration = {
   ],
 
   banners_carousel: [
-    "/color_1.webp",
-    "/color_2.webp",
+    "/light.webp",
+    "/goya.webp",
+    "/dark.webp",
+    "/goya.webp",
   ],
 
   slugMode: "HASH", // 'RAW' | 'HASH'
