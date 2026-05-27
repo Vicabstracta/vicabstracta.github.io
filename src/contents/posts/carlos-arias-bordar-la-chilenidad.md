@@ -41,7 +41,7 @@ Generalmente se iba por la calle Juan Moya, hacia Irarrázaval, pero hasta ese m
     </figcaption>
 </figure>
 
-Reforzar los recuerdos con hilo
+### Reforzar los recuerdos con hilo
 
 En el texto titulado Cuando la Memoria pende de un hilo, Nelly Richard plantea que “el tacto del bordar a mano el dato referencial (un nombre, un lugar, una fecha de ejecución política) rellenándolo con hilos tan amarrados a la tela que se vuelve inseparable de su urdimbre, hace de conjura para que este dato de referencia no termine vaciado como cifra o como número en el universo estadístico -indiferente- de la desaparición masiva”. Efectivamente, la naturaleza de bordado de tales imágenes textuales pareciera incrementar su poder, permitiendo revelar la humanidad detrás de los datos.
 
@@ -111,13 +111,13 @@ Carlos llegó a temer que su bordado pudiera ser interpretado como una expresió
     </figcaption>
 </figure>
 
-Vaivenes (Vas y vienes)
+### Vaivenes (Vas y vienes)
 
 Hasta el día de hoy, Carlos Arias no tiene muy claro si fue parte del Frente Patriótico Manuel Rodríguez o no. Solo sabe que en 1983 se reunió unas cuantas veces con un grupo de jóvenes que estaba en contra de la dictadura de Pinochet. La inscripción en aquella agrupación política, realizada por un primo de segundo grado, y el llamado a participar como personaje extra de nacionalidad chilena en la película Missing, habían empujado al artista a contemplar la idea de regresar al país del que había huido junto a su familia a los 10 años.
 
 A estas razones se sumaba un deseo de independencia de sus padres y la expectativa de que el gobierno de Pinochet ya estuviera cercano a su fin. En 1988, tras terminar sus estudios en Chile, Carlos regresó a México para cursar un posgrado en la Escuela Nacional de Artes Plásticas de la UNAM, y se quedó viviendo allí. No obstante, Chile se mantuvo como una presencia constante, cuya memoria se colaba silente entre los hilos de algunos bordados.
 
-– ¿Aprendiste algo nuevo de tu chilenidad mediante esta muestra?
+**– ¿Aprendiste algo nuevo de tu chilenidad mediante esta muestra?**
 
 — Redescubrí una distancia con los chilenos. Siempre me sentí lejano, pero no entendía realmente por qué, ni dónde residía esa distancia. No sabía si se trataba de una especie de patudez de mi parte, un desinterés, o la búsqueda de un estatuto personal fuera de Chile. Sin embargo, después me di cuenta de que sí hay un sentido de distancia, pero que lo tienen los propios chilenos.
 
@@ -157,7 +157,7 @@ Esta misma actitud de aceptación distingue a Carlos Arias cuando se refiere a l
     </figcaption>
 </figure>
 
-Pasado encontrado (o punto atrás)
+### Pasado encontrado (o punto atrás)
 
 Carlos Arias aprendió a bordar en kínder. Al igual que sus compañeros, recibió un cartón con el dibujo de un pato y un ovillo de lana. La imagen estaba conformada por puntitos mediante los cuales aprendió que tenía que hincar la aguja por donde había sacado el hilo en la puntada anterior. Se trataba del movimiento más básico dentro del mundo del bordado, y recibe el nombre de pasado encontrado o punto atrás. Hoy, más de cinco décadas después de haber aprendido la técnica, el pasado encontrado sigue siendo una de las únicas dos puntadas conocidas por el artista, que se limita a utilizar esta y la que se usa en los ojales de las camisas.
 
@@ -179,7 +179,7 @@ Arias dispone de más tiempo tras haberse retirado de la docencia, un factor que
 
 — Aunque el bordado es muy lento, una vez que lo planteas ya no tienes que volver a pensar: el cerebro comienza a funcionar de manera mecánica y la reflexión se va a un ámbito más personal, político, lo que tú quieras. En cambio, en la pintura siempre está presente esta materialidad que hay que estar trabajando. Tienes que estar siempre alerta, como si fueras un actor suplente que tiene que estar disponible si se enferma el protagonista de la telenovela.
 
-— ¿Crees que empezar a bordar cambió tu estructura de personalidad?
+**— ¿Crees que empezar a bordar cambió tu estructura de personalidad?**
 
 Sí, por supuesto que sí. Me trajo mi lado campesino, esa cosa como agraria, doméstica, de la casa, del jardín, el taller, los libros, los materiales, los seres queridos, mis estudiantes, mis colegas. Como que todo se hizo más armónico porque se hizo más lento, más de observar el entorno y no de esperar con ansias ningún resultado.
 

@@ -8,6 +8,7 @@ showFeaturedImage: true
 author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/festival-aprender-entrevista-a-la-escritora-andrea-jeftanovic-la-literatura-el-arte-el-cine-no-estan-hechos-para-buenas-acciones-para-eso-esta-la-vida/
 cover: /blog/apuntes/festival-aprender-entrevista-a-la-escritora-andrea-jeftanovic-la-literatura-el-arte-el-cine-no-estan-hechos-para-buenas-acciones-para-eso-esta-la-vida/1704923506030-scaled.jpg
+objectPosition: 50% 55%
 ---
 
 **Foto: Julia Toro**

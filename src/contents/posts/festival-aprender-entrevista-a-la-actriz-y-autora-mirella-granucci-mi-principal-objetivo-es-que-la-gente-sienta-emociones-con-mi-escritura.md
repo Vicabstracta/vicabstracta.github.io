@@ -8,6 +8,7 @@ showFeaturedImage: true
 author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/entrevista-a-la-actriz-y-autora-mirella-granucci-creo-que-el-sabor-de-la-soledad-es-algo-que-fue-cambiando-con-el-tiempo-y-hoy-me-parece-riquisimo/
 cover: /blog/apuntes/festival-aprender-entrevista-a-la-actriz-y-autora-mirella-granucci-mi-principal-objetivo-es-que-la-gente-sienta-emociones-con-mi-escritura/IMG_20240107_142820-01-scaled.jpeg
+objectPosition: 50% 60%
 ---
 
 **Por Victoria Abaroa**

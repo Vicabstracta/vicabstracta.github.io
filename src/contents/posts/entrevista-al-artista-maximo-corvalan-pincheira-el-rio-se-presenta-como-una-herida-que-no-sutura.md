@@ -8,6 +8,7 @@ showFeaturedImage: true
 author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/entrevista-al-artista-maximo-corvalan-pincheira-el-rio-se-presenta-como-una-herida-que-no-sutura/
 cover: /blog/apuntes/entrevista-al-artista-maximo-corvalan-pincheira-el-rio-se-presenta-como-una-herida-que-no-sutura/IMG-20231219-WA0004-scaled.jpg
+objectPosition: 50% 40%
 ---
 
 **Por Victoria Abaroa**

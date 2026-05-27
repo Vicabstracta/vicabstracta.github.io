@@ -8,6 +8,7 @@ showFeaturedImage: true
 author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/festival-aprender-entrevista-al-escritor-felipe-cussen-no-conozco-otra-manera-mejor-de-ensenar-lo-que-me-interesa-que-mostrandolo/
 cover: /blog/apuntes/festival-aprender-entrevista-al-escritor-felipe-cussen-no-conozco-otra-manera-mejor-de-ensenar-lo-que-me-interesa-que-mostrandolo/1704888392165-scaled.jpg
+objectPosition: 50% 40%
 ---
 
 **Por Victoria Abaroa**
