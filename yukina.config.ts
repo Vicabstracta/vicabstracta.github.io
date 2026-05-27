@@ -2,8 +2,8 @@ import I18nKeys from "./src/locales/keys";
 import type { Configuration } from "./src/types/config";
 
 const YukinaConfig: Configuration = {
-  title: "vicabstracta",
-  subTitle: "Ensayos, reseñas y entrevistas en profundidad",
+  title: "Ojos de Perro",
+  subTitle: "by vicabstracta",
   brandTitle: "",
 
   description: "Ensayos, reseñas y entrevistas en profundidad acerca de artes visuales.",
