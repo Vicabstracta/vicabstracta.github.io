@@ -12,6 +12,7 @@ import createSlug from "../lib/createSlug"
 export interface Props {
   id: string;
   title: string;
+  titleShortened?: string;
   published: Date;
   category?: string;
   tags?: string[];
@@ -74,7 +75,7 @@ const { time, wordCount } = props.readingMetadata;
         >
         </div>
         <a href={contentUrl} class="title">
-          <p class="truncate">{props.title}</p>
+          <p class="truncate">{props.titleShortened ?? props.title}</p>
           <Icon
             name="cuida:caret-right-outline"
             class="translate-y-[0.07rem] text-[var(--primary-color)]"
