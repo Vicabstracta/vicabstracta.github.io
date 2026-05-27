@@ -50,10 +50,10 @@ const YukinaConfig: Configuration = {
   ],
 
   banners_carousel: [
-    "/light.webp",
-    "/goya.webp",
-    "/dark.webp",
-    "/goya.webp",
+    { src: "/light.webp", focalPoint: "50% 50%" },
+    { src: "/goya.webp", focalPoint: "50% 40%", cropPosition: "50% 40%" },
+    { src: "/dark.webp", focalPoint: "50% 50%" },
+    { src: "/goya.webp", focalPoint: "50% 40%", cropPosition: "50% 40%" },
   ],
 
   slugMode: "HASH", // 'RAW' | 'HASH'

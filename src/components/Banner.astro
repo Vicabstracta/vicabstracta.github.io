@@ -27,8 +27,12 @@ const carouselAnimationTime = `${carouselImgsList.length * 6}s`;
             {carouselImgsList.map((img, index) => (
               <li
                 class="item lozad"
-                style={{ animationDelay: `${index * 6}s` }}
-                data-background-image={img}
+                style={{
+                  animationDelay: `${index * 6}s`,
+                  transformOrigin: img.focalPoint ?? "50% 50%",
+                  backgroundPosition: img.cropPosition ?? "50% 50%",
+                }}
+                data-background-image={img.src}
               />
             ))}
           </ul>
@@ -161,7 +165,7 @@ const carouselAnimationTime = `${carouselImgsList.length * 6}s`;
   }
 
   .carousel .item {
-    @apply absolute left-0 top-0 z-0 h-full w-full origin-center bg-cover bg-center bg-no-repeat opacity-0;
+    @apply absolute left-0 top-0 z-0 h-full w-full bg-cover bg-no-repeat opacity-0;
     animation: carousel-animation var(--carouselAnimationTime) linear infinite
       0s;
     backface-visibility: hidden;
