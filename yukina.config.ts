@@ -2,8 +2,8 @@ import I18nKeys from "./src/locales/keys";
 import type { Configuration } from "./src/types/config";
 
 const YukinaConfig: Configuration = {
-  title: "vicabstracta",
-  subTitle: "Ensayos, reseñas y entrevistas en profundidad",
+  title: "Ojos de Perro",
+  subTitle: "by vicabstracta",
   brandTitle: "",
 
   description: "Ensayos, reseñas y entrevistas en profundidad acerca de artes visuales.",
@@ -50,8 +50,10 @@ const YukinaConfig: Configuration = {
   ],
 
   banners_carousel: [
-    "/color_1.webp",
-    "/color_2.webp",
+    { src: "/light.webp", focalPoint: "50% 50%" },
+    { src: "/goya.webp", focalPoint: "50% 40%", cropPosition: "50% 40%" },
+    { src: "/dark.webp", focalPoint: "50% 50%" },
+    { src: "/goya.webp", focalPoint: "50% 40%", cropPosition: "50% 40%" },
   ],
 
   slugMode: "HASH", // 'RAW' | 'HASH'
