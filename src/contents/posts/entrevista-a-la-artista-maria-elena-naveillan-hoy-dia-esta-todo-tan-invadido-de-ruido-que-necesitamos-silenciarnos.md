@@ -1,7 +1,8 @@
 ---
 title: "Entrevista a la artista María Elena Naveillan: “Hoy día está todo tan invadido de ruido que necesitamos silenciarnos”"
+titleShortened: "Silencio en medio del ruido"
 published: 2024-02-08
-description: Artículo publicado en Culturizarte
+description: Entrevista a la artista María Elena Naveillan
 tags: []
 category: Culturizarte
 showFeaturedImage: true
@@ -11,11 +12,11 @@ cover: /blog/apuntes/entrevista-a-la-artista-maria-elena-naveillan-hoy-dia-esta-
 objectPosition: 50% 30%
 ---
 
-**Por Victoria Abaroa** 
+**Por Victoria Abaroa**
 
 **La artista chilena, María Elena Naveillan, se sumerge en la creación artística con una dedicación excepcional, llegando a invertir múltiples meses en una única obra. Inmersa en la soledad y en el silencio de su estudio, va ensamblando meticulosamente letras de papel para componer un sólido discurso acerca de la recuperación del lenguaje auténtico. Para María Elena, la esencia genuina de la comunicación se desdibuja en muchos aspectos de la vida cotidiana, aunque permanece inalterada en el ámbito de las artes visuales. Este espacio sagrado nos permite evadirnos del bullicio diario, marcado por la aceleración de la globalización y la inmediatez de las redes sociales.**
 
-**Del 7 al 11 de febrero, la artista presentará su visión crítica en la Feria de arte contemporáneo, Zona Maco, que se desarrollará en Ciudad de México. Acompañada por otras dos artistas que exploran la temática del lenguaje, María Elena busca inspirar a los espectadores a sumergirse en un momento de pausa, reflexión y silencio.** 
+**Del 7 al 11 de febrero, la artista presentará su visión crítica en la Feria de arte contemporáneo, Zona Maco, que se desarrollará en Ciudad de México. Acompañada por otras dos artistas que exploran la temática del lenguaje, María Elena busca inspirar a los espectadores a sumergirse en un momento de pausa, reflexión y silencio.**
 
 **Tu obra aborda el concepto de lenguaje a través de una variedad de alfabetos. ¿Cómo comenzaste a investigar la temática de la comunicación?**
 
@@ -48,5 +49,3 @@ Sí, Florencia Pozo trabaja mucho con las cápsulas, para referirse a la problem
 **7 al 11 de abril**
 
 **Booth Sur 14 , Centro Citibanamex, Ciudad de México.**
-
- 

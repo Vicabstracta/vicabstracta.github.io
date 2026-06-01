@@ -1,7 +1,8 @@
 ---
 title: "Ch.ACO 2024 Entrevista al artista Alan Martí: “Me interesa que la audiencia experimente cierta incomodidad”"
+titleShortened: "Cierta incomodidad"
 published: 2024-03-22
-description: Artículo publicado en Culturizarte
+description: Ch.ACO 2024 Entrevista al artista Alan Martí
 tags: []
 category: Culturizarte
 showFeaturedImage: true
@@ -15,7 +16,7 @@ objectPosition: 50% 30%
 
 **A través de tres pinturas inquietantes, Alan Martí establece un ambiente ligeramente perturbador en una de las esquinas del stand del Colectivo Punto Ciego, en Feria Ch.ACO. Empleando recursos plásticos como el chorreo en la pintura, y la intervención de imágenes históricas pasadas por el filtro de un sistema de inteligencia artificial, las obras del artista se presentan como un estímulo para la generación libre de narrativas. Aunque su aspecto sugerente parece anticipar la creación de un relato siniestro.**
 
-**¿Cuál es tu propuesta respecto al tema del control? Porque pareciera ser un tema recurrente en tus pinturas. Acá en la feria, por ejemplo, podemos ver que una de las escenas se desarrolla al interior de una fábrica, donde vemos gente trabajando, manipulando trenes o computadores.** 
+**¿Cuál es tu propuesta respecto al tema del control? Porque pareciera ser un tema recurrente en tus pinturas. Acá en la feria, por ejemplo, podemos ver que una de las escenas se desarrolla al interior de una fábrica, donde vemos gente trabajando, manipulando trenes o computadores.**
 
 Sí. En este caso, hay una obra que se desarrolla en un ambiente industrial que está titulada *La factoría*, el qué están haciendo los personajes exactamente en dentro de ese lugar queda insinuado. Me gusta crear escenas con un relato abierto a la interpretación del espectador, yo me limito a sugerir una temática. La pintura misma y cómo está ejecutada la obra, me parece muy importante para provocar los estímulos narrativos. Me refiero a elementos como la materialidad, las distintas capas de pintura y sus chorreos.
 
@@ -54,5 +55,3 @@ Porque muchas de las obras pueden dar con la idea de que hay algo que no se est�
 **Centro GAM**
 
 **21-24 marzo**
-
- 

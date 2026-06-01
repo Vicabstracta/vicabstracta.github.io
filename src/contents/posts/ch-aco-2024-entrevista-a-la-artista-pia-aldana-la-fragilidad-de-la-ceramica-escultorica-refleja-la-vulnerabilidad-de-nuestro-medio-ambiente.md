@@ -1,7 +1,8 @@
 ---
 title: "Ch.ACO 2024 Entrevista a la artista Pía Aldana: “La fragilidad de la cerámica escultórica refleja la vulnerabilidad de nuestro medio ambiente”"
+titleShortened: "La fragilidad de la cerámica"
 published: 2024-03-22
-description: Artículo publicado en Culturizarte
+description: Ch.ACO 2024 Entrevista a la artista Pía Aldana
 tags: []
 category: Culturizarte
 showFeaturedImage: true
@@ -11,15 +12,15 @@ cover: /blog/apuntes/ch-aco-2024-entrevista-a-la-artista-pia-aldana-la-fragilida
 objectPosition: 50% 48%
 ---
 
-**Por Victoria Abaroa** 
+**Por Victoria Abaroa**
 
-**Delicadas piezas de porcelana en tonos pastel cuelgan en una esquina del stand 4, de la Feria Ch.ACO, perteneciente al Colectivo Confluencia. De lejos, las obras se perciben como elementos decorativos, pero al acercarse a ellas, y leer los textos que las acompañan, es posible descubrir su función como artefactos que buscan generar una advertencia respecto al medio ambiente. Así, la artista Pía Aldana se sirve del arte de manera estratégica, cautivando a los espectadores mediante formas seductoras que gatillan un espacio de profunda reflexión.** 
+**Delicadas piezas de porcelana en tonos pastel cuelgan en una esquina del stand 4, de la Feria Ch.ACO, perteneciente al Colectivo Confluencia. De lejos, las obras se perciben como elementos decorativos, pero al acercarse a ellas, y leer los textos que las acompañan, es posible descubrir su función como artefactos que buscan generar una advertencia respecto al medio ambiente. Así, la artista Pía Aldana se sirve del arte de manera estratégica, cautivando a los espectadores mediante formas seductoras que gatillan un espacio de profunda reflexión.**
 
 **Tus obras tienen una alta presencia de elementos naturales ¿ese interés proviene desde tu infancia o surge en un momento posterior?**
 
 Siempre he tenido un vínculo súper cercano con la naturaleza. Sin embargo, creo que en este momento histórico se hace urgente relevar al medio ambiente, instalándolo en el centro de la conversación. Esto porque, mediante nuestro excesivo extractivismo, hemos suscitado una serie de desequilibrios significativos. Tenemos que recordar que los seres humanos no tenemos la hegemonía de lo sintiente, pues compartimos espacio con muchos otros seres, a los que hemos devastado de una manera considerable. Por lo que, de forma muy consciente y reflexiva, trabajo grandes cuerpos de obra en torno a la naturaleza.
 
-**¿Alguien te ha comentado alguna vez que siente que ve el mundo que le rodea de manera diferente después de contemplar tus obras?** 
+**¿Alguien te ha comentado alguna vez que siente que ve el mundo que le rodea de manera diferente después de contemplar tus obras?**
 
 Hay un comentario muy lindo que me llegó en una exposición que hice el año pasado, en donde había un gran cuerpo flotante y muchas especies, tanto de flora como de fauna. Recuerdo que una señora dejó un mensaje en el que contaba que, desde muy pequeña, ella le había tenido pánico a la naturaleza. No obstante, al entrar a mi muestra se sintió en calma. Yo creo que eso es algo súper importante. Además, considero que los textos que acompañan a mis obras también contribuyen a la reflexión.
 
@@ -35,7 +36,7 @@ La fragilidad de la cerámica escultórica refleja la vulnerabilidad de nuestro 
 
 Yo creo que cada artista va configurando el espacio de acuerdo con su experiencia previa, y de acuerdo con las obras específicas que va a instalar. En mi caso, todas las piezas forman parte de proyectos más amplios. Por ejemplo, el conjunto completo de las esculturas aéreas que se muestran aquí consta de más de 200 componentes, aunque en esta ocasión solo se exhiben 35. Todos los artistas adaptamos nuestro trabajo al espacio disponible, buscando dialogar con nuestros colegas al crear una experiencia estéticamente armoniosa para el público que visita la exposición.
 
-**¿Cuál es tu razón para trabajar, principalmente, con colores pastel?** 
+**¿Cuál es tu razón para trabajar, principalmente, con colores pastel?**
 
 Ocurre que los grises coloreados te permiten dos cosas: primero, que las personas se detengan por más tiempo, y segundo, que tomen más atención a la forma. Si te fijas, mi obra está llena de detalles y taxonomías, porque cada planta tiene una forma muy particular. A menudo, cuando vemos un follaje, parece todo una cosa unida, pero si te acercas te das cuenta de que hay cientos de especies que son muy particulares y únicas. Al eliminar el color y detenerme en la forma, busco que las personas tomen atención en ellas. Para lograrlo, también recurro a modificar la escala, por ejemplo, las semillas de romerillo en su estado natural miden 5 milímetros, yo aquí las presento en un formato de 15 centímetros.
 
@@ -48,5 +49,3 @@ Creo que mis tres compañeros de aventura y yo logramos confluir, aunque resonan
 **Centro GAM**
 
 **21-24 Marzo**
-
- 

@@ -1,7 +1,8 @@
 ---
 title: "Desafiando Taxonomías Coloniales. Una Conversación Con Claudia Coca"
+titleShortened: Desafiando Taxonomías Coloniales
 published: 2023-11-22
-description: Artículo publicado en Artishock Revista
+description: Una Conversación Con Claudia Coca
 tags: []
 category: Artishock
 author: Victoria Abaroa

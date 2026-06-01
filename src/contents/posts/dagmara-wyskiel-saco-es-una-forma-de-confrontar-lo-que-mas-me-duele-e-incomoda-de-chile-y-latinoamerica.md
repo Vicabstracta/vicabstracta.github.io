@@ -1,8 +1,8 @@
 ---
-title: "Dagmara Wyskiel: Saco Es Una Forma De Confrontar Lo Que Más Me Duele E Incomoda De Chile Y Latinoamérica"
+title: "Dagmara Wyskiel y la Bienal SACO 2025"
 published: 2025-01-27
-description: Artículo publicado en Artishock Revista
-tags: []
+description: "El desierto como un laboratorio para imaginar utopías"
+tags: [Entrevista]
 category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2025/01/27/dagmara-wyskiel-saco-2025/

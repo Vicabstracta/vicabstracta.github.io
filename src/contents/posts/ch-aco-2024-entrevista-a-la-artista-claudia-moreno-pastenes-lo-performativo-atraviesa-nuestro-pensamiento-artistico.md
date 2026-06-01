@@ -1,8 +1,9 @@
 ---
 title: "Ch.ACO 2024 Entrevista a la artista Claudia Moreno Pastenes: “Lo performativo atraviesa nuestro pensamiento artístico”"
+titleShortened: "Performaividad en el pensamiento"
 published: 2024-03-25
-description: Artículo publicado en Culturizarte
-tags: []
+description: "Ch.ACO 2024: Claudia Moreno Pastenes"
+tags: [Entrevista]
 category: Culturizarte
 showFeaturedImage: true
 author: "Victoria Abaroa"
@@ -45,5 +46,3 @@ Sí, sin duda. Como autora, pienso el paisaje como un intersticio, un planteamie
 **Centro GAM**
 
 **21-24 marzo**
-
- 

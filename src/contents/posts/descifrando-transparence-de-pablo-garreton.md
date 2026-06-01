@@ -1,7 +1,8 @@
 ---
 title: 'Descifrando "Transparence" de Pablo Garretón'
+titleShortened: Descifrando "Transparence"
 published: 2025-01-16
-description: Artículo publicado en Mediales.art
+description: Pablo Garretón y la paradoja de la transparencia
 tags: []
 category: Mediales.art
 author: "Victoria Abaroa"

@@ -1,7 +1,8 @@
 ---
-title: "Mónica Bengoa: De Los Tiempos A Ras De Suelo"
+title: "de los tiempos a ras de suelo"
+titleShortened:  "de los tiempos a ras de suelo"
 published: 2025-01-08
-description: Artículo publicado en Artishock Revista
+description: Mónica Bengoa y la bótanica del instante
 tags: []
 category: Artishock
 author: Victoria Abaroa

@@ -1,8 +1,8 @@
 ---
-title: "Carlos Arias. Bordar La Chilenidad"
+title: "Bordar La Chilenidad"
 published: 2023-10-26
-description: Artículo publicado en Artishock Revista
-tags: []
+description: Los entramados rebeldes de Carlos Arias
+tags: [Entrevista]
 category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2023/10/26/carlos-arias-bordar-la-chilenidad/

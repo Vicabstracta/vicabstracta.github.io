@@ -1,8 +1,8 @@
 ---
 title: En el espacio del dolor
 published: 2025-07-27
-description: Instalación de Joseph Beuys en caixaforum
-tags: [Instalación, Ensayo]
+description: La instalación de Joseph Beuys en el Caixaforum de Barcelona
+tags: [Microensayo]
 category: Inédito
 licenseName: CC BY-NC-ND 4.0
 licenseUrl: https://creativecommons.org/licenses/by-nc-nd/4.0/

@@ -1,7 +1,7 @@
 ---
 title: "Fixilan. Tierra De Sanación"
 published: 2025-01-02
-description: Artículo publicado en Artishock Revista
+description: El fantástico universo visual de Paloma Maturana
 tags: []
 category: Artishock
 author: Victoria Abaroa

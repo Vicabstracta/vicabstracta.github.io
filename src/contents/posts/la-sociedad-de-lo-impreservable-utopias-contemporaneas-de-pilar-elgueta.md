@@ -1,8 +1,9 @@
 ---
 title: "La Sociedad de lo Impreservable: utopías contemporáneas de Pilar Elgueta"
+titleShortened: La Sociedad de lo Impreservable
 published: 2025-09-22
-description: Artículo publicado en Mediales.art
-tags: []
+description: Las utopías contemporáneas de Pilar Elgueta
+tags: [Entrevista]
 category: Mediales.art
 author: "Victoria Abaroa"
 sourceLink: https://www.mediales.art/articulos/la-sociedad-de-lo-impreservable-pilar-elgueta
@@ -13,21 +14,21 @@ cover: /blog/apuntes/la-sociedad-de-lo-impreservable-utopias-contemporaneas-de-p
 
 ---
 
-Pilar Elgueta concibe sus exposiciones como películas: “Cada una tiene su propia paleta de colores y narrativa. Cada muestra añade contenido y profundidad al mensaje que quiero comunicar”, explica. En el caso de ***51,49943º N, 0,14098º O***, la paleta cromática fue inspirada en la casa situada en las coordenadas geográficas que dan nombre a la exposición. Se trata de la sede de Delfina Foundation, donde la artista llevó a cabo una residencia de tres meses, con el apoyo de la beca otorgada por Artus Chile. Durante ese periodo, Pilar se reunió con curadores e intelectuales, además de artistas consagrados y emergentes. 
+Pilar Elgueta concibe sus exposiciones como películas: “Cada una tiene su propia paleta de colores y narrativa. Cada muestra añade contenido y profundidad al mensaje que quiero comunicar”, explica. En el caso de ***51,49943º N, 0,14098º O***, la paleta cromática fue inspirada en la casa situada en las coordenadas geográficas que dan nombre a la exposición. Se trata de la sede de Delfina Foundation, donde la artista llevó a cabo una residencia de tres meses, con el apoyo de la beca otorgada por Artus Chile. Durante ese periodo, Pilar se reunió con curadores e intelectuales, además de artistas consagrados y emergentes.
 
 Presentó fragmentos de ***Por el todo***, ***Voy en delgadez de niebla*** y ***Cuerpos de agua: prólogo***. El primero sirvió como punto de partida de su trabajo, mientras que el último correspondía a su creación más reciente. Los tres proyectos se vinculan por su énfasis en el lenguaje, la presencia del agua, y su condición de “actos fallidos”.
 
-En ***Por el todo***, una pintura de un iceberg se enfrenta a un témpano de hielo real: la obra se evidencia así como réplica imperfecta. En ***Voy en delgadez de niebla***, la voz de Gabriela Mistral recita el poema *Hallazgo*, donde evoca su nostalgia por el paisaje chileno, un territorio distante por sus años de residencia en el extranjero como diplomática. El texto se presenta mediante letreros LED que son cargados por un conjunto de cuatro personas que avanzan por colinas desérticas. La artista los describe como una “suerte astronautas en un estado distópico”. Al anochecer, los portadores conectaban sus carteles y el poema se leía con claridad: *Voy en delgadez de niebla pero sin embargo llevo las facciones de mi cara, lo quebrantado del peso, intacta la voluntad*. Para Pilar, el fragmento seleccionado condensa la esencia del ser humano como único elemento de continuidad en un mundo en constante cambio. Finalmente, en ***Cuerpos de agua: prólogo***, la artista explora la transformación a través de un molde de hielo de su brazo que se funde con la naturaleza. 
+En ***Por el todo***, una pintura de un iceberg se enfrenta a un témpano de hielo real: la obra se evidencia así como réplica imperfecta. En ***Voy en delgadez de niebla***, la voz de Gabriela Mistral recita el poema *Hallazgo*, donde evoca su nostalgia por el paisaje chileno, un territorio distante por sus años de residencia en el extranjero como diplomática. El texto se presenta mediante letreros LED que son cargados por un conjunto de cuatro personas que avanzan por colinas desérticas. La artista los describe como una “suerte astronautas en un estado distópico”. Al anochecer, los portadores conectaban sus carteles y el poema se leía con claridad: *Voy en delgadez de niebla pero sin embargo llevo las facciones de mi cara, lo quebrantado del peso, intacta la voluntad*. Para Pilar, el fragmento seleccionado condensa la esencia del ser humano como único elemento de continuidad en un mundo en constante cambio. Finalmente, en ***Cuerpos de agua: prólogo***, la artista explora la transformación a través de un molde de hielo de su brazo que se funde con la naturaleza.
 
-Al postular a Delfina, la noción de cambio constante la llevó a idear la ***Sociedad de la Preservación de lo Impreservable***. Al inicio no tenía claro el propósito exacto de la organización, pero sabía que encajaba con la tradición londinense de fundaciones y sociedades. “Siempre me ha gustado esa idea de los funcionarios con uniforme. La idea del estamos trabajando para ustedes, pero no sabemos exactamente en qué”. 
+Al postular a Delfina, la noción de cambio constante la llevó a idear la ***Sociedad de la Preservación de lo Impreservable***. Al inicio no tenía claro el propósito exacto de la organización, pero sabía que encajaba con la tradición londinense de fundaciones y sociedades. “Siempre me ha gustado esa idea de los funcionarios con uniforme. La idea del estamos trabajando para ustedes, pero no sabemos exactamente en qué”.
 
-Para entonces la noción de “utopía contemporánea” ya había aparecido en su trabajo, cuando el cineasta Joaquín Cociña -tras ver su primera muestra individual en el MAVI (2017), realizada en paralelo con la exposición *El fantasma de la utopía* de Arturo Duclos- interpretó su obra en esos términos. Desde ahí, Pilar se interrogó sobre el deseo humano de vivir para siempre, especialmente en un contexto sociopolítico que parecía estable pero que se volvió frágil a la luz de los recientes conflictos internacionales. 
+Para entonces la noción de “utopía contemporánea” ya había aparecido en su trabajo, cuando el cineasta Joaquín Cociña -tras ver su primera muestra individual en el MAVI (2017), realizada en paralelo con la exposición *El fantasma de la utopía* de Arturo Duclos- interpretó su obra en esos términos. Desde ahí, Pilar se interrogó sobre el deseo humano de vivir para siempre, especialmente en un contexto sociopolítico que parecía estable pero que se volvió frágil a la luz de los recientes conflictos internacionales.
 
 Ya en Delfina, comprendió que las conversaciones podían convertirse en su material de trabajo. Aunque sabía que la residencia se enfocaba en el *networking*, no esperaba conversar a menudo con tantas personas. Así, la ***Sociedad de la Preservación de lo Impreservable*** adoptó como práctica principal registrar tanto a personas como a entidades no humanas: desde artistas que trabajan con biomateriales o curadores de lo efímero hasta la misma casa en la que residió. Las transcripciones dieron forma a un archivo de cientos de páginas en expansión, que planea nutrir con entrevistados de Inglaterra y Chile, alojados en una web en constante cambio.
 
 El proceso concluyó en un Open Studio en el que la artista presentó dos pantallas con fragmentos de entrevistas, el video ***Cuerpos de agua: prólogo*** y una instalación sonora. Esta última reproducía el flujo de las cañerías de la residencia, un sonido que se volvió común toda su estadía. “Era un sonido super suave pero incómodo, como el de una radio muy baja en el coche. No es lo suficientemente fuerte para entender la canción, pero tampoco tan bajo como para ignorarlo. Es ese ruido blanco que te obliga a subir el volumen o a apagarlo —explica—. Así me pasaba con el ruido del agua, que era justo el elemento con el que había estado trabajando”.
 
-Casi un año después, este proyecto se traslada a Chile mediante una exposición en Galería NAC dividida en tres etapas, donde transformó la sala en cada inauguración, dejando apenas vestigios de la anterior. 
+Casi un año después, este proyecto se traslada a Chile mediante una exposición en Galería NAC dividida en tres etapas, donde transformó la sala en cada inauguración, dejando apenas vestigios de la anterior.
 
 <figure class="blog-image">
     <img
@@ -37,7 +38,7 @@ Casi un año después, este proyecto se traslada a Chile mediante una exposició
     </figcaption>
 </figure>
 
-La primera etapa del proyecto, inaugurada el 7 de agosto, se articuló bajo la noción de la pregunta como método. Más que ofrecer respuestas cerradas, la sala se configuró como un espacio de incertidumbre: maquetas, bocetos, hojas de cuaderno con diagramas, anotaciones enmarcadas, ladrillos y carteles se disponían como fragmentos de un pensamiento en proceso. 
+La primera etapa del proyecto, inaugurada el 7 de agosto, se articuló bajo la noción de la pregunta como método. Más que ofrecer respuestas cerradas, la sala se configuró como un espacio de incertidumbre: maquetas, bocetos, hojas de cuaderno con diagramas, anotaciones enmarcadas, ladrillos y carteles se disponían como fragmentos de un pensamiento en proceso.
 
 Aquellos carteles, dispuestos en dos hileras sobre una de las paredes de la galería, mostraban una progresión de verbos relacionados con la idea de mantención. La secuencia comenzaba con el concepto más conservador, “preservar”, continuaba con términos como "conservar", "restaurar" y "verse afectado", hasta culminar en "convertirse en eso". Esta progresión resonaba directamente con el video ***Cuerpos de agua: prólogo***, que muestra el vaciado de un molde de hielo que replica su brazo, escena que a su vez entrelaza un texto poético extraído de notas de su investigación.
 

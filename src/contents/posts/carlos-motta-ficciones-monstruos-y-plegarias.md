@@ -1,8 +1,9 @@
 ---
 title: "Carlos Motta. Ficciones, Monstruos Y Plegarias"
+titleShortened: "Ficciones, Monstruos Y Plegarias"
 published: 2025-07-25
-description: Artículo publicado en Artishock Revista
-tags: []
+description: Carlos Motta y sus plegarias de resistencia
+tags: [Artículo]
 category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2025/07/25/carlos-motta-ficciones-monstruos-y-plegarias/

@@ -1,7 +1,8 @@
 ---
 title: "Ch.ACO 2024 Entrevista al poeta Martín Gubbins: “Mi arte se origina en la palabra y luego se expande”"
+titleShortened: "Palabra expansiva"
 published: 2024-03-22
-description: Artículo publicado en Culturizarte
+description: Ch.ACO 2024 Entrevista al poeta Martín Gubbins
 tags: []
 category: Culturizarte
 showFeaturedImage: true
@@ -27,7 +28,7 @@ La idea es que se sepa, porque ese es el origen, pero las piezas también funcio
 
 Algunas sí, cuando las estoy componiendo estoy pensando cómo las voy a leer. En ellas, imagen, lenguaje y sonoridad fueron concebidas en el momento preciso de la composición, y no como un agregado posterior. Sin embargo, hay otras en las que el viaje hacia la abstracción es tan largo que cuando las hice no estaba pensando en cómo las iba a leer, cómo les iba a dar sentido sonoro, pero igualmente he hecho recitales con estas obras, y me he desafiado a leerlas, entonces sí lo he hecho pero no es algo que tuve presente al momento de componerlas.
 
-**Si bien tus obras son súper estéticas, también surgen a partir de una propuesta teórica bastante experimental. ¿Dirías que AFA se caracteriza por trabajar con este tipo de artistas?** 
+**Si bien tus obras son súper estéticas, también surgen a partir de una propuesta teórica bastante experimental. ¿Dirías que AFA se caracteriza por trabajar con este tipo de artistas?**
 
 Creo que AFA ha representado a muchos artistas que trabajan a partir del lenguaje, como Adrian Fisher y Luna Montenegro, que también trabajan con la poesía sonora. Otro artista que tiene mucha obra basada en el lenguaje es Camilo Yáñez, en la lógica del poster, del afiche, del grafiti, que también es una manera en que los pintores han trabajado con el lenguaje en Chile, mediante la inscripción manual sobre la pintura, pero ellos vienen de la disciplina de la artes plásticas, entonces, es distinto. El viaje de ellos es desde la textura, el color y la composición visual, hacia el lenguaje, el viaje mío es al revés, desde la escritura hacia la visualidad y de la visualidad hacia el sonido.
 
@@ -48,5 +49,3 @@ En las sesiones de poesía sonora, al igual que en el arte contemporáneo en gen
 **Centro GAM**
 
 **21-24 de Marzo**
-
- 

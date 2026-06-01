@@ -1,8 +1,8 @@
 ---
-title: Autoretrato con látigo, 1978
+title: Self Portrait With Whip
 published: 2025-05-27
-description: Autoretrato de Robert Mapplethorpe en el Museo del Arte Prohibido
-tags: [Fotografía, Ensayo]
+description: El autoretrato prohibido de Robert Mapplethorpe
+tags: [Fotografía, Microensayo]
 category: Inédito
 licenseName: CC BY-NC-ND 4.0
 licenseUrl: https://creativecommons.org/licenses/by-nc-nd/4.0/

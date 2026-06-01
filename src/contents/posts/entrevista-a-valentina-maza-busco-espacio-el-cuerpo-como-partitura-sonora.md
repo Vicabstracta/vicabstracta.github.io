@@ -1,8 +1,9 @@
 ---
 title: 'Entrevista a Valentina Maza: "Busco espacio", el cuerpo como partitura sonora'
+titleShortened: "El cuerpo como partitura sonora"
 published: 2025-08-11
-description: Artículo publicado en Mediales.art
-tags: []
+description: Cuerpo, arquitectura y sonido en "Busco Espacio" de Valentina Maza
+tags: [Entrevista]
 category: Mediales.art
 author: "Victoria Abaroa"
 sourceLink: https://www.mediales.art/articulos/valentina-maza-busco-espacio
@@ -58,7 +59,7 @@ De todas maneras sigue siendo terapéutico, aunque no lo haya abordado desde un 
 **El reconocimiento de los Premios Pulsar le da fuerza *Busco espacio*, que también es la parte práctica de tu investigación doctoral. ¿Cómo se está desarrollando este proyecto dentro de tu tesis?**  
 La investigación que enmarca el proyecto práctico *Busco espacio* se centra en el rol del intérprete musical dentro del arte sonoro. Tradicionalmente, el intérprete ha sido visto como alguien que ejecuta música, no como un agente activo dentro del arte sonoro. Pero yo propongo que podemos tener un rol significativo al interpretar partituras que se leen desde el instrumento, basándonos en lógicas propias del arte sonoro, no de la música convencional.
 
-Al incorporar la instalación y la performance desde las artes visuales, el cuerpo cobra protagonismo. Eso impulsa al intérprete a generar música desde nuevas formas de habitar, desde nuevas lógicas. Actualmente estoy desarrollando una metodología para expandir *Busco espacio* en futuros ciclos, como una especie de cartografía musical. Estoy creando una maqueta del estanque subterráneo, con una línea de tiempo dividida en tres capas: la partitura del cuerpo en relación con el espacio, los momentos de quietud y desplazamiento, y una representación del lugar mediante colorimetrías y texturas. También estoy anotando inspiraciones y detalles para el diseño escénico. 
+Al incorporar la instalación y la performance desde las artes visuales, el cuerpo cobra protagonismo. Eso impulsa al intérprete a generar música desde nuevas formas de habitar, desde nuevas lógicas. Actualmente estoy desarrollando una metodología para expandir *Busco espacio* en futuros ciclos, como una especie de cartografía musical. Estoy creando una maqueta del estanque subterráneo, con una línea de tiempo dividida en tres capas: la partitura del cuerpo en relación con el espacio, los momentos de quietud y desplazamiento, y una representación del lugar mediante colorimetrías y texturas. También estoy anotando inspiraciones y detalles para el diseño escénico.
 
 Con mi equipo, queremos montar una exposición en el mismo lugar de grabación, donde se reúnan todas las huellas del proceso. La idea es poder reflexionar colectivamente sobre lo que significa habitar un lugar. Así, *Busco espacio* se transformará en una práctica que, al mismo tiempo, es instalación sonora, investigación artística y espacio de encuentro.
 

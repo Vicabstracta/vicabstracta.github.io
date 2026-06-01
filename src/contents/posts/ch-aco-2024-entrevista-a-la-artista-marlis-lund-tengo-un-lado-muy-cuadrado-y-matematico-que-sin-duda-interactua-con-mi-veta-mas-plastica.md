@@ -1,7 +1,8 @@
 ---
 title: "Ch.ACO 2024 Entrevista a la artista Marlis Lund: “Tengo un lado muy cuadrado y matemático que sin duda interactúa con mi veta más plástica”"
+titleShortened: "Cuadrícula plástica"
 published: 2024-03-25
-description: Artículo publicado en Culturizarte
+description: Ch.ACO 2024 Entrevista a la artista Marlis Lund
 tags: []
 category: Culturizarte
 showFeaturedImage: true
@@ -10,17 +11,17 @@ sourceLink: https://culturizarte.cl/ch-aco-2024-entrevista-a-la-artista-marlis-l
 cover: /blog/apuntes/ch-aco-2024-entrevista-a-la-artista-marlis-lund-tengo-un-lado-muy-cuadrado-y-matematico-que-sin-duda-interactua-con-mi-veta-mas-plastica/Marlis-Lund-scaled.jpg
 ---
 
- 
 
-**Por Victoria Abaroa** 
 
-**En el stand de la galería peruana *Marissi Campos*, los visitantes son cautivados por una amplia gama de experiencias sensoriales. La propuesta exhibida incluye obras de diversos formatos que incitan al espectador a involucrarse activamente. Destacándose entre ellas, la artista Marlis Lund presenta una serie de pinturas con formas geométricas tridimensionales y un móvil suspendido en el aire. Cada obra se distingue por sus vibrantes colores, estratégicamente dispuestos para crear ilusiones que intensifican su dinamismo.** 
+**Por Victoria Abaroa**
+
+**En el stand de la galería peruana *Marissi Campos*, los visitantes son cautivados por una amplia gama de experiencias sensoriales. La propuesta exhibida incluye obras de diversos formatos que incitan al espectador a involucrarse activamente. Destacándose entre ellas, la artista Marlis Lund presenta una serie de pinturas con formas geométricas tridimensionales y un móvil suspendido en el aire. Cada obra se distingue por sus vibrantes colores, estratégicamente dispuestos para crear ilusiones que intensifican su dinamismo.**
 
 **¿Describirías las obras que estás presentando aquí como pertenecientes al Arte cinético?**
 
 La verdad es que mi arte es súper difícil de encasillar en un movimiento específico. Considerando que el arte cinético y el geométrico también generan un efecto óptico y juegan con la percepción, mi obra calzaría dentro de estos estilos. Sin embargo, no sé si podría considerarse 100% cinética. No todas las obras que estoy presentando apuntan hacia trabajar los mismos fenómenos que ese tipo de arte.
 
-**¿Cómo describirías la experiencia de interacción entre el espectador y las obras que presentas?** 
+**¿Cómo describirías la experiencia de interacción entre el espectador y las obras que presentas?**
 
 Al ser de naturaleza volumétrica y espacial, especialmente en este caso con el móvil, se crea un recorrido. Me interesa profundamente esa interacción con el espectador, quien puede alternar su mirada de un lado a otro, percibiendo los cambios generados por la incidencia de la iluminación en la obra.
 
@@ -30,7 +31,7 @@ Empecé a trabajar con esto pensando mucho en la proyección del color sobre el 
 
 Al pararse de frente a estas obras, se ven solamente las luces que proyecta, pero al acercarse y recorrer la obra, se puede ver que son solo los cantos los que están pintados. En esa línea, tengo cuadros en los que la disposición de colores permite que se perciba una mezcla en los tonos. Por ejemplo, si dispongo el azul y el amarillo de cierta forma en particular, el espectador podría percibir verde. En realidad la obra no tiene ese color, pero el ojo percibe que sí lo está.
 
-**Los colores de las obras que estás presentando son bien llamativos ¿cómo los eliges?** 
+**Los colores de las obras que estás presentando son bien llamativos ¿cómo los eliges?**
 
 La mayoría de los colores son fluorescentes, porque no todos los colores producen los mismos efectos ópticos. Hace muchos años, al momento de empezar a trabajar con esta técnica, hice unas pruebas con un color de esa naturaleza y me di cuenta de la variedad de efectos que se logra con tonalidades flúor. De hecho, hay unos colores que son más mates, que aunque uno los ilumine muy bien, no generan lo mismo.
 
@@ -38,7 +39,7 @@ La mayoría de los colores son fluorescentes, porque no todos los colores produc
 
 Esta es la primera vez que logro hacerlo. Aunque tenía la idea de hacer una obra más escultórica desde hace bastante tiempo, la verdad es que no había logrado despegarme de la pared. En el caso del móvil me interesa mucho que funciona como una obra que se pueda recorrer, a diferencia que los cuadros, que por mucho que no se mueva de derecha a izquierda, y tengan volumen, una obra como el móvil, que está en constante movimiento, tanto por el viento, como por el tránsito de la gente, y la del mismo espectador, que puede optar por apreciarla desde distintos ángulos, me parecía muy interesante.
 
-**¿Tu formación se ha dado íntegramente en el mundo de las artes o también has estudiado algo de matemáticas?** 
+**¿Tu formación se ha dado íntegramente en el mundo de las artes o también has estudiado algo de matemáticas?**
 
 La verdad es que, aunque mis obras por lo general son súper geométricas y arquitectónicas, yo soy 100% artista. No obstante, reconozco que tengo un lado muy cuadrado y matemático que sin duda interactúa con mi veta más plástica.
 
@@ -51,5 +52,3 @@ Para esta feria en particular, esa fue la propuesta. Se seleccionaron artistas q
 **Centro GAM**
 
 **21-24 marzo**
-
- 
