@@ -2,13 +2,13 @@ import I18nKeys from "./src/locales/keys";
 import type { Configuration } from "./src/types/config";
 
 const YukinaConfig: Configuration = {
-  title: "Ojos de Perro",
+  title: "Archivo de Miradas",
   subTitle: "by vicabstracta",
   brandTitle: "",
 
   description: "Ensayos, reseñas y entrevistas en profundidad acerca de artes visuales.",
 
-  site: "https://vicabstracta.github.io",
+  site: "https://archivodemiradas.com/",
 
   locale: "es", // set for website language and date format
 
