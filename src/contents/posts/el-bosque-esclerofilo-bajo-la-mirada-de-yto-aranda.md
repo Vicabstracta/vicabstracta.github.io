@@ -1,9 +1,9 @@
 ---
 title: "El bosque esclerófilo bajo la mirada de Yto Aranda"
-titleShortened: "El bosque esclerófilo de Yto"
+titleShortened: "El bosque esclerófilo de Yto Aranda"
 published: 2025-03-19
-description: Yto Aranda en la Bienal de la Habana
-tags: []
+description: Radix Sapiens en la Bienal de la Habana
+tags: [Artículo]
 category: Mediales.art
 author: "Victoria Abaroa"
 sourceLink: https://www.mediales.art/articulos/yto-aranda-entrevista

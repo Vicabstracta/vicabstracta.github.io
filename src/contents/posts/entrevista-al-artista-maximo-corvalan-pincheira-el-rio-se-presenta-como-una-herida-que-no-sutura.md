@@ -1,7 +1,8 @@
 ---
 title: "Entrevista al artista Máximo Corvalán-Pincheira: “El río se presenta como una herida que no sutura”"
+titleShortened: El Río Como Herida Que No Sutura
 published: 2023-12-19
-description: Artículo publicado en Culturizarte
+description: Entrevista al artista Máximo Corvalán-Pincheira
 tags: []
 category: Culturizarte
 showFeaturedImage: true
@@ -46,5 +47,3 @@ Puede ser leído así, pero es un poco casual también. Se supone que esta muest
 **¿Y tú eres pesimista respecto al futuro del país hoy?**
 
 Creo que el futuro de Chile es una construcción. Me parece que retrocedimos mucho con el rechazo de la propuesta Constitucional pasada, pero no soy pesimista, porque creo en la vida. Por eso hago trabajos que tienen que ver con la naturaleza. Como dice, Gilles Clément, que es un paisajista: «la gente que planta cree en la vida”; yo planto y creo que las cosas crecen. Sé que hay que trabajar para eso, claro, y es evidente que el futuro se viene difícil.
-
- 

@@ -1,8 +1,8 @@
 ---
 title: "Devorando Miserias Con Los Ojos"
 published: 2024-03-16
-description: Artículo publicado en Artishock Revista
-tags: []
+description: Las pantallas blandas de Mariana Najmanovich
+tags: [Artículo]
 category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2024/03/16/devorando-miserias-con-los-ojos/

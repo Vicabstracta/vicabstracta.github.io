@@ -1,8 +1,9 @@
 ---
 title: "FESTIVAL APRENDER Entrevista a la actriz y autora Mirella Granucci: “Mi principal objetivo es que la gente sienta emociones con mi escritura”"
+titleShortened: Escribir Para Entenderse
 published: 2024-01-10
-description: Artículo publicado en Culturizarte
-tags: []
+description: Entrevista a la actriz y autora Mirella Granucci
+tags: [Entrevista]
 category: Culturizarte
 showFeaturedImage: true
 author: "Victoria Abaroa"
@@ -36,5 +37,3 @@ En mi libro cuento que tenía adicción a las primeras citas, porque me generaba
 **Quizás 12 fue mucho.**
 
 Sí, ya cuchareé intensamente. Para mí era muy difícil alimentarme de sentirme sola, y yo creo que por eso tenía la necesidad de encontrar otras personas. Aunque yo estaba con el corazón cerrado, igual quería interactuar. Antes yo cuchareaba la soledad y me parecía muy amargo, pero cuando empecé a escribir eso cambió, porque la escritura es soledad. Ahora estoy en lugar donde siento que soy mucho más selectiva con los demás, porque soy muy selectiva con mi tiempo. Hoy tengo la tranquilidad de vivir en espacios de soledad absoluta y sentirme en paz, entenderme e ir dentro de mí misma. Creo que el sabor de la soledad es algo que fue cambiando con el tiempo, y hoy me parece riquísimo.
-
- 

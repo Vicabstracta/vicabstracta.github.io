@@ -1,8 +1,8 @@
 ---
 title: "El Golpe Interminable"
 published: 2023-09-28
-description: Artículo publicado en Artishock Revista
-tags: []
+description: 50 años del golpe de Estado chileno en NY
+tags: [Artículo]
 category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2023/09/28/el-golpe-interminable/

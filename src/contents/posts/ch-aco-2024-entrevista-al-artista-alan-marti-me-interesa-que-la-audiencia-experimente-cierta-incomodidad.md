@@ -3,7 +3,7 @@ title: "Ch.ACO 2024 Entrevista al artista Alan Martí: “Me interesa que la aud
 titleShortened: "Cierta incomodidad"
 published: 2024-03-22
 description: Ch.ACO 2024 Entrevista al artista Alan Martí
-tags: []
+tags: [Entrevista]
 category: Culturizarte
 showFeaturedImage: true
 author: "Victoria Abaroa"

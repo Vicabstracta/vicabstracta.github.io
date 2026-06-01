@@ -1,8 +1,8 @@
 ---
 title: "Grabados Que (Se) Integran (Al) Silencio"
 published: 2024-07-04
-description: Artículo publicado en Artishock Revista
-tags: []
+description: "Los Grabados de Eduardo Vilches"
+tags: [Artículo]
 category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2024/07/04/grabados-que-se-integran-al-silencio/

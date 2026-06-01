@@ -1,7 +1,8 @@
 ---
 title: "La Densidad Del Grafiti En Los Textiles De Paola Podestá"
+titleShortened: La Densidad del Grafiti
 published: 2024-02-02
-description: Artículo publicado en Artishock Revista
+description: en los Textiles de Paola Podestá
 tags: []
 category: Artishock
 author: Victoria Abaroa

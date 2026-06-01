@@ -1,8 +1,9 @@
 ---
 title: "Entrevista a la curadora de la exposición “Roser Bru: de Norte a Sur” Inés Ortega-Márquez: “Ella se acomodó en una escena artística, pero adaptándola a su estilo”"
+titleShortened: "Roser Bru: de Norte a Sur"
 published: 2024-02-01
-description: Artículo publicado en Culturizarte
-tags: []
+description: Entrevista a la curadora Inés Ortega-Márquez
+tags: [Entrevista]
 category: Culturizarte
 showFeaturedImage: true
 author: "Victoria Abaroa"
@@ -15,7 +16,7 @@ objectPosition: 50% 48%
 
 **43 grabados presenciales, acompañados de reproducciones digitales de nueve pinturas y tres textiles, ilustran la versatilidad creativa de la ganadora del Premio Nacional de Artes Plásticas 2015, Roser Bru. La exposición, organizada por la Fundación Roser Bru y curada por Inés Ortega-Márquez, fue concebida como una iniciativa itinerante financiada gracias al FONDART. Antes de llegar a Santiago, su actual ubicación, la exposición visitó Valparaíso, Iquique, Antofagasta, Concepción y Talca.**
 
-***Roser Bru: de Norte a Sur* no es la primera itinerancia organizada por Inés Ortega-Márquez, quien ya había trabajado en iniciativas similares para la exposición de Matta en 2011 y la de Gonzalo Rojas en 2010. Estas exposiciones, al igual que la de Roser Bru, se organizaron con la intención de conmemorar el centenario del nacimiento los artistas, brindando a los chilenos de regiones la oportunidad de conocer más profundamente su producción artística.** 
+***Roser Bru: de Norte a Sur* no es la primera itinerancia organizada por Inés Ortega-Márquez, quien ya había trabajado en iniciativas similares para la exposición de Matta en 2011 y la de Gonzalo Rojas en 2010. Estas exposiciones, al igual que la de Roser Bru, se organizaron con la intención de conmemorar el centenario del nacimiento los artistas, brindando a los chilenos de regiones la oportunidad de conocer más profundamente su producción artística.**
 
 **Esto fue lo que la curadora nos contó sobre la exposición de Roser Bru**
 
@@ -50,5 +51,3 @@ No, y está metida y pegada (bajo el vidrio que cubre la obra), por lo que no se
 **Centro Cultural Providencia v. Nueva Providencia 1995, Providencia.**
 
 **Entrada Liberada**
-
- 

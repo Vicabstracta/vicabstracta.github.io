@@ -3,7 +3,7 @@ title: "Ch.ACO 2024 Entrevista al artista Samy Benmayor: “Mis imágenes están
 titleShortened: "Recuerdos de infancia"
 published: 2024-03-22
 description: Ch.ACO 2024 Entrevista al artista Samy Benmayor
-tags: []
+tags: [Entrevista]
 category: Culturizarte
 showFeaturedImage: true
 author: "Victoria Abaroa"

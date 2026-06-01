@@ -1,8 +1,9 @@
 ---
 title: "Entrevista a la artista Consuelo Walker: “Me gusta crear obras que se pueden tocar”"
+titleShortened: "Jugar con alfileres"
 published: 2023-12-05
-description: Artículo publicado en Culturizarte
-tags: []
+description: Entrevista a la artista Consuelo Walker
+tags: [Entrevista]
 category: Culturizarte
 showFeaturedImage: true
 author: "Victoria Abaroa"
@@ -19,11 +20,11 @@ objectPosition: 50% 10%
 
 **La artista comenta que las directoras de *Artespacio* le preguntaron abiertamente qué obra quería llevar a la feria, y ella optó por seleccionar seis mini juguetes saltarines, intervenidos con alfileres. Esta serie surge como una extensión de *Ponys*, que expuso en *Artespacio* durante 2021. Casi dos años después, esta misma imagen fue la que utilizó para la colección *Assiettes*.**
 
-**¿Tú dirías que los ponys son tu obra favorita?** 
+**¿Tú dirías que los ponys son tu obra favorita?**
 
 Lo que pasa es que la mayoría de mi obra es abstracta, y para los platos necesitaba escoger una obra figurativa. Mi obra más figurativa en ese minuto era este pony, que en 2021 tuvo una serie grande y ahora estos en miniatura. Próximamente voy a hacer uno en bronce, y se acabaron los pony. No voy a hacer más de estas obras porque trabajo con series limitadas, encuentro que si no es así, la obra pierde interés.
 
-**¿Cómo dirías que se diferencia lo que estás haciendo hoy día de lo que hacías en 2021?** 
+**¿Cómo dirías que se diferencia lo que estás haciendo hoy día de lo que hacías en 2021?**
 
 Creo que en el arte, cada proyecto conduce al siguiente. En mi caso, pasé del grabado a los objetos, al concepto, a los juguetes intervenidos. Después empecé a experimentar con las palabras e hice unos cuadros inspirados en los textos de psicoanálisis que leí. Actualmente, sigo trabajando en el mismo tema, pero con distintas variaciones de él.
 
@@ -38,5 +39,3 @@ Percibo que la gente aún opta por esconder lo que siente, por eso me gusta crea
 **¿Cuáles son tus expectativas respecto a la feria Pinta?**
 
 Soy súper soñadora, entonces tengo las expectativas siempre muy altas. Yo creo que nos va a ir súper bien, y que se van a vender todos los ponys. También pienso que va a ser una muy buena experiencia, con una dinámica entretenida entre los artistas. Además va a ser una gran oportunidad como para conocer más el panorama de lo que está pasando en el arte a nivel mundial, eso siempre es bueno.
-
- 

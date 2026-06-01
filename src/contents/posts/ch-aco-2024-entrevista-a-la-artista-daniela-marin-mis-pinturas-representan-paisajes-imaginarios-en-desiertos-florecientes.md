@@ -3,7 +3,7 @@ title: "Ch.ACO 2024 Entrevista a la artista Daniela Marin: “Mis pinturas repre
 titleShortened: "Imaginarios en desiertos florecientes"
 published: 2024-03-26
 description: Ch.ACO 2024 Entrevista a la artista Daniela Marin
-tags: []
+tags: [Entrevista]
 category: Culturizarte
 showFeaturedImage: true
 author: "Victoria Abaroa"

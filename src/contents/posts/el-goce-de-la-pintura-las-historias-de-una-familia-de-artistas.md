@@ -2,7 +2,7 @@
 title: "El Goce De La Pintura"
 published: 2023-09-07
 description: La(S) Historia(S) De Una Familia De Artistas
-tags: [Reportaje]
+tags: [Artículo]
 category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2023/09/07/el-goce-de-la-pintura-las-historias-de-una-familia-de-artistas/

@@ -1,0 +1,87 @@
+# Git for Blog Posts: A Beginner's Tutorial
+
+## Basic Terminal Navigation
+
+Before touching git, you need to move around your files:
+
+- ls — list files in your current directory
+- cd <folder> — change into a folder (e.g., cd my-blog)
+- cd .. — go up one directory
+- pwd — shows your current directory path
+
+## The Git Workflow for Updating a Blog Post
+
+### 1. Check where you stand
+bash
+git status
+
+This tells you which files have been modified, added, or are untracked. Run this often — it's your compass.
+
+### 2. See what you changed
+bash
+git diff <file>
+
+Shows the exact lines you added (prefixed with +) and removed (prefixed with -). *Note:* This only works for files that already exist in the repository. New untracked files won't show a diff. If the output is long, git opens it in a pager. Navigate with:
+- *Enter* — scroll down one line
+- *Space* — scroll down one full page
+- *b* — scroll up one page
+- *q* — exit back to your terminal
+
+### 3. Undo mistakes
+bash
+git restore <file>
+
+This *discards* your uncommitted changes and reverts the file to the last committed version. Use with caution — those changes are gone.
+
+### 4. Stage your changes
+bash
+git add <file>
+
+This tells git "I want to include this file in my next commit." You can git add multiple files before committing.
+
+### 5. Commit your changes
+bash
+git commit -m "Updated blog post about deploying with Docker"
+
+Saves a snapshot with a message. Write messages that your future self will understand.
+
+### 6. Pull before pushing (avoid conflicts)
+bash
+git pull origin <repo>
+
+Downloads any changes from the remote repository and merges them into your local copy. Always do this before pushing, especially if others edit the same repo.
+
+### 7. Push your changes
+bash
+git push origin <repo>
+
+Uploads your commits to the remote repository (GitHub, GitLab, etc.).
+
+---
+
+## Typical Session: Update a Blog Post
+
+bash
+cd ~/projects/my-blog
+git pull origin main                # get latest changes before you start
+git status                          # see what's changed
+git diff posts/my-new-post.md       # review your edits (Enter/Space to scroll, q to exit)
+git add posts/my-new-post.md        # stage the file
+git commit -m "Added new post"      # commit
+git push origin main                # push to remote
+
+
+---
+
+## Glossary
+
+- *Commit*: A saved snapshot of your project at a specific point in time, like saving your progress in a video game. It includes a message describing what changed.
+- *Directory*: Another word for a folder on your computer where files are stored.
+- *Diff*: Short for "difference." It shows exactly what lines were added or removed in a file compared to the last saved version.
+- *Origin*: The default name for the remote server where your project lives (like GitHub or GitLab).
+- *Pager*: A built-in tool that lets you read long text outputs one screen at a time, like reading a book page by page instead of all at once.
+- *Pull*: Downloading the latest changes from the remote server to your local computer, ensuring you're working with the most up-to-date version.
+- *Push*: Uploading your local commits to the remote server so others (or your live website) can see them.
+- *Repository (repo)*: The project folder that Git is tracking. It holds all your files and the entire history of changes made to them.
+- *Stage / Staging*: The prep area. When you stage a file, you're telling Git, "I want to include this specific change in my next snapshot (commit)."
+- *Untracked*: Files that Git sees in your folder but hasn't started keeping history for yet (like a brand new blog post you just created).

@@ -3,7 +3,7 @@ title: "Entrevista a la artista María Elena Naveillan: “Hoy día está todo t
 titleShortened: "Silencio en medio del ruido"
 published: 2024-02-08
 description: Entrevista a la artista María Elena Naveillan
-tags: []
+tags: [Entrevista]
 category: Culturizarte
 showFeaturedImage: true
 author: "Victoria Abaroa"

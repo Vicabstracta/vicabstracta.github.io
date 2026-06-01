@@ -1,8 +1,9 @@
 ---
-title: "Conservar ‘Un Metro Del Ecuador’, Y Más Allá. La Colección Giaconi Raad"
+title: "Conservar \"Un Metro Del Ecuador\"..."
+titleShortened: "Conservar \"Un Metro Del Ecuador\""
 published: 2024-01-06
-description: Artículo publicado en Artishock Revista
-tags: []
+description: Y Más Allá. La Colección Giaconi Raad
+tags: [Artículo]
 category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2024/01/06/coleccion-giaconi-raad-en-il-posto/

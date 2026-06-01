@@ -1,8 +1,8 @@
 ---
-title: "Desplazadores Del Grabado. Una Revisión Historiográfica"
+title: "Desplazadores Del Grabado"
 published: 2022-08-09
-description: Artículo publicado en Artishock Revista
-tags: []
+description:  Una Revisión Historiográfica
+tags: [Artículo]
 category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2022/08/09/desplazadores-del-grabado/

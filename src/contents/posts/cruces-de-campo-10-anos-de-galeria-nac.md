@@ -1,8 +1,8 @@
 ---
-title: "Cruces De Campo. 10 Años De Galería Nac"
+title: "Cruces De Campo"
 published: 2024-02-29
-description: Artículo publicado en Artishock Revista
-tags: []
+description: 10 Años De Galería NAC
+tags: [Artículo]
 category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2024/02/29/cruces-de-campo-10-anos-de-galeria-nac/

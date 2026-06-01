@@ -1,8 +1,8 @@
 ---
 title: "Carmelo Arden Quin Y Sus Vínculos Con Chile"
 published: 2023-09-22
-description: Artículo publicado en Artishock Revista
-tags: []
+description: Rompiendo marcos, tejiendo redes
+tags: [Artículo]
 category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2023/09/22/carmelo-arden-quin-y-sus-vinculos-con-chile/

@@ -1,8 +1,8 @@
 ---
 title: Vaciamiento, Fragmentación, Escenificación
 published: 2024-12-11
-description: Teoría en torno a los procedimientos estéticos de Hugo Bravo
-tags: [Instalación, Ensayo]
+description: El modus operandi de Víctor Hugo Bravo
+tags: [Ensayo]
 category: Barbarie
 licenseName: CC BY-NC-ND 4.0
 licenseUrl: https://creativecommons.org/licenses/by-nc-nd/4.0/

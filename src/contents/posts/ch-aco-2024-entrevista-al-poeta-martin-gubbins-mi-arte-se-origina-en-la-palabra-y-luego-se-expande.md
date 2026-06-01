@@ -3,7 +3,7 @@ title: "Ch.ACO 2024 Entrevista al poeta Martín Gubbins: “Mi arte se origina e
 titleShortened: "Palabra expansiva"
 published: 2024-03-22
 description: Ch.ACO 2024 Entrevista al poeta Martín Gubbins
-tags: []
+tags: [Entrevista]
 category: Culturizarte
 showFeaturedImage: true
 author: "Victoria Abaroa"

@@ -1,8 +1,9 @@
 ---
 title: "Entrevista a la artista Maura Valin: “Mi influencia soy yo misma”"
+titleShortened: El Maravilloso Mundo de Mergumberg
 published: 2024-02-07
-description: Artículo publicado en Culturizarte
-tags: []
+description: Entrevista a la artista Maura Valin
+tags: [Entrevista]
 category: Culturizarte
 showFeaturedImage: true
 author: "Victoria Abaroa"
@@ -55,5 +56,3 @@ Sí, todos los cuadros tienen un elemento escrito. Existe un desorden increíble
 **Hasta el 11 de febrero**
 
 **Viña del Mar**
-
- 

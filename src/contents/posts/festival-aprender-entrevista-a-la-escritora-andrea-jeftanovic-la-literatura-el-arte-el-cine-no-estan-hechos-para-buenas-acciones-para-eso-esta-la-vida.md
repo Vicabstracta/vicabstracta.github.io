@@ -1,7 +1,8 @@
 ---
 title: "FESTIVAL APRENDER Entrevista a la escritora Andrea Jeftanovic: “La literatura, el arte, el cine, no están hechos para buenas acciones, para eso está la vida”"
+titleShortened: El Arte No Está Para Las Buenas Acciones
 published: 2024-01-11
-description: Artículo publicado en Culturizarte
+description: Entrevista a la escritora Andrea Jeftanovic
 tags: []
 category: Culturizarte
 showFeaturedImage: true
@@ -17,7 +18,7 @@ objectPosition: 50% 55%
 
 **La biblioteca pública de Las Condes fue su principal refugio durante su infancia. Una época marcada por la violencia de la dictadura militar, caracterizada por una crueldad que posteriormente se colaría en los libros que ha escrito. Leer tanto durante su infancia le sirvió mucho para aprender, tanto respecto al oficio de la escritura como con respecto a la vida. Este último fue el foco de su charla durante el Festival Aprender. Durante su exposición la docente de la USACH y autora de libros como *Escenario de guerra*, *Geografías de la lengua* y *No aceptes caramelos de extraño*s mostró imágenes de bibliotecas públicas, rememorando lecturas y momentos que influyeron en su desarrollo personal.**
 
-**¿Cuál es el rol de la literatura en el aprendizaje de las personas? Lo pregunto teniendo en consideración que has mencionado que los libros no deberían tener una intención moralista.** 
+**¿Cuál es el rol de la literatura en el aprendizaje de las personas? Lo pregunto teniendo en consideración que has mencionado que los libros no deberían tener una intención moralista.**
 
 Yo encuentro absurdo esta idea de querer censurar porque no podríamos leer nada. Ninguna obra de *Shakespeare*, ni leer *Casa de Muñecas*, ni tragedia griega. Imagínate. Creo que es curioso que pese a que avanzamos en el tiempo, y uno pensaría que somos seres más contemporáneos y complejos, de pronto suceden estas cegueras. La literatura, el arte, el cine, no están hechos para buenas acciones, para eso está la vida. El arte, en general, está para mostrarnos la oscuridad, los dilemas, la complejidad de la psiquis humana. La complejidad de la historia, por qué ocurren las guerras, y qué les pasa a las personas cuando están insertas en ella, qué pasa con su psicología, y con sus cuerpos. Porque de algún modo la historia de la humanidad ha sido la historia de la violencia, entonces, es difícil que el arte y la literatura se abstengan de eso. Yo creo que el arte es, justamente, para pensar esos espacios más complejos, para levantar preguntas, más que respuestas.
 
@@ -33,8 +34,6 @@ Lamentablemente mi juego ya no funciona, porque con el sistema computacional tu 
 
 Fíjate que sí. Cuando a veces hago lecturas o voy al libro, las personas se me acercan para pedirme la firma, y me muestran lo que subrayaron. También hay un sitio web de citas en el que puedo ver los fragmentos de mis libros que la gente va posteando. No me acuerdo de nada en específico ahora mismo, pero creo que hay una fascinación por las imágenes más poéticas. Porque también eso condensa más que un párrafo lleno de acontecimientos. Creo que lo más plástico, es lo que más se retiene.
 
-**¿Cómo se aprende a escribir?** 
+**¿Cómo se aprende a escribir?**
 
 Primero leyendo mucho. Después, a mí me sirvió mucho ir a talleres literarios con escritores, porque de pronto uno al leer lo que escribe tiene demasiados puntos ciegos y piensa que todo está perfecto. Los talleres te permiten leer en voz alta frente a otro. Yo tuve talleres con Antonio Skármeta, con Marco Antonio de la Parra y con Diamela Eltit, que fueron marcadores. Hay algunos compañeros con los que mantengo una relación de amistad, de colegas muy profunda, porque de algún modo uno escribe con otros. Además, hay que escribir, corregir, reescribir y releer. También hay que investigar mucho, que es un proceso que los escritores no siempre saben verbalizar, pero también es parte de.
-
- 

@@ -1,8 +1,8 @@
 ---
 title: "El Salón De Espejos De La Heroína"
 published: 2024-10-14
-description: Artículo publicado en Artishock Revista
-tags: []
+description: Las delicias pictóricas en el bosque de Maliki
+tags: [Artículo]
 category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2024/10/14/el-salon-de-espejos-de-la-heroina/

@@ -1,8 +1,9 @@
 ---
 title: 'Felipe Elgueta, cineasta: "Me interesan los errores de los algoritmos como un diálogo creativo"'
+titleShortened: Errores Como Diálogo Creativo
 published: 2024-12-19
-description: Artículo publicado en Mediales.art
-tags: []
+description: Entrevista al cineasta Felipe Elgueta
+tags: [Entrevista]
 category: Mediales.art
 author: "Victoria Abaroa"
 sourceLink: https://www.mediales.art/articulos/felipe-elgueta-entrevista
@@ -13,7 +14,7 @@ cover: /blog/apuntes/felipe-elgueta-cineasta-me-interesan-los-errores-de-los-alg
 
 ---
 
-¿Qué pasaría si las imágenes se rebelaran contra nosotros? Esta inquietud fue planteada hace más de una década por la artista alemana Hito Steyerl en su ensayo *Ripping Reality: Blind Spots and Wrecked Data in 3D.* Aunque el texto alude a las representaciones tridimensionales tempranas como el modelado 3D y las visualizaciones computarizadas que entonces comenzaban a desdibujar las fronteras entre lo real y lo virtual, sus ideas resuenan con mayor intensidad hoy en el contexto de la inteligencia artificial. 
+¿Qué pasaría si las imágenes se rebelaran contra nosotros? Esta inquietud fue planteada hace más de una década por la artista alemana Hito Steyerl en su ensayo *Ripping Reality: Blind Spots and Wrecked Data in 3D.* Aunque el texto alude a las representaciones tridimensionales tempranas como el modelado 3D y las visualizaciones computarizadas que entonces comenzaban a desdibujar las fronteras entre lo real y lo virtual, sus ideas resuenan con mayor intensidad hoy en el contexto de la inteligencia artificial.
 
 En el ensayo, Steyerl no solo analiza las imperfecciones técnicas de las imágenes tridimensionales -los "datos dañados" o *wrecked data* que distorsionan la realidad-, sino que también sugiere que estas fallas no son errores neutrales: son políticos y culturales. Es decir, aquellos "puntos ciegos" (blind spots) en la representación, no solo reflejan limitaciones técnicas, sino que además sesgos humanos que se inscriben en los datos, algoritmos e imágenes mismas.
 
@@ -82,9 +83,9 @@ NeRF es un algoritmo que convierte imágenes 2D en representaciones tridimension
 Es otro algoritmo.
 
 **Eso me llama la atención, porque al final del video se lee que está inspirado en un ensayo de Hito Steyerl. Pude acceder al texto en internet y me percaté de que las reflexiones que plantea van muy en línea con lo que me decías que pasa con NeRF. Steyerl también se refiere a las partes imaginarias de las imágenes 3D creadas a partir de imágenes 2D. Las imágenes que lo integran también parecieran contener fragmentos ficcionados, ¿qué programa de inteligencia artificial usaste para generar el video?**  
-Sí, estoy de acuerdo. Sin embargo, también me parece que el concepto de inteligencia artificial tiene muchas implicancias en la actualidad. Creo que hay mucha desinformación porque para la mayoría de la gente todo pareciera ser inteligencia artificial y no es así. Por ello prefiero hablar de algoritmos. El concepto como tal siempre ha estado, lo que pasa es que ahora se ha convertido en un tema mediático, y eso me parece muy *heavy*. Ha producido mucho rechazo en ciertas personas, por lo que me parece importante. Dicho eso, la plataforma que ocupé es una de las más populares, se llama *Runway,* fundada por el chileno, Cristóbal Valenzuela. En ese momento, sacaron *Gen 2* que es un algoritmo que logra entender imágenes a partir de aprendizaje automático, para después animarlas de una forma bastante precaria. Posteriormente, apareció *Gen 3* evidenciando una diferencia abismal. Las imágenes que produce son mucho más perfectas, alineándose mejor con lo que quiere la industria. Sin embargo, a mi me parece que había algo hermoso en los errores de las imágenes creadas en *Gen 2*. 
+Sí, estoy de acuerdo. Sin embargo, también me parece que el concepto de inteligencia artificial tiene muchas implicancias en la actualidad. Creo que hay mucha desinformación porque para la mayoría de la gente todo pareciera ser inteligencia artificial y no es así. Por ello prefiero hablar de algoritmos. El concepto como tal siempre ha estado, lo que pasa es que ahora se ha convertido en un tema mediático, y eso me parece muy *heavy*. Ha producido mucho rechazo en ciertas personas, por lo que me parece importante. Dicho eso, la plataforma que ocupé es una de las más populares, se llama *Runway,* fundada por el chileno, Cristóbal Valenzuela. En ese momento, sacaron *Gen 2* que es un algoritmo que logra entender imágenes a partir de aprendizaje automático, para después animarlas de una forma bastante precaria. Posteriormente, apareció *Gen 3* evidenciando una diferencia abismal. Las imágenes que produce son mucho más perfectas, alineándose mejor con lo que quiere la industria. Sin embargo, a mi me parece que había algo hermoso en los errores de las imágenes creadas en *Gen 2*.
 
-Me interesan los procesos creativos donde el error aparece de forma azarosa, en este caso los algoritmos no logran interpretar las imágenes que daba de input, y me entregaba abstracciones. Hay algo interesante en estos “diálogos” con estructuras algorítmicas, donde vas aprendiendo a comunicarte para crear. Hay una escena donde hay unos tigres en una jaula siendo vistos por unos turistas. El algoritmo no logró entender de qué animal se trataba y las imaginó como unas vacas de patas largas. Me sorprendió que un programa diseñado para entender la realidad la deformara hasta crear su propia fantasía. Este fenómeno me hizo mucho sentido en relación al ensayo de Hito, aunque se trate de un texto escrito hace bastante tiempo. En esa época las tecnologías con algoritmos de animación aún no existían. Sin embargo, me pareció importante hacer una relectura de su texto y aplicarla a lo que está pasando actualmente con la inteligencia artificial. 
+Me interesan los procesos creativos donde el error aparece de forma azarosa, en este caso los algoritmos no logran interpretar las imágenes que daba de input, y me entregaba abstracciones. Hay algo interesante en estos “diálogos” con estructuras algorítmicas, donde vas aprendiendo a comunicarte para crear. Hay una escena donde hay unos tigres en una jaula siendo vistos por unos turistas. El algoritmo no logró entender de qué animal se trataba y las imaginó como unas vacas de patas largas. Me sorprendió que un programa diseñado para entender la realidad la deformara hasta crear su propia fantasía. Este fenómeno me hizo mucho sentido en relación al ensayo de Hito, aunque se trate de un texto escrito hace bastante tiempo. En esa época las tecnologías con algoritmos de animación aún no existían. Sin embargo, me pareció importante hacer una relectura de su texto y aplicarla a lo que está pasando actualmente con la inteligencia artificial.
 
 <figure class="blog-image">
     <img
@@ -95,13 +96,13 @@ Me interesan los procesos creativos donde el error aparece de forma azarosa, en 
 </figure>
 
 **¿Cómo llegaste a este ensayo?**  
-Conocí su trabajo en Master Lab, cuando estudié con una beca en Madrid en 2019. Sus textos me parecen increíbles; creo que cada uno podría inspirar una película. Lo que también me fascina es cómo algunos algoritmos actuales tienen un aspecto azaroso. Nunca sabes del todo qué resultado obtendrás al generar una imagen o video, y hay algo muy emocionante en ese proceso. 
+Conocí su trabajo en Master Lab, cuando estudié con una beca en Madrid en 2019. Sus textos me parecen increíbles; creo que cada uno podría inspirar una película. Lo que también me fascina es cómo algunos algoritmos actuales tienen un aspecto azaroso. Nunca sabes del todo qué resultado obtendrás al generar una imagen o video, y hay algo muy emocionante en ese proceso.
 
 **¿*Gen2* funciona a través de instrucciones en imágenes y en texto, como ChatGPT avanzado?**  
 Sí.
 
 **¿Recuerdas cuál fue la instrucción que le entregaste cuando te dio las imágenes de los tigres transformados en vacas?**  
-Sí, utilicé una imagen de mi biblioteca en la que almaceno fotografías que, además de tener un aspecto documental de la realidad, generan algo de extrañeza. Agregar el texto fue un poco jugar con esa ambigüedad. No recuerdo exactamente qué le escribí, pero sí que no especifiqué que había un tigre, sino que me limité a referirme a “animales”. Creo que al tratar de identificar cuál especie era, interpretó que se trataba de vacas con patas gigantes. Me gusta confundirla de esa forma, haciéndola creer que en la imagen hay cosas que en realidad no están. Hacer eso me permitió generar estos resultados no figurativos, extraños. Recuerdo que en algunas ocasiones solo utilicé imágenes muy pixeladas y esas simplemente no las entendió para nada. 
+Sí, utilicé una imagen de mi biblioteca en la que almaceno fotografías que, además de tener un aspecto documental de la realidad, generan algo de extrañeza. Agregar el texto fue un poco jugar con esa ambigüedad. No recuerdo exactamente qué le escribí, pero sí que no especifiqué que había un tigre, sino que me limité a referirme a “animales”. Creo que al tratar de identificar cuál especie era, interpretó que se trataba de vacas con patas gigantes. Me gusta confundirla de esa forma, haciéndola creer que en la imagen hay cosas que en realidad no están. Hacer eso me permitió generar estos resultados no figurativos, extraños. Recuerdo que en algunas ocasiones solo utilicé imágenes muy pixeladas y esas simplemente no las entendió para nada.
 
 <figure class="blog-image">
     <img

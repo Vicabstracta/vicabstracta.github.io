@@ -3,7 +3,7 @@ title: "Entrevista a la artista visual Marcela Trujillo: “Mi trabajo no trata 
 titleShortened: "Vanity Fauna"
 published: 2024-09-23
 description: Entrevista a la artista visual Marcela Trujillo
-tags: []
+tags: [Entrevista]
 category: Culturizarte
 showFeaturedImage: true
 author: "Victoria Abaroa"

@@ -3,7 +3,7 @@ title: "Ch.ACO 2024 Entrevista a la artista Pía Aldana: “La fragilidad de la 
 titleShortened: "La fragilidad de la cerámica"
 published: 2024-03-22
 description: Ch.ACO 2024 Entrevista a la artista Pía Aldana
-tags: []
+tags: [Entrevista]
 category: Culturizarte
 showFeaturedImage: true
 author: "Victoria Abaroa"

@@ -1,8 +1,9 @@
 ---
 title: "FESTIVAL APRENDER Entrevista al escritor Felipe Cussen “No conozco otra manera mejor de enseñar lo que me interesa que mostrándolo”"
+titleShortened: Cables, Legos y Sonetos
 published: 2024-01-10
-description: Artículo publicado en Culturizarte
-tags: []
+description: Entrevista al escritor Felipe Cussen
+tags: [Entrevista]
 category: Culturizarte
 showFeaturedImage: true
 author: "Victoria Abaroa"
@@ -40,5 +41,3 @@ Es bien aleatorio. O sea, de partida no conozco a los editores, una vez hablé c
 **¿Tus clases como docente son tan ilustrativas como tu exposición durante el festival? Lo pregunto porque mostrarte hartas cosas mientras dabas la charla.**
 
 Sí, me gusta todo eso. Este semestre hice unas clases de arte generativo, y me costó harto, porque creo que lo que propuse en el curso estaba bien lejano a los intereses de las y los estudiantes. Sin embargo, en una clase, como a la mitad del curso, llevé los sintetizadores y tocamos. Siento que ahí hubo algo que encajó, y entendieron porque hacía tanto hincapié en algunas cosas. También hay clases en las que, por ejemplo, muestro softwares de música electrónica y cómo funcionan las cosas, porque, como tema, me atraen mucho los procedimientos, los soportes, las tecnologías, y no conozco otra manera mejor de enseñar lo que me interesa que mostrándolo. A veces son cosas que van a ser muy experimentales y raras, pero tienen una dimensión super concreta: si haces esto, y pones este cable acá, pasa esto.
-
- 

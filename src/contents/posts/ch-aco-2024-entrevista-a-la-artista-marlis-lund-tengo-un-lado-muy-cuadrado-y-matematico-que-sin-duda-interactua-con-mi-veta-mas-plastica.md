@@ -3,7 +3,7 @@ title: "Ch.ACO 2024 Entrevista a la artista Marlis Lund: “Tengo un lado muy cu
 titleShortened: "Cuadrícula plástica"
 published: 2024-03-25
 description: Ch.ACO 2024 Entrevista a la artista Marlis Lund
-tags: []
+tags: [Entrevista]
 category: Culturizarte
 showFeaturedImage: true
 author: "Victoria Abaroa"
