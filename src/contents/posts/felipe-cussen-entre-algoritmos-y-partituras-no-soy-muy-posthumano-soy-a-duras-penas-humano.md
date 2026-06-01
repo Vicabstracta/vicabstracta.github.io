@@ -3,7 +3,7 @@ title: "Felipe Cussen, entre algoritmos y partituras: “No soy muy posthumano, 
 titleShortened: "Entre algorítmos y partituras"
 published: 2025-02-04
 description: Posthumamente hablando de escrituras inesperadas con Felipe Cussen
-tags: [entrevista]
+tags: [Entrevista]
 category: Mediales.art
 author: "Victoria Abaroa"
 sourceLink: https://www.mediales.art/articulos/felipe-cussen-entrevista
