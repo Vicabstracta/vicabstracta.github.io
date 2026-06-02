@@ -1,8 +1,8 @@
 ---
 title: "Sintetizar la sombra"
 published: 2024-11-27
-description: Artículo publicado en Mediales.art
-tags: []
+description: Luz, tiempo y espacio en la obra de Benjamín Ossa 
+tags: [Artículo]
 category: Mediales.art
 author: "Victoria Abaroa"
 sourceLink: https://www.mediales.art/articulos/sintetizar-la-sombra
@@ -77,7 +77,3 @@ El subtítulo de la obra - *El misterio del origen, un nido -* sugiere la inabar
 La invitación pareciera hacer eco de algunas de las estrofas del manifiesto surrealista, incitando a la operación automática y exaltando el imaginario inconsciente. Sin embargo, las obras de Ossa se alejan de la corriente artística, revelando fenómenos concretos. Las imágenes propuestas por el artista no solo son posibles, sino tan frecuentes que tienden a pasar desapercibidas.
 
 Las creaciones de Benjamín Ossa se estructuran entonces como una especie de surrealismo lógico, invitándonos a abandonar las certezas. Mediante la experimentación, el artista descubre cómo utilizar los fenómenos naturales a su favor, despertando nuestras capacidades perceptivas. Sin embargo, esta invitación se acompaña de una segunda reflexión, que nos hace conscientes de la imposibilidad de comprenderlo todo. Ossa estudia el mundo para llegar al límite donde la certidumbre se desdibuja hacia lo desconocido, no para resolverlo, sino para extendernos su fascinación personal, despertándonos de nuestro letargo cotidiano.
-
- 
-
- 

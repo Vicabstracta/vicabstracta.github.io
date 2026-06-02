@@ -1,8 +1,8 @@
 ---
-title: "Las Honorarias. Con El Sudor De Plaza De Armas"
+title: "Con El Sudor De Plaza De Armas"
 published: 2023-10-07
-description: Artículo publicado en Artishock Revista
-tags: []
+description: Arte, sudor y precariedad laboral en los proyectos de Las Honorarias
+tags: [Artículo]
 category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2023/10/07/las-honorarias-con-el-sudor-de-plaza-de-armas/

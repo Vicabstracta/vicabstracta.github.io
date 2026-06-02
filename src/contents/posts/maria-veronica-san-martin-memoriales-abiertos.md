@@ -1,8 +1,8 @@
 ---
-title: "María Verónica San Martín: Memoriales Abiertos"
+title: "Memoriales Abiertos"
 published: 2024-03-27
-description: Artículo publicado en Artishock Revista
-tags: []
+description: Los libros de artista de María Verónica San Martín
+tags: [Artículo]
 category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2024/03/27/maria-veronica-san-martin-memoriales-abiertos/

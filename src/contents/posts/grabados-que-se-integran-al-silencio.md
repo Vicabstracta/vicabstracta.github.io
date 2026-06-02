@@ -1,7 +1,7 @@
 ---
 title: "Grabados Que (Se) Integran (Al) Silencio"
 published: 2024-07-04
-description: "Los Grabados de Eduardo Vilches"
+description: "Los huellas de Eduardo Vilches"
 tags: [Artículo]
 category: Artishock
 author: Victoria Abaroa

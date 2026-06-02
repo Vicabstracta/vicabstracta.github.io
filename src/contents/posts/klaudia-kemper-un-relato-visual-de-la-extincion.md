@@ -1,8 +1,8 @@
 ---
-title: "Klaudia Kemper. Un Relato Visual De La Extinción"
+title: "Un Relato Visual De La Extinción"
 published: 2023-11-02
-description: Artículo publicado en Artishock Revista
-tags: []
+description: La advertencia pictórica de Klaudia Kemper
+tags: [Artículo]
 category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2023/11/02/klaudia-kemper-un-relato-visual-de-la-extincion/

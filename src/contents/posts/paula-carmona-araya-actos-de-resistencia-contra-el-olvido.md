@@ -1,8 +1,8 @@
 ---
-title: "Paula Carmona Araya. Actos De Resistencia Contra El Olvido"
+title: "Actos De Resistencia Contra El Olvido"
 published: 2023-09-27
-description: Artículo publicado en Artishock Revista
-tags: []
+description: "Las intervenciones críticas de Paula Carmona Araya"
+tags: [Artículo]
 category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2023/09/27/paula-carmona-araya/

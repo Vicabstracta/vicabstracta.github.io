@@ -1,7 +1,7 @@
 ---
 title: "Dagmara Wyskiel y la Bienal SACO 2025"
 published: 2025-01-27
-description: "El desierto como un laboratorio para imaginar utopías"
+description: "El desierto como laboratorio de utopías"
 tags: [Entrevista]
 category: Artishock
 author: Victoria Abaroa

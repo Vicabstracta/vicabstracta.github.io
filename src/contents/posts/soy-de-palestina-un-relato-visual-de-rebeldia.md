@@ -1,8 +1,8 @@
 ---
-title: "Soy (De) Palestina: Un Relato Visual De Rebeldía"
+title: "Soy (De) Palestina"
 published: 2024-04-09
-description: Artículo publicado en Artishock Revista
-tags: []
+description: Un Relato Visual De Rebeldía
+tags: [Artículo]
 category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2024/04/09/soy-de-palestina-un-relato-visual-de-rebeldia/

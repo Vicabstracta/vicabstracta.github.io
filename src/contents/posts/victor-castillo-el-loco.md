@@ -1,8 +1,8 @@
 ---
 title: "Víctor Castillo: El Loco"
 published: 2024-01-03
-description: Artículo publicado en Artishock Revista
-tags: []
+description: "Colores chillones, personajes caricaturescos y un trasfondo crítico"
+tags: [Artículo]
 category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2024/01/03/victor-castillo-el-loco/

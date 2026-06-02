@@ -1,8 +1,8 @@
 ---
-title: "Juan Egenau. Maestría Inagotable"
+title: "Maestría Inagotable"
 published: 2024-01-02
-description: Artículo publicado en Artishock Revista
-tags: []
+description: La Autarquía Artística de Juan Egenau
+tags: [Artículo]
 category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2024/01/02/juan-egenau-maestria-inagotable/

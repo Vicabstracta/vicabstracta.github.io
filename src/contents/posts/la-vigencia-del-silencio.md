@@ -1,7 +1,7 @@
 ---
 title: "La Vigencia Del Silencio"
 published: 2024-11-04
-description: Artículo publicado en Artishock Revista
+description: Mónica Súnica denuncia las violaciones a los DDHH de la niñez en Chile
 tags: []
 category: Artishock
 author: Victoria Abaroa

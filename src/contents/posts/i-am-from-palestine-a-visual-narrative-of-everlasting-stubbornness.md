@@ -1,8 +1,8 @@
 ---
-title: "I Am (From) Palestine: A Visual Narrative Of Everlasting Stubbornness"
+title: "I Am (From) Palestine"
 published: 2024-04-09
-description: Artículo publicado en Artishock Revista
-tags: []
+description: A Visual Narrative Of Everlasting Stubbornness
+tags: [Article]
 category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2024/04/09/i-am-from-palestine-a-visual-narrative-of-everlasting-stubbornness/

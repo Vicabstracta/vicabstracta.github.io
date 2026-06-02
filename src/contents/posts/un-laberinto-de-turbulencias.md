@@ -1,7 +1,7 @@
 ---
 title: "Un Laberinto De Turbulencias"
 published: 2024-09-05
-description: Artículo publicado en Artishock Revista
+description: El proyecto artístico de Boris Campos y Serena Oliva
 tags: []
 category: Artishock
 author: Victoria Abaroa

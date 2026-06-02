@@ -3,7 +3,7 @@ title: "FESTIVAL APRENDER Entrevista a la escritora Andrea Jeftanovic: “La lit
 titleShortened: El Arte No Está Para Las Buenas Acciones
 published: 2024-01-11
 description: Entrevista a la escritora Andrea Jeftanovic
-tags: []
+tags: [Entrevista]
 category: Culturizarte
 showFeaturedImage: true
 author: "Victoria Abaroa"

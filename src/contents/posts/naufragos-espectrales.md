@@ -1,7 +1,7 @@
 ---
 title: "Náufragos Espectrales"
 published: 2024-08-21
-description: Artículo publicado en Artishock Revista
+description: Los chismes y los rumores de Cristóbal Cea
 tags: []
 category: Artishock
 author: Victoria Abaroa

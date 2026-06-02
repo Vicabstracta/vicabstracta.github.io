@@ -2,8 +2,8 @@
 title: "Entrevista al artista Máximo Corvalán-Pincheira: “El río se presenta como una herida que no sutura”"
 titleShortened: El Río Como Herida Que No Sutura
 published: 2023-12-19
-description: Entrevista al artista Máximo Corvalán-Pincheira
-tags: []
+description: Una grieta en La Moneda
+tags: [Entrevista]
 category: Culturizarte
 showFeaturedImage: true
 author: "Victoria Abaroa"
