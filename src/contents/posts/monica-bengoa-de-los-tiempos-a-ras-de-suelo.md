@@ -50,35 +50,36 @@ En las diferentes fases del relato, nuestros ojos se pasean por el cuerpo del in
 
 <figure class="blog-image">
     <img
-        src="/blog/apuntes/monica-bengoa-de-los-tiempos-a-ras-de-suelo/Monica-Bengoa-3.webp"
+        src="/blog/apuntes/monica-bengoa-de-los-tiempos-a-ras-de-suelo/Monica-Bengoa-3.webp">
 </figure>
 
 <figure class="blog-image">
     <img
-        src="/blog/apuntes/monica-bengoa-de-los-tiempos-a-ras-de-suelo/Monica-Bengoa-4.webp"
+        src="/blog/apuntes/monica-bengoa-de-los-tiempos-a-ras-de-suelo/Monica-Bengoa-4.webp">
 </figure>
 
 <figure class="blog-image">
     <img
-        src="/blog/apuntes/monica-bengoa-de-los-tiempos-a-ras-de-suelo/Monica-Bengoa-5.webp"
+        src="/blog/apuntes/monica-bengoa-de-los-tiempos-a-ras-de-suelo/Monica-Bengoa-5.webp">
 </figure>
 
 <figure class="blog-image">
     <img
-        src="/blog/apuntes/monica-bengoa-de-los-tiempos-a-ras-de-suelo/Monica-Bengoa-7.webp"
+        src="/blog/apuntes/monica-bengoa-de-los-tiempos-a-ras-de-suelo/Monica-Bengoa-7.webp">
 </figure>
 
 <figure class="blog-image">
     <img
-        src="/blog/apuntes/monica-bengoa-de-los-tiempos-a-ras-de-suelo/Monica-Bengoa-8.webp"
+        src="/blog/apuntes/monica-bengoa-de-los-tiempos-a-ras-de-suelo/Monica-Bengoa-8.webp">
 </figure>
 
 <figure class="blog-image">
     <img
-        src="/blog/apuntes/monica-bengoa-de-los-tiempos-a-ras-de-suelo/Monica-Bengoa-9.webp"
+        src="/blog/apuntes/monica-bengoa-de-los-tiempos-a-ras-de-suelo/Monica-Bengoa-9.webp">
+    <figcaption>
+        Mónica Bengoa, de la serie relatos a ras de suelo. Cortesía de la artista.
+    </figcaption>
 </figure>
-
-Mónica Bengoa, de la serie relatos a ras de suelo. Cortesía de la artista.
 
 ### DEVELAR OTRO MUNDO
 

@@ -31,11 +31,11 @@ Además de las ilustraciones, Aml también publica fotografías que dan cuenta d
 
 <figure class="blog-image">
     <img
-        src="/blog/apuntes/soy-de-palestina-un-relato-visual-de-rebeldia/AMLB1-893x900.jpg"
+        src="/blog/apuntes/soy-de-palestina-un-relato-visual-de-rebeldia/AMLB1-893x900.jpg">
+    <figcaption>
+        Aml Nakhla, Cuadernos de Guerra. Cortesía de la artista
+    </figcaption>
 </figure>
-
-Aml Nakhla, Cuadernos de Guerra. Cortesía de la artista
-
 A casi 93 kilómetros de distancia, el fotógrafo Maen Hammad documenta la experiencia de otro territorio ocupado por Israel en Palestina: Cisjordania. Sus fotografías capturan tanto la desolación de entornos cotidianos como los impactos más crueles de la violencia causada por la ocupación isarelí, proporcionando así una visión completa de la cruda realidad que enfrentan los ciudadanos de la región.
 
 Maen se enfrenta a la dificultad de registrar todos los eventos denunciados en las redes sociales, por lo que se ha visto obligado a seleccionar cuidadosamente los que documentará. Aunque es consciente de sus limitaciones para abordar todas las perspectivas, el fotógrafo persiste en capturar la lucha palestina en la medida de sus posibilidades. Marchas en las calles, la amenaza constante de la vigilancia israelí y las lesiones, a veces mortales, en los cuerpos de sus compatriotas han quedado registrados en sus fotografías.
@@ -58,11 +58,11 @@ Su participación en esta muestra, sin embargo, no estuvo exenta de controversia
 
 <figure class="blog-image">
     <img
-        src="/blog/apuntes/soy-de-palestina-un-relato-visual-de-rebeldia/MaenHammad8.jpg"
+        src="/blog/apuntes/soy-de-palestina-un-relato-visual-de-rebeldia/MaenHammad8.jpg">
+    <figcaption>
+        Fotografías por Maen Hammad. Cortesía del artista
+    </figcaption>
 </figure>
-
-Fotografías por Maen Hammad. Cortesía del artista
-
 A partir del 7 de octubre, muchas exposiciones se han visto canceladas debido a que los artistas participantes han expresado su apoyo a la causa palestina en sus redes sociales, entre los más conocidos, Candice Breitz, Samia Halaby y Ai Weiwei. Incluso un evento artístico de tal envergadura como la legendaria dOCUMENTA recibió la renuncia en masa de los seis miembros de su Comité de Selección, uno de ellos acusado por firmar una carta en 2019 que comparaba el sionismo en Israel con el nacionalismo hindú en India.
 
 La Bienal de Venecia también se ha visto envuelta en controversias. El Palestine Museum US propuso a la organización italiana un evento colateral en el que participarían 23 artistas palestinos, algunos de los cuales viven actualmente en tiendas de campaña en Rafah, Gaza. Sin embargo, fue rechazado. La institución con sede en Estados Unidos expresó su desacuerdo con la decisión, argumentando que la bienal había adoptado una postura radicalmente diferente en el caso de Ucrania, país al que demostraron su apoyo total durante la invasión rusa.
@@ -133,11 +133,11 @@ Junto a las iniciativas de visibilización del genocidio a través del arte, tam
 
 <figure class="blog-image">
     <img
-        src="/blog/apuntes/soy-de-palestina-un-relato-visual-de-rebeldia/RGNHEH1.jpg"
+        src="/blog/apuntes/soy-de-palestina-un-relato-visual-de-rebeldia/RGNHEH1.jpg">
+    <figcaption>
+        Rafael Guendelman Hales, Proyecto Aliyá, Yeridá. Video y cuaderno de artista. Cortesía del artista
+    </figcaption>
 </figure>
-
-Rafael Guendelman Hales, Proyecto Aliyá, Yeridá. Video y cuaderno de artista. Cortesía del artista
-
 Rafael Guendelman Hales, un artista chileno con raíces tanto árabes como judías, ha dedicado años de su carrera a explorar la lucha palestino-israelí, el modo en que este puede mirarse desde Chile, las migraciones y la construcción de la identidad y la memoria. Desde sus inicios, se ha enfocado en investigar el impacto de la estructuración del territorio en sus habitantes. Sin embargo, fue durante su primer viaje a Israel cuando se percató de que el fenómeno que había comenzado a abordar en su país natal adquiría una dimensión aún más compleja.
 
 Rafael aprovechó sus meses de estancia en Israel para recabar material fotográfico. Al llegar a Chile, utilizó los videos como insumo para la exposición Sin Tierra, que hacía un acercamiento al conflicto árabe-israelí a partir de sus similitudes con la historia reciente chilena.
@@ -154,11 +154,11 @@ Siete años más tarde, presentó su proyecto Aliyá (ascender y migrar a Israel
 
 <figure class="blog-image">
     <img
-        src="/blog/apuntes/soy-de-palestina-un-relato-visual-de-rebeldia/Gloria-Belen-Gloribel-Delgado-2.jpg"
+        src="/blog/apuntes/soy-de-palestina-un-relato-visual-de-rebeldia/Gloria-Belen-Gloribel-Delgado-2.jpg">
+    <figcaption>
+        Gloria Belén (Gloribel) Delgado, Reza por Gaza, libro textil. Cortesía de la artista
+    </figcaption>
 </figure>
-
-Gloria Belén (Gloribel) Delgado, Reza por Gaza, libro textil. Cortesía de la artista
-
 Un paralelismo similar se puede trazar con Puerto Rico, cuya condición de estado libre asociado a Estados Unidos refleja la dinámica colonial de Israel hacia Palestina. Esta situación ha motivado a Gloria Belén (Gloribel) Delgado a mantenerse atenta a las noticias provenientes de Palestina durante años. Hasta ahora, la puertorriqueña había escrito varias obras sobre la situación en Medio Oriente. Sin embargo, tras los ataques del 7 de octubre, decidió ampliarel lenguaje artístico con el que expresarse sobre la situación.
 
 A finales de febrero, Gloribel participó en Codex, una de las ferias de libros de artistas más importantes en Estados Unidos, con Reza por Gaza. Un libro textil que en cada página presenta una oración: reza por los niños, por hospitales con medicinas y porque reine la verdad, entre otras. La idea se le ocurrió a la artista después de haber tenido un sueño en el que se presentaba a sí misma como un templo que refugiaba a mujeres y niños. Al igual que el templo, el libro textil cumple la función de cobijar a quienes lo deseen.
@@ -201,11 +201,11 @@ Los dibujos de los instructivos creados por Mahdi son de carácter neutro, pero 
 
 <figure class="blog-image">
     <img
-        src="/blog/apuntes/soy-de-palestina-un-relato-visual-de-rebeldia/AKPERFORMANCE1.jpg"
+        src="/blog/apuntes/soy-de-palestina-un-relato-visual-de-rebeldia/AKPERFORMANCE1.jpg">
+    <figcaption>
+        Performance de Areej Kaoud. Cortesía de la artista
+    </figcaption>
 </figure>
-
-Performance de Areej Kaoud. Cortesía de la artista
-
 Desde Inglaterra, su compatriota Areej Kaoud considera que ser palestino implica una condición intrínseca de supervivencia. De hecho, esa es la primera palabra con la que se le ocurre describir la mentalidad de sus padres, quienes han sido desplazados de su hogar en múltiples ocasiones. Desde el momento en que nacieron, los padres de Areej inculcaron en ella y en sus hermanos la necesidad de estar siempre preparados para lo peor. Una disposición ante la vida que caló en Areej de manera tan profunda, que la mayoría de sus obras tienen origen en escenarios catastróficos y los mecanismos para enfrentarlos.
 
 Después de años de investigación sobre este tema, la artista llegó a la conclusión de que uno de los mecanismos de supervivencia más eficaces es el de la ansiedad. Aunque este estado tiene una connotación popularmente negativa, ella se rehúsa a evitarlo. Es con esta idea en mente que en 2017 mandó a fabricar globos de helio dorados en los que se pudiera leer Anxiety is a present of the present.

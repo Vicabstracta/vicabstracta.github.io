@@ -101,11 +101,11 @@ A diferencia de las otras dos Pantallas Blandas, la piel sintética que recubre 
 
 <figure class="blog-image">
     <img
-        src="/blog/apuntes/devorando-miserias-con-los-ojos/Mariana-Najmanovich-Utopia-I-2023-oleo-sobre-papel-silicona-hilo-75-x-57-cm.jpg"
+        src="/blog/apuntes/devorando-miserias-con-los-ojos/Mariana-Najmanovich-Utopia-I-2023-oleo-sobre-papel-silicona-hilo-75-x-57-cm.jpg">
+    <figcaption>
+        Mariana Najmanovich, Utopía I y II, 2023, óleo sobre papel, 75 x 57 cm. Foto: Felipe Ugalde
+    </figcaption>
 </figure>
-
-Mariana Najmanovich, Utopía I y II, 2023, óleo sobre papel, 75 x 57 cm. Foto: Felipe Ugalde
-
 El impulso morboso vuelve a manifestarse en las pinturas Utopía I y II, las cuales nos transportan a una especie de coliseo moderno donde se desarrolla una escena cautivadora. Cada cuadro muestra a un individuo siendo invadido por una maraña de cables. La finalidad específica del procedimiento no está clara, pero su violencia resulta evidente. Pareciera tratarse de una especie de tortura: más allá de su propósito utilitario, los seres se someten al cablerío como parte del procedimiento.
 
 Desde las gradas, los espectadores son testigos del acontecimiento. En Utopía II no alcanzamos a verlos, ya que el encuadre se corta a la altura de un conjunto de doctores operando en segundo plano. En Utopía I, en tanto, once hombres con aspecto de aristócratas, absortos en la escena, devoran la desgracia de la víctima con los ojos. Ambas pinturas encapsulan el mensaje de esta sobrecogedora exposición: la imposibilidad de disociar las implicancias antiéticas de los avances tecnológicos del sistema socioeconómico que las avala.

@@ -180,7 +180,7 @@ Desde que Merino asumió la presidencia, el 10 de noviembre de 2020, hasta el 15
 
 <figure class="blog-image">
     <img
-        src="/blog/apuntes/desafiando-taxonomias-coloniales-una-conversacion-con-claudia-coca/Barra-Botanica.jpg"
+        src="/blog/apuntes/desafiando-taxonomias-coloniales-una-conversacion-con-claudia-coca/Barra-Botanica.jpg">
 </figure>
 
 Han pasado años y Claudia sostiene que la situación política actual sigue siendo deplorable. El panorama bajo el gobierno de Diana Baluarte -dice- es aún peor que el de los años 90. Pese a su descontento, no ha participado recientemente en manifestaciones debido a limitaciones de tiempo. Se encarga de Barra Botánica, cuida de dos hijos adolescentes afectados emocionalmente por la pandemia y, por supuesto, debe ir al taller.

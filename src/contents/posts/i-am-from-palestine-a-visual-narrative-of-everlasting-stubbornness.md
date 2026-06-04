@@ -31,11 +31,11 @@ In addition to the illustrations, Aml also shares photographs depicting the envi
 
 <figure class="blog-image">
     <img
-        src="/blog/apuntes/i-am-from-palestine-a-visual-narrative-of-everlasting-stubbornness/AMLB1-893x900.jpg"
+        src="/blog/apuntes/i-am-from-palestine-a-visual-narrative-of-everlasting-stubbornness/AMLB1-893x900.jpg">
+    <figcaption>
+        Aml Nakhla, War diaries. Courtesy of the artist
+    </figcaption>
 </figure>
-
-Aml Nakhla, War diaries. Courtesy of the artist
-
 Approximately 93 kilometers away, photographer Maen Hammad documents the experience of another territory occupied in Palestine: the West Bank. His photographs capture both the desolation of everyday environments and the most brutal impacts of the violence caused by the Israeli occupation, providing a comprehensive insight into the harsh reality faced by the Palestinian people.
 
 In documenting such a violently dynamic landscape, Maen had to face the challenge of carefully selecting the denounced atrocities his compatriots have uncovered on social media. Although he is aware of his limitations in addressing all perspectives, the photographer persists in capturing the struggle to the best of his ability. Vivid shots of marches in the streets, the constant threat of Israeli surveillance, and the sometimes-fatal injuries on the bodies of his fellow citizens make up some of the visual chronicles he has managed to immortalize.
@@ -58,11 +58,11 @@ His participation in this exhibition, however, was not without controversy. The 
 
 <figure class="blog-image">
     <img
-        src="/blog/apuntes/i-am-from-palestine-a-visual-narrative-of-everlasting-stubbornness/MaenHammad8.jpg"
+        src="/blog/apuntes/i-am-from-palestine-a-visual-narrative-of-everlasting-stubbornness/MaenHammad8.jpg">
+    <figcaption>
+        Photography by Maen Hammad. Courtesy of the artist
+    </figcaption>
 </figure>
-
-Photography by Maen Hammad. Courtesy of the artist
-
 Since October 7th, many exhibitions have been canceled because participating artists expressed their support for the Palestinian cause on their social media platforms. Among the most well-known are Candice Breitz, Samia Halaby, and Ai Weiwei. One of the most scandalous controversies involved the legendary DOCUMENTA, which faced a mass resignation of its six Selection Committee members. One of them was accused of signing a letter in 2019 comparing Zionism in Israel to Hindu nationalism in India.
 
 The Venice Biennale also encountered a series of controversies after rejecting a proposal from the Palestine Museum US. The request aimed to organize a collateral event featuring 23 Palestinian artists, some of whom currently reside in tents in Rafah, Gaza. The institution expressed its disagreement with the Biennale’s decision, highlighting a radically different approach taken towards Ukraine, with the country receiving full support during the Russian invasion.
@@ -133,11 +133,11 @@ Alongside initiatives aimed at raising awareness of the genocide through art, pr
 
 <figure class="blog-image">
     <img
-        src="/blog/apuntes/i-am-from-palestine-a-visual-narrative-of-everlasting-stubbornness/RGNHEH1.jpg"
+        src="/blog/apuntes/i-am-from-palestine-a-visual-narrative-of-everlasting-stubbornness/RGNHEH1.jpg">
+    <figcaption>
+        Rafael Guendelman Hales, The Aliyah, Yeridah Project. Video and artist book. Courtesy of the artist
+    </figcaption>
 </figure>
-
-Rafael Guendelman Hales, The Aliyah, Yeridah Project. Video and artist book. Courtesy of the artist
-
 Rafael Guendelman Hales, a Chilean artist with both Arab and Jewish roots, has devoted years of his career to exploring the Palestinian-Israeli struggle, examining how it can relate to the Chilean experience, and delving into themes of migration, identity, and memory. From the beginning of his artistic career, he has focused on investigating the impact of territorial structuring on its inhabitants. However, it was during his first trip to Israel that he realized the complexity of the struggle and its broader implications, shedding new light on the phenomenon he had previously begun to address in his homeland.
 
 During his months in Israel, Rafael took the opportunity to gather photographic material. Upon returning to Chile, he used the videos as input for the exhibition Sin Tierra (No Land / Landless), which approached the Arab-Israeli struggle based on its similarities with recent Chilean history.
@@ -154,11 +154,11 @@ Seven years later, he unveiled his project Aliyá (ascend and migrate to Israel)
 
 <figure class="blog-image">
     <img
-        src="/blog/apuntes/i-am-from-palestine-a-visual-narrative-of-everlasting-stubbornness/Gloria-Belen-Gloribel-Delgado-2.jpg"
+        src="/blog/apuntes/i-am-from-palestine-a-visual-narrative-of-everlasting-stubbornness/Gloria-Belen-Gloribel-Delgado-2.jpg">
+    <figcaption>
+        Gloria Belén (Gloribel) Delgado, Reza por Gaza (Pray for Gaza), textile book. Courtesy of the artist
+    </figcaption>
 </figure>
-
-Gloria Belén (Gloribel) Delgado, Reza por Gaza (Pray for Gaza), textile book. Courtesy of the artist
-
 A similar comparison can be made with Puerto Rico, whose status as a commonwealth associated with the United States mirrors the colonial dynamics between Israel and Palestine. This situation has prompted Gloria Belén (Gloribel) Delgado to remain vigilant about news from Palestine for years. Up until now, the Puerto Rican artist had written several pieces about the situation in the Middle East. However, following the attacks on October 7th, she resolved to broaden the artistic language through which she expresses herself about the situation.
 
 In late February, Gloribel participated in Codex, one of the most important artist’s book fairs in the United States, with her piece Reza por Gaza. (Pray for Gaza). This textile book presents a prayer on each page: pray for the children, for hospitals with medicine, and for truth to prevail, among others. The artist came up with the idea after having a dream in which she saw herself as a temple sheltering women and children. Like a sacred sanctuary, the textile book serves the purpose of providing refuge for those in need.
@@ -201,11 +201,11 @@ Despite the neutral features of the human figures in Mahdi’s instructional pap
 
 <figure class="blog-image">
     <img
-        src="/blog/apuntes/i-am-from-palestine-a-visual-narrative-of-everlasting-stubbornness/AKPERFORMANCE1.jpg"
+        src="/blog/apuntes/i-am-from-palestine-a-visual-narrative-of-everlasting-stubbornness/AKPERFORMANCE1.jpg">
+    <figcaption>
+        Performance by Areej Kaoud. Courtesy of the artist
+    </figcaption>
 </figure>
-
-Performance by Areej Kaoud. Courtesy of the artist
-
 His compatriot Areej Kaoud, speaking from England, believes that being Palestinian involves an intrinsic condition of survival. In fact, that’s the first word that comes to mind to describe her parents’ mentality, as they have been displaced from their home on multiple occasions. From the moment they were born, Areej’s parents instilled in her and her siblings the need to always be prepared for the worst. This attitude resonated with Areej so deeply that most of her artworks stem from catastrophic scenarios and the mechanisms to confront them.
 
 After years of researching this topic, the artist concluded that one of the most effective survival mechanisms is anxiety. Although this state commonly carries a negative connotation, she refuses to avoid it. Inspired by this mindset, in 2017 she had golden helium balloons made, bearing the words Anxiety is a Present of the Present.

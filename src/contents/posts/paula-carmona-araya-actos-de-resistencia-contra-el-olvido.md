@@ -25,10 +25,11 @@ La imagen es uno de varios gestos de resistencia presentes en la muestra Estrell
 
 <figure class="blog-image">
     <img
-        src="/blog/apuntes/paula-carmona-araya-actos-de-resistencia-contra-el-olvido/ESTRELLA-SOLITARIA-2.jpg"
+        src="/blog/apuntes/paula-carmona-araya-actos-de-resistencia-contra-el-olvido/ESTRELLA-SOLITARIA-2.jpg">
+    <figcaption>
+        Paula Carmona Araya, Estrella Solitaria, 2022. Fotografía. Papel Fine Art Digital Hahnemühle Baryta 325 gr., 12 x 12 cm c/u. Cortesía de la artista y Galería Flach
+    </figcaption>
 </figure>
-
-Paula Carmona Araya, Estrella Solitaria, 2022. Fotografía. Papel Fine Art Digital Hahnemühle Baryta 325 gr., 12 x 12 cm c/u. Cortesía de la artista y Galería Flach
 
 A través de las fotografías de la serie Estrella solitaria la artista propone una capa de lectura más a lo enunciado en Cuerpo como territorio y, sobre todo, plantea correlacionar la identificación con los símbolos patrios con la idea de identidad nacional, que no es un solo cuerpo homogéneo. Como comenta Adaro, la creación fotográfica de Paula Carmona se ofrece como “una disrupción poética-política acerca del cuerpo, las memorias y los signos que nos identifican como territorio común”.
 

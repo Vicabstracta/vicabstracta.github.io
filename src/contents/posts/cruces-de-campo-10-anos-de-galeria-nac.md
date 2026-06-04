@@ -111,11 +111,11 @@ Diego Santa María ofrece una perspectiva similar en Pelota, choritos, jaiba y n
 
 <figure class="blog-image">
     <img
-        src="/blog/apuntes/cruces-de-campo-10-anos-de-galeria-nac/Maria-Gabler-1.jpg"
+        src="/blog/apuntes/cruces-de-campo-10-anos-de-galeria-nac/Maria-Gabler-1.jpg">
+    <figcaption>
+        María Gabler, Ensamblajes, 2023. Materiales encontrados (cemento, madera, barro, ladrillo, piedra, alambre, entre otros). Medidas variables. Fotos cortesía de la artista
+    </figcaption>
 </figure>
-
-María Gabler, Ensamblajes, 2023. Materiales encontrados (cemento, madera, barro, ladrillo, piedra, alambre, entre otros). Medidas variables. Fotos cortesía de la artista
-
 La deriva también está integrada al proceso de creación de la serie Ensamblajes, de María Gabler, en la que combina objetos recolectados de dimensiones que contrastan con sus reconocidas instalaciones monumentales. Estos trabajos, de naturaleza más íntima y exploratoria, reproducen algunas lógicas constructivas chilenas, propias de una arquitectura caracterizada por el uso de materiales ligeros.
 
 Las piezas despliegan un juego de tensiones materiales al incorporar tanto elementos naturales como fabricados, incluida una punta de reja que la artista guardó cuando cambiaron la reja de su casa. Para María, se trata de una especie de ruina bastarda, un fragmento arqueológico que se disuelve y se funde con su entorno, a diferencia del codiciado tesoro que aguarda ser desenterrado y despojado de su historia.
