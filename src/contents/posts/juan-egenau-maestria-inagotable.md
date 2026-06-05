@@ -1,7 +1,7 @@
 ---
 title: "Maestría Inagotable"
 published: 2024-01-02
-description: La Autarquía Artística de Juan Egenau
+description: La autarquía artística de Juan Egenau
 tags: [Artículo]
 category: Artishock
 author: Victoria Abaroa

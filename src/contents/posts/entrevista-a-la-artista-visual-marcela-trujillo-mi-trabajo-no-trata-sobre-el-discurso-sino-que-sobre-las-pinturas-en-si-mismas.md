@@ -2,7 +2,7 @@
 title: "Entrevista a la Artista Visual Marcela Trujillo: “Mi Trabajo No Trata Sobre el Discurso, Sino Que Sobre las Pinturas en Sí Mismas”"
 titleShortened: "Vanity Fauna"
 published: 2024-09-23
-description: Entrevista a la artista visual Marcela Trujillo
+description: Entrevista a la artista visual Marcela Trujillo (Maliki)
 tags: [Entrevista]
 category: Culturizarte
 showFeaturedImage: true

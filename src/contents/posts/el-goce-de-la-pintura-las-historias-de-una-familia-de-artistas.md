@@ -1,7 +1,7 @@
 ---
 title: "El Goce de la Pintura"
 published: 2023-09-07
-description: La(S) Historia(S) De Una Familia De Artistas
+description: La(s) historia(s) de la familia Benmayor
 tags: [Artículo]
 category: Artishock
 author: Victoria Abaroa

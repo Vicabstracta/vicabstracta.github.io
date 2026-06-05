@@ -1,6 +1,6 @@
 ---
-title: "De los Tiempos a Ras de Suelo"
-titleShortened: "De los Tiempos a Ras de Suelo"
+title: "de los tiempos a ras de suelo"
+titleShortened: "de los tiempos a ras de suelo"
 published: 2025-01-08
 description: Mónica Bengoa y la bótanica del instante
 tags: [Artículo]

@@ -2,7 +2,7 @@
 title: Ojos de Perro
 titleShortened: "Ojos de Perro"
 published: 2025-10-26
-description: El Perro semihundido de Francisco de Goya
+description: La mirada de una generación
 tags: [Microensayo]
 category: Inédito
 showFeaturedImage: true

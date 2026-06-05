@@ -2,7 +2,7 @@
 title: Irradiar la Mirada
 titleShortened: Irradiar la Mirada
 published: 2026-05-13
-description: La performatividad en "Los ojos de Gutete Emerita" de Alfredo Jaar
+description: La performatividad en los ojos de Gutete Emerita
 tags: [Microensayo]
 category: Inédito
 showFeaturedImage: true

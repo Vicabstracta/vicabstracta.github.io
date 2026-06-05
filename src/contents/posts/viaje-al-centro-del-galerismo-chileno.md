@@ -1,8 +1,8 @@
 ---
 title: "Viaje al Centro del Galerismo Chileno"
 published: 2023-11-20
-description: Artículo publicado en Artishock Revista
-tags: []
+description: El mito de Sísifo según AGAC
+tags: [Artículo]
 category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2023/11/20/viaje-al-centro-del-galerismo-chileno/

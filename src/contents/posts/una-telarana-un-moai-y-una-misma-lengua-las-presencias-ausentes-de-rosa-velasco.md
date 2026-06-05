@@ -1,7 +1,7 @@
 ---
 title: "Una Telaraña, un Moai y una Misma Lengua"
 published: 2023-09-14
-description: Las Presencias Ausentes De Rosa Velasco
+description: Las presencias ausentes de Rosa Velasco
 tags: [Artículo]
 category: Artishock
 author: Victoria Abaroa
