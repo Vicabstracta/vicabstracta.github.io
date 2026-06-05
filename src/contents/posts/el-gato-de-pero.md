@@ -1,5 +1,5 @@
 ---
-title: El gato de Peró
+title: El Gato de Peró
 published: 2025-08-18
 description: Cruce de temporalidades en las pinturas de Francisco Peró
 tags: [Microensayo]
@@ -9,7 +9,8 @@ licenseUrl: https://creativecommons.org/licenses/by-nc-nd/4.0/
 author: Victoria Abaroa
 cover: /blog/apuntes/franciscopero/la-vision-de-un-hombre-que-excede-su-imagen.webp
 draft: false
----
+
+
 
 <figure class="blog-image">
     <img

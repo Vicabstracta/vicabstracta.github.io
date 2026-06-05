@@ -1,6 +1,6 @@
 ---
-title: "Hibridaciones del futuro: Una conversación con Mariana Najmanovich y Sebastián Vidal"
-titleShortened: Hibridaciones del futuro
+title: "Hibridaciones del Futuro: Una Conversación con Mariana Najmanovich y Sebastián Vidal"
+titleShortened: Hibridaciones del Futuro
 published: 2025-01-08
 description: Una conversación con Mariana Najmanovich y Sebastián Vidal
 tags: []
@@ -8,7 +8,8 @@ category: Mediales.art
 author: "Victoria Abaroa"
 sourceLink: https://www.mediales.art/articulos/entrevista-mariana-najmanovich-y-sebastian-vidal
 cover: /blog/apuntes/hibridaciones-del-futuro-una-conversacion-con-mariana-najmanovich-y-sebastian-vidal/677ecd87dd8841c5b72db20d_MNSV.jpg
----
+
+
 
 #### Tras dos años de investigación, la artista Mariana Najmanovich presenta "Animales sumisos" en el Parque Cultural de Valparaíso, un proyecto multidisciplinario curado por Sebastián Vidal, donde las paredes de concreto de la ex cárcel se convierten en el telón de fondo perfecto para una reflexión sobre el control, la vigilancia y las tensiones entre el pasado y el futuro, lo humano y lo posthumano.
 

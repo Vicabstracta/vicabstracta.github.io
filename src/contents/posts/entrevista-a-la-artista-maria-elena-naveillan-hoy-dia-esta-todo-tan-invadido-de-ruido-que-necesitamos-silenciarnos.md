@@ -1,6 +1,6 @@
 ---
-title: "Entrevista a la artista María Elena Naveillan: “Hoy día está todo tan invadido de ruido que necesitamos silenciarnos”"
-titleShortened: "Silencio en medio del ruido"
+title: "Entrevista a la Artista María Elena Naveillan: “Hoy Día Está Todo Tan Invadido de Ruido Que Necesitamos Silenciarnos”"
+titleShortened: "Silencio en Medio del Ruido"
 published: 2024-02-08
 description: Entrevista a la artista María Elena Naveillan
 tags: [Entrevista]
@@ -10,7 +10,8 @@ author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/entrevista-a-la-artista-maria-elena-naveillan-hoy-dia-esta-todo-tan-invadido-de-ruido-que-necesitamos-silenciarnos/
 cover: /blog/apuntes/entrevista-a-la-artista-maria-elena-naveillan-hoy-dia-esta-todo-tan-invadido-de-ruido-que-necesitamos-silenciarnos/MEN-recorte.jpeg
 objectPosition: 50% 30%
----
+
+
 
 **Por Victoria Abaroa**
 

@@ -1,5 +1,5 @@
 ---
-title: "Desplazadores Del Grabado"
+title: "Desplazadores del Grabado"
 published: 2022-08-09
 description:  Una Revisión Historiográfica
 tags: [Artículo]
@@ -7,7 +7,8 @@ category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2022/08/09/desplazadores-del-grabado/
 cover: /blog/apuntes/desplazadores-del-grabado-una-revision-historiografica/Las-12-tareas-06-1.jpg
----
+
+
 
 Entre junio y julio pasados se presentó en la Galería Artespacio de Santiago Artistas del desplazamiento, un proyecto que a través de una exposición, un video documental y una publicación pone en valor la producción de un movimiento artístico integrado por Alicia Villarreal, Silvio Paredes, Arturo Duclos, Mario Soro y Carlos Gallardo, cuya actividad e identidad propias cobró fuerza entre los años 1979 y 1983.
 

@@ -1,5 +1,5 @@
 ---
-title: "Proyecto Honorarias. ¿Quién Trabaja Para Quién?"
+title: "Proyecto Honorarias. ¿Quién Trabaja para Quién?"
 published: 2024-04-22
 description: Artículo publicado en Artishock Revista
 tags: []
@@ -7,7 +7,8 @@ category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2024/04/22/proyecto-honorarias-quien-trabaja-para-quien/
 cover: /blog/apuntes/proyecto-honorarias-quien-trabaja-para-quien/Las-Honorarias-7.jpg
----
+
+
 
 #### En su muestra actual en la Galería Macchina, el colectivo Las Honorarias aborda nuevamente la noción de trabajo en la cultura contemporánea desde una perspectiva crítica. En esta ocasión, invitan a 18 artistas a idear obras que ellas mismas interpretarán, producirán y exhibirán. Este planteamiento desencadena una dinámica singular en la que Las Honorarias trabajan bajo las directrices de otros artistas, dando lugar a obras originales sin una autoría claramente definida.
 

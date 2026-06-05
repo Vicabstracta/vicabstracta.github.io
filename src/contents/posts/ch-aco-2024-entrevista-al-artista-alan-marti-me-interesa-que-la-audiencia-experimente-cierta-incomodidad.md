@@ -1,6 +1,6 @@
 ---
-title: "Ch.ACO 2024 Entrevista al artista Alan Martí: “Me interesa que la audiencia experimente cierta incomodidad”"
-titleShortened: "Cierta incomodidad"
+title: "Ch.ACO 2024 Entrevista al Artista Alan Martí: “Me Interesa Que la Audiencia Experimente Cierta Incomodidad”"
+titleShortened: "Cierta Incomodidad"
 published: 2024-03-22
 description: Ch.ACO 2024 Entrevista al artista Alan Martí
 tags: [Entrevista]
@@ -10,7 +10,8 @@ author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/ch-aco-2024-entrevista-al-artista-alan-marti-me-interesa-que-la-audiencia-experimente-cierta-incomodidad/
 cover: /blog/apuntes/ch-aco-2024-entrevista-al-artista-alan-marti-me-interesa-que-la-audiencia-experimente-cierta-incomodidad/1711116932801-scaled.jpg
 objectPosition: 50% 30%
----
+
+
 
 **Por Victoria Abaroa**
 

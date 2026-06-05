@@ -1,6 +1,6 @@
 ---
-title: "Conservar \"Un Metro Del Ecuador\"..."
-titleShortened: "Conservar \"Un Metro Del Ecuador\""
+title: "Conservar \\"Un Metro del Ecuador\\"..."
+titleShortened: "Conservar \\"Un Metro del Ecuador\\""
 published: 2024-01-06
 description: Y Más Allá. La Colección Giaconi Raad
 tags: [Artículo]
@@ -8,7 +8,8 @@ category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2024/01/06/coleccion-giaconi-raad-en-il-posto/
 cover: /blog/apuntes/conservar-un-metro-del-ecuador-y-mas-alla-la-coleccion-giaconi-raad/Manuela-Ribadaneira.jpg
----
+
+
 
 #### La exposición Un metro del Ecuador, que se presenta en Il Posto hasta el 13 de enero, da cuenta del compromiso de una pareja de coleccionistas con la producción artística más reciente de ese país. Bajo la curaduría de Rodolfo Kronfle Chambers, las quince obras allí reunidas marcan la primera oportunidad para que el público chileno conozca algunas de las derivas históricas que han marcado al Ecuador a través de la práctica de sus artistas.
 

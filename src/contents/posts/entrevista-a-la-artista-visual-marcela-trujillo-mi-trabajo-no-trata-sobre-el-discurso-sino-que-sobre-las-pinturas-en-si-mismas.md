@@ -1,5 +1,5 @@
 ---
-title: "Entrevista a la artista visual Marcela Trujillo: “Mi trabajo no trata sobre el discurso, sino que sobre las pinturas en sí mismas”"
+title: "Entrevista a la Artista Visual Marcela Trujillo: “Mi Trabajo No Trata Sobre el Discurso, Sino Que Sobre las Pinturas en Sí Mismas”"
 titleShortened: "Vanity Fauna"
 published: 2024-09-23
 description: Entrevista a la artista visual Marcela Trujillo
@@ -10,7 +10,8 @@ author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/entrevista-a-la-artista-visual-marcela-trujillo-mi-trabajo-no-trata-sobre-el-discurso-sino-que-sobre-las-pinturas-en-si-mismas/
 cover: /blog/apuntes/entrevista-a-la-artista-visual-marcela-trujillo-mi-trabajo-no-trata-sobre-el-discurso-sino-que-sobre-las-pinturas-en-si-mismas/IMG_8137-1-scaled.jpeg
 objectPosition: 50% 38%
----
+
+
 
 **Por Victoria Abaroa**
 

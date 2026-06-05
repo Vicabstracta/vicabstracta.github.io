@@ -1,6 +1,6 @@
 ---
-title: "Ch.ACO 2024 Entrevista al artista Samy Benmayor: “Mis imágenes están inspiradas en los primeros recuerdos de la infancia”"
-titleShortened: "Recuerdos de infancia"
+title: "Ch.ACO 2024 Entrevista al Artista Samy Benmayor: “Mis Imágenes Están Inspiradas en los Primeros Recuerdos de la Infancia”"
+titleShortened: "Recuerdos de Infancia"
 published: 2024-03-22
 description: Ch.ACO 2024 Entrevista al artista Samy Benmayor
 tags: [Entrevista]
@@ -10,7 +10,8 @@ author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/ch-aco-2024-entrevista-al-artista-samy-benmayor-mis-imagenes-estan-inspiradas-en-los-primeros-recuerdos-de-la-infancia/
 cover: /blog/apuntes/ch-aco-2024-entrevista-al-artista-samy-benmayor-mis-imagenes-estan-inspiradas-en-los-primeros-recuerdos-de-la-infancia/SAMY-scaled.jpg
 objectPosition: 50% 36%
----
+
+
 
 **Por Victoria Abaroa**
 

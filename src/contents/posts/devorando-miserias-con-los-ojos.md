@@ -1,5 +1,5 @@
 ---
-title: "Devorando Miserias Con Los Ojos"
+title: "Devorando Miserias con los Ojos"
 published: 2024-03-16
 description: Las pantallas blandas de Mariana Najmanovich
 tags: [Artículo]
@@ -7,7 +7,8 @@ category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2024/03/16/devorando-miserias-con-los-ojos/
 cover: /blog/apuntes/devorando-miserias-con-los-ojos/Mariana-Najmanovich-en-colaboracion-con-Hypereikon-Biologia-Liquida-2023-Still-de-video-2.jpg
----
+
+
 
 #### La intersección entre lo humano y lo tecnológico siguen siendo una constante en la obra de Mariana Najmanovich (1983). En Pantallas Blandas, su actual exposición en Galería Aninat, la artista chilena nacida en Argentina echa mano de la inteligencia artificial y la piel sintética para expandir un discurso que pone de manifiesto la crudeza y el realismo de la ciencia ficción (y no ficción) en el presente.
 

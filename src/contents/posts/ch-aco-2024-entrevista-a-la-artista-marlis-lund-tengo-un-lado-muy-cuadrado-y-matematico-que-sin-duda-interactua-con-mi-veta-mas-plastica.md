@@ -1,6 +1,6 @@
 ---
-title: "Ch.ACO 2024 Entrevista a la artista Marlis Lund: “Tengo un lado muy cuadrado y matemático que sin duda interactúa con mi veta más plástica”"
-titleShortened: "Cuadrícula plástica"
+title: "Ch.ACO 2024 Entrevista a la Artista Marlis Lund: “Tengo un Lado Muy Cuadrado y Matemático Que Sin Duda Interactúa con Mi Veta Más Plástica”"
+titleShortened: "Cuadrícula Plástica"
 published: 2024-03-25
 description: Ch.ACO 2024 Entrevista a la artista Marlis Lund
 tags: [Entrevista]
@@ -9,7 +9,8 @@ showFeaturedImage: true
 author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/ch-aco-2024-entrevista-a-la-artista-marlis-lund-tengo-un-lado-muy-cuadrado-y-matematico-que-sin-duda-interactua-con-mi-veta-mas-plastica/
 cover: /blog/apuntes/ch-aco-2024-entrevista-a-la-artista-marlis-lund-tengo-un-lado-muy-cuadrado-y-matematico-que-sin-duda-interactua-con-mi-veta-mas-plastica/Marlis-Lund-scaled.jpg
----
+
+
 
 
 

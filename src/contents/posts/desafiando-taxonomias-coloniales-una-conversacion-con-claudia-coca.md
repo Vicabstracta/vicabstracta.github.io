@@ -1,5 +1,5 @@
 ---
-title: "Desafiando Taxonomías Coloniales. Una Conversación Con Claudia Coca"
+title: "Desafiando Taxonomías Coloniales. Una Conversación con Claudia Coca"
 titleShortened: Desafiando Taxonomías Coloniales
 published: 2023-11-22
 description: Una Conversación Con Claudia Coca
@@ -8,7 +8,8 @@ category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2023/11/22/conversacion-claudia-coca/
 cover: /blog/apuntes/desafiando-taxonomias-coloniales-una-conversacion-con-claudia-coca/Claudia-Coca-Galeria-del-Paseo-por-Juan-Pablo-Murrugarra-2.jpg
----
+
+
 
 #### A través de un conjunto de obras en diversos formatos, Claudia Coca desarticula los mecanismos de dominación colonial asociados a la clasificación jerárquica de los seres vivos. La prevalencia de estos ordenamientos ilusorios pero de base científica, desde la colonia hasta el día de hoy, se manifiesta en su actual exposición en Galería del Paseo, en la que la artista peruana nos insta a cuestionar estos prejuicios arraigados.
 

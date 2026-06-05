@@ -1,6 +1,6 @@
 ---
-title: 'Entrevista a Valentina Maza: "Busco espacio", el cuerpo como partitura sonora'
-titleShortened: "El cuerpo como partitura sonora"
+title: "Entrevista a Valentina Maza: \"Busco Espacio\", el Cuerpo Como Partitura Sonora"
+titleShortened: "El Cuerpo Como Partitura Sonora"
 published: 2025-08-11
 description: Cuerpo, arquitectura y sonido en "Busco Espacio" de Valentina Maza
 tags: [Entrevista]
@@ -8,7 +8,8 @@ category: Mediales.art
 author: "Victoria Abaroa"
 sourceLink: https://www.mediales.art/articulos/valentina-maza-busco-espacio
 cover: /blog/apuntes/entrevista-a-valentina-maza-busco-espacio-el-cuerpo-como-partitura-sonora/6898d22340bd0160b7e60661_VMBE.jpg
----
+
+
 
 #### La compositora, violista y productora chilena Valentina Maza reflexiona sobre "Busco espacio", el proyecto que le valió el Premio Pulsar a Mejor Álbum de Música Electrónica 2025. Concebido inicialmente como una exploración sonora durante una residencia en el GAM, esta obra evolucionó hacia una práctica interdisciplinar donde cuerpo, arquitectura y sonido convergen en una investigación doctoral que propone una nueva forma de habitar la música desde lo performativo, lo escénico y lo instalativo.
 

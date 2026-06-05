@@ -1,5 +1,5 @@
 ---
-title: "Entrevista a la artista Maura Valin: “Mi influencia soy yo misma”"
+title: "Entrevista a la Artista Maura Valin: “Mi Influencia Soy Yo Misma”"
 titleShortened: El Maravilloso Mundo de Mergumberg
 published: 2024-02-07
 description: Entrevista a la artista Maura Valin
@@ -9,7 +9,8 @@ showFeaturedImage: true
 author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/entrevista-a-la-artista-maura-valin-mi-influencia-soy-yo-misma/
 cover: /blog/apuntes/entrevista-a-la-artista-maura-valin-mi-influencia-soy-yo-misma/WhatsApp-Image-2024-02-07-at-11.24.51.jpeg
----
+
+
 
 **Por Victoria Abaroa**
 

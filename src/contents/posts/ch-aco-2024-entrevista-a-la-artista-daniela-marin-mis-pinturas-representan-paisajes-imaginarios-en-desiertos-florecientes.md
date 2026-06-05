@@ -1,6 +1,6 @@
 ---
-title: "Ch.ACO 2024 Entrevista a la artista Daniela Marin: “Mis pinturas representan paisajes imaginarios en desiertos florecientes”"
-titleShortened: "Imaginarios en desiertos florecientes"
+title: "Ch.ACO 2024 Entrevista a la Artista Daniela Marin: “Mis Pinturas Representan Paisajes Imaginarios en Desiertos Florecientes”"
+titleShortened: "Imaginarios en Desiertos Florecientes"
 published: 2024-03-26
 description: Ch.ACO 2024 Entrevista a la artista Daniela Marin
 tags: [Entrevista]
@@ -10,7 +10,8 @@ author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/ch-aco-2024-entrevista-a-la-artista-daniela-marin-mis-pinturas-representan-paisajes-imaginarios-en-desiertos-florecientes/
 cover: /blog/apuntes/ch-aco-2024-entrevista-a-la-artista-daniela-marin-mis-pinturas-representan-paisajes-imaginarios-en-desiertos-florecientes/Daniela-Marin-scaled.jpg
 objectPosition: 50% 40%
----
+
+
 
 **Por Victoria Abaroa**
 

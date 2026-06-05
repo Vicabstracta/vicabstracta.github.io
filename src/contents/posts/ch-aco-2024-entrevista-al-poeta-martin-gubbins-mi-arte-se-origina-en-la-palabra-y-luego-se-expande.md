@@ -1,6 +1,6 @@
 ---
-title: "Ch.ACO 2024 Entrevista al poeta Martín Gubbins: “Mi arte se origina en la palabra y luego se expande”"
-titleShortened: "Palabra expansiva"
+title: "Ch.ACO 2024 Entrevista al Poeta Martín Gubbins: “Mi Arte Se Origina en la Palabra y Luego Se Expande”"
+titleShortened: "Palabra Expansiva"
 published: 2024-03-22
 description: Ch.ACO 2024 Entrevista al poeta Martín Gubbins
 tags: [Entrevista]
@@ -10,7 +10,8 @@ author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/ch-aco-2024-entrevista-al-poeta-martin-gubbins-mi-arte-se-origina-en-la-palabra-y-luego-se-expande/
 cover: /blog/apuntes/ch-aco-2024-entrevista-al-poeta-martin-gubbins-mi-arte-se-origina-en-la-palabra-y-luego-se-expande/MARTIN-GUBBINS-scaled.jpg
 objectPosition: 50% 48%
----
+
+
 
 **Por Victoria Abaroa**
 

@@ -1,6 +1,6 @@
 ---
-title: "From The Other Side of a Landscape, el nuevo proyecto de Enrique Ramírez y Matthias Puech"
-titleShortened: "From The Other Side of a Landscape"
+title: "From The Other Side Of a Landscape, el Nuevo Proyecto de Enrique Ramírez y Matthias Puech"
+titleShortened: "From The Other Side Of a Landscape"
 published: 2025-02-24
 description: El nuevo proyecto de Enrique Ramírez y Matthias Puech
 tags: []
@@ -8,7 +8,8 @@ category: Mediales.art
 author: "Victoria Abaroa"
 sourceLink: https://www.mediales.art/articulos/enrique-ramirez-entrevista
 cover: /blog/apuntes/from-the-other-side-of-a-landscape-el-nuevo-proyecto-de-enrique-ramirez-y-matthias-puech/67b8a1b76b12cc8b4e185fb8_image4.jpeg
----
+
+
 
 #### El artista visual acaba de lanzar junto al compositor francés Matthias Puech, un disco de seis piezas grabado durante una performance de ocho horas en el Museo Louvre-Lens. A través de música generativa, el álbum fusiona las nociones tradicionales que subyacen entre naturaleza y artificialidad, e invita al oyente a conocer nuevos paisajes atemporales, resultado de la investigación sonora electrónica de ambos artistas.
 

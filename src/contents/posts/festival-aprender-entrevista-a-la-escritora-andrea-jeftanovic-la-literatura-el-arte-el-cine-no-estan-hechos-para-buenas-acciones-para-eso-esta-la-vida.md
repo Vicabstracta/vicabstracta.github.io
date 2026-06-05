@@ -1,6 +1,6 @@
 ---
-title: "FESTIVAL APRENDER Entrevista a la escritora Andrea Jeftanovic: “La literatura, el arte, el cine, no están hechos para buenas acciones, para eso está la vida”"
-titleShortened: El Arte No Está Para Las Buenas Acciones
+title: "FESTIVAL APRENDER Entrevista a la Escritora Andrea Jeftanovic: “La Literatura, el Arte, el Cine, No Están Hechos para Buenas Acciones, para Eso Está la Vida”"
+titleShortened: El Arte No Está para las Buenas Acciones
 published: 2024-01-11
 description: Entrevista a la escritora Andrea Jeftanovic
 tags: [Entrevista]
@@ -10,7 +10,8 @@ author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/festival-aprender-entrevista-a-la-escritora-andrea-jeftanovic-la-literatura-el-arte-el-cine-no-estan-hechos-para-buenas-acciones-para-eso-esta-la-vida/
 cover: /blog/apuntes/festival-aprender-entrevista-a-la-escritora-andrea-jeftanovic-la-literatura-el-arte-el-cine-no-estan-hechos-para-buenas-acciones-para-eso-esta-la-vida/1704923506030-scaled.jpg
 objectPosition: 50% 55%
----
+
+
 
 **Foto: Julia Toro**
 

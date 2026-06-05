@@ -1,5 +1,5 @@
 ---
-title: En el espacio del dolor
+title: En el Espacio del Dolor
 published: 2025-07-27
 description: La instalación de Joseph Beuys en el Caixaforum de Barcelona
 tags: [Microensayo]
@@ -8,7 +8,8 @@ licenseName: CC BY-NC-ND 4.0
 licenseUrl: https://creativecommons.org/licenses/by-nc-nd/4.0/
 author: Victoria Abaroa
 cover: /blog/apuntes/josephbeuys/elespaciodeldolorjosephbeuys.webp
----
+
+
 
 <figure class="blog-image">
     <img

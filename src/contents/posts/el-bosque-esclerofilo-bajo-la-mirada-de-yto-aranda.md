@@ -1,6 +1,6 @@
 ---
-title: "El bosque esclerófilo bajo la mirada de Yto Aranda"
-titleShortened: "El bosque esclerófilo de Yto Aranda"
+title: "El Bosque Esclerófilo Bajo la Mirada de Yto Aranda"
+titleShortened: "El Bosque Esclerófilo de Yto Aranda"
 published: 2025-03-19
 description: Radix Sapiens en la Bienal de la Habana
 tags: [Artículo]
@@ -8,7 +8,8 @@ category: Mediales.art
 author: "Victoria Abaroa"
 sourceLink: https://www.mediales.art/articulos/yto-aranda-entrevista
 cover: /blog/apuntes/el-bosque-esclerofilo-bajo-la-mirada-de-yto-aranda/67c5c4dd6bf85d6f96f35540_yto1.jpg
----
+
+
 
 #### Desde hace casi 10 años, el bosque esclerófilo de Rao Caya ha sido el eje central en la producción creativa de Yto Aranda. Ahí, a más de 100 kilómetros al suroeste de Santiago, no solo realiza residencias artísticas, también de ese lugar ha surgido "Radix Sapiens", su última obra que transportó a los visitantes de la Bienal de La Habana a este ecosistema a través de dos libros de artista sonoros, lumínicos y reactivos.
 

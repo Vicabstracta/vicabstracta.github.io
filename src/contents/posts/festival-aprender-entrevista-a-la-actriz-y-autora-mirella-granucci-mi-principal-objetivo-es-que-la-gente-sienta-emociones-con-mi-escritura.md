@@ -1,6 +1,6 @@
 ---
-title: "FESTIVAL APRENDER Entrevista a la actriz y autora Mirella Granucci: “Mi principal objetivo es que la gente sienta emociones con mi escritura”"
-titleShortened: Escribir Para Entenderse
+title: "FESTIVAL APRENDER Entrevista a la Actriz y Autora Mirella Granucci: “Mi Principal Objetivo Es Que la Gente Sienta Emociones con Mi Escritura”"
+titleShortened: Escribir para Entenderse
 published: 2024-01-10
 description: Entrevista a la actriz y autora Mirella Granucci
 tags: [Entrevista]
@@ -10,7 +10,8 @@ author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/entrevista-a-la-actriz-y-autora-mirella-granucci-creo-que-el-sabor-de-la-soledad-es-algo-que-fue-cambiando-con-el-tiempo-y-hoy-me-parece-riquisimo/
 cover: /blog/apuntes/festival-aprender-entrevista-a-la-actriz-y-autora-mirella-granucci-mi-principal-objetivo-es-que-la-gente-sienta-emociones-con-mi-escritura/IMG_20240107_142820-01-scaled.jpeg
 objectPosition: 50% 60%
----
+
+
 
 **Por Victoria Abaroa**
 

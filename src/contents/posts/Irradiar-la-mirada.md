@@ -1,6 +1,6 @@
 ---
-title: Irradiar la mirada
-titleShortened: Irradiar la mirada
+title: Irradiar la Mirada
+titleShortened: Irradiar la Mirada
 published: 2026-05-13
 description: La performatividad en "Los ojos de Gutete Emerita" de Alfredo Jaar
 tags: [Microensayo]
@@ -9,7 +9,8 @@ showFeaturedImage: true
 author: "Victoria Abaroa"
 cover: /blog/apuntes/irradiar-la-mirada/la-mirada-de-gutete-mesa-2.jpg
 
----
+
+
 
 **Por Victoria Abaroa**
 

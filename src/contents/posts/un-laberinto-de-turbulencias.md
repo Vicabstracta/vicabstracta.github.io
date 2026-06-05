@@ -1,5 +1,5 @@
 ---
-title: "Un Laberinto De Turbulencias"
+title: "Un Laberinto de Turbulencias"
 published: 2024-09-05
 description: El proyecto artístico de Boris Campos y Serena Oliva
 tags: []
@@ -7,7 +7,8 @@ category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2024/09/05/un-laberinto-de-turbulencias/
 cover: /blog/apuntes/un-laberinto-de-turbulencias/Boris-Campos-y-Serena-Oliva-en-el-MAC.jpg
----
+
+
 
 #### Las experiencias de adicción a las sustancias son complejas, y They Tried to Make Me Go to Rehab lo ilustra de manera sobresaliente. Utilizando la indeterminación característica de las artes visuales, el proyecto capta los matices de la experiencia vivida por Boris Campos, quien fue un paciente en terapia de rehabilitación, y Serena Oliva, quien lo acompañó durante el proceso.
 

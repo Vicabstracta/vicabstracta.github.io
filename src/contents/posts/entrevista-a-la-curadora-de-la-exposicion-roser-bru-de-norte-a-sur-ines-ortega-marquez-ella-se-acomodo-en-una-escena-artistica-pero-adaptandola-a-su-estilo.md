@@ -1,6 +1,6 @@
 ---
-title: "Entrevista a la curadora de la exposición “Roser Bru: de Norte a Sur” Inés Ortega-Márquez: “Ella se acomodó en una escena artística, pero adaptándola a su estilo”"
-titleShortened: "Roser Bru: de Norte a Sur"
+title: "Entrevista a la Curadora de la Exposición “Roser Bru: De Norte a Sur” Inés Ortega-márquez: “Ella Se Acomodó en una Escena Artística, pero Adaptándola a Su Estilo”"
+titleShortened: "Roser Bru: De Norte a Sur"
 published: 2024-02-01
 description: Entrevista a la curadora Inés Ortega-Márquez
 tags: [Entrevista]
@@ -10,7 +10,8 @@ author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/entrevista-a-la-curadora-de-la-exposicion-roser-bru-de-norte-a-sur-ines-ortega-marquez-ella-se-acomodo-en-una-escena-artistica-pero-adaptandola-a-su-estilo/
 cover: /blog/apuntes/entrevista-a-la-curadora-de-la-exposicion-roser-bru-de-norte-a-sur-ines-ortega-marquez-ella-se-acomodo-en-una-escena-artistica-pero-adaptandola-a-su-estilo/WhatsApp-Image-2024-02-01-at-14.39.46.jpeg
 objectPosition: 50% 48%
----
+
+
 
 **Por Victoria Abaroa**
 

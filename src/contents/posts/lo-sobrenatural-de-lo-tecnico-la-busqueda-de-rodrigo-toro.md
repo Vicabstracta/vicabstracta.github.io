@@ -1,5 +1,5 @@
 ---
-title: "Lo sobrenatural de lo técnico"
+title: "Lo Sobrenatural de Lo Técnico"
 published: 2025-09-08
 description: La búsqueda de Rodrigo Toro Madrid
 tags: [Entrevista]
@@ -7,7 +7,8 @@ category: Mediales.art
 author: "Victoria Abaroa"
 sourceLink: https://www.mediales.art/articulos/entrevista-rodrigo-toro
 cover: /blog/apuntes/lo-sobrenatural-de-lo-tecnico-la-busqueda-de-rodrigo-toro/68befddc144833f8b9efc44a_RT2.jpg
----
+
+
 
 #### Entre máquinas que generan viento y sonido, banderas que reaccionan a la luz y órganos artificiales en construcción, Rodrigo Toro explora la frontera entre tecnología y poesía. En "BIRD", proyecto que expone en MâT Artspace, Suiza, convierte referencias históricas y materiales experimentales en un juego sensorial que activa la memoria de los objetos y abre nuevas formas de imaginar el cuerpo y la materia en movimiento. La conversación recorre también su participación en la Bienal de Cuenca, sus reflexiones sobre la historia del sonido y el cruce entre mito, tecnología y experimentación artística.
 

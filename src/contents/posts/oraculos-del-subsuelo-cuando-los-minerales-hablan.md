@@ -1,6 +1,6 @@
 ---
-title: "Oráculos del subsuelo: cuando los minerales hablan"
-titleShortened: "Oráculos del subsuelo"
+title: "Oráculos del Subsuelo: Cuando los Minerales Hablan"
+titleShortened: "Oráculos del Subsuelo"
 published: 2025-06-26
 description: Mále Uribe y Constanza Gaggero en la Bienal de Diseño de Londres
 tags: []
@@ -8,7 +8,8 @@ category: Mediales.art
 author: "Victoria Abaroa"
 sourceLink: https://www.mediales.art/articulos/minerasophia-pabellon-chile-bienal-diseno
 cover: /blog/apuntes/oraculos-del-subsuelo-cuando-los-minerales-hablan/685d47fbd74119f47ef5f7b1_portadamin.jpg
----
+
+
 
 #### Hasta el 29 de junio, el pabellón de Chile en la Bienal de Diseño de Londres alberga Minerasophia, una instalación inmersiva creada por la arquitecta y artista Mále Uribe y la diseñadora Constanza Gaggero. A través de un oráculo contemporáneo construido con imágenes, sonido y minerales revalorizados, el proyecto propone nuevas formas de relacionarse con los desechos de la minería, explorando su dimensión simbólica, territorial y material. En esta entrevista, las creadoras profundizan en el proceso detrás de esta obra que cruza arte, investigación y memoria.
 

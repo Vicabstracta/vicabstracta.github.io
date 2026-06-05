@@ -1,6 +1,6 @@
 ---
-title: "Ch.ACO 2024 Entrevista a la artista Pía Aldana: “La fragilidad de la cerámica escultórica refleja la vulnerabilidad de nuestro medio ambiente”"
-titleShortened: "La fragilidad de la cerámica"
+title: "Ch.ACO 2024 Entrevista a la Artista Pía Aldana: “La Fragilidad de la Cerámica Escultórica Refleja la Vulnerabilidad de Nuestro Medio Ambiente”"
+titleShortened: "La Fragilidad de la Cerámica"
 published: 2024-03-22
 description: Ch.ACO 2024 Entrevista a la artista Pía Aldana
 tags: [Entrevista]
@@ -10,7 +10,8 @@ author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/ch-aco-2024-entrevista-a-la-artista-pia-aldana-la-fragilidad-de-la-ceramica-escultorica-refleja-la-vulnerabilidad-de-nuestro-medio-ambiente/
 cover: /blog/apuntes/ch-aco-2024-entrevista-a-la-artista-pia-aldana-la-fragilidad-de-la-ceramica-escultorica-refleja-la-vulnerabilidad-de-nuestro-medio-ambiente/PIA-ALDANA-scaled.jpg
 objectPosition: 50% 48%
----
+
+
 
 **Por Victoria Abaroa**
 

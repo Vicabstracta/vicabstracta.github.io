@@ -1,5 +1,5 @@
 ---
-title: "Viaje Al Centro Del Galerismo Chileno"
+title: "Viaje al Centro del Galerismo Chileno"
 published: 2023-11-20
 description: Artículo publicado en Artishock Revista
 tags: []
@@ -7,7 +7,8 @@ category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2023/11/20/viaje-al-centro-del-galerismo-chileno/
 cover: /blog/apuntes/viaje-al-centro-del-galerismo-chileno/Superfruits-Galeria-Animal-Foto-Felipe-Ugalde-6-900x720.jpg
----
+
+
 
 #### «El mercado del arte en Chile es pequeño», nos dicen y lo sabemos. Hay pocas galerías y no gozan de gran demanda. La insuficiencia de compradores independientes y la ausencia de coleccionismo institucional, tanto público como privado, dificultan que el galerismo chileno sea rentable. Sin embargo, quienes han dedicado su vida a esta empresa se esfuerzan por cumplir con sus múltiples exigencias. Aquí dilucidamos qué les impulsa a sentirse parte del mito de Sísifo.
 

@@ -1,6 +1,6 @@
 ---
-title: "Entrevista a la artista Consuelo Walker: “Me gusta crear obras que se pueden tocar”"
-titleShortened: "Jugar con alfileres"
+title: "Entrevista a la Artista Consuelo Walker: “Me Gusta Crear Obras Que Se Pueden Tocar”"
+titleShortened: "Jugar con Alfileres"
 published: 2023-12-05
 description: Entrevista a la artista Consuelo Walker
 tags: [Entrevista]
@@ -10,7 +10,8 @@ author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/entrevista-a-la-artista-consuelo-walker-me-gusta-crear-obras-que-se-pueden-tocar/
 cover: /blog/apuntes/entrevista-a-la-artista-consuelo-walker-me-gusta-crear-obras-que-se-pueden-tocar/consuelo-con-pony.png
 objectPosition: 50% 10%
----
+
+
 
 **Por Victoria Abaroa**
 
