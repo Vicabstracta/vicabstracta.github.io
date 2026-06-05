@@ -1,5 +1,5 @@
 ---
-title: "FESTIVAL APRENDER Entrevista al Escritor Felipe Cussen “No Conozco Otra Manera Mejor de Enseñar Lo Que Me Interesa Que Mostrándolo”"
+title: "FESTIVAL APRENDER Entrevista al Escritor Felipe Cussen “No Conozco Otra Manera Mejor de Enseñar lo Que Me Interesa Que Mostrándolo”"
 titleShortened: Cables, Legos y Sonetos
 published: 2024-01-10
 description: Entrevista al escritor Felipe Cussen

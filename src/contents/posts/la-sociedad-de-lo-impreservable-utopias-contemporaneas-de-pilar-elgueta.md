@@ -1,6 +1,6 @@
 ---
-title: "La Sociedad de Lo Impreservable: Utopías Contemporáneas de Pilar Elgueta"
-titleShortened: La Sociedad de Lo Impreservable
+title: "La Sociedad de lo Impreservable: Utopías Contemporáneas de Pilar Elgueta"
+titleShortened: La Sociedad de lo Impreservable
 published: 2025-09-22
 description: Las utopías contemporáneas de Pilar Elgueta
 tags: [Entrevista]

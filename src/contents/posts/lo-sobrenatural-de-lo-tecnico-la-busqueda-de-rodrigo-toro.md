@@ -1,5 +1,5 @@
 ---
-title: "Lo Sobrenatural de Lo Técnico"
+title: "Lo Sobrenatural de lo Técnico"
 published: 2025-09-08
 description: La búsqueda de Rodrigo Toro Madrid
 tags: [Entrevista]
