@@ -1,5 +1,5 @@
 ---
-title: "Entrevista a Valentina Maza: "Busco Espacio", el Cuerpo Como Partitura Sonora"
+title: 'Entrevista a Valentina Maza: "Busco Espacio", el Cuerpo Como Partitura Sonora'
 titleShortened: "El Cuerpo Como Partitura Sonora"
 published: 2025-08-11
 description: Cuerpo, arquitectura y sonido en "Busco Espacio" de Valentina Maza

@@ -1,5 +1,5 @@
 ---
-title: "Felipe Elgueta, Cineasta: "Me Interesan los Errores de los Algoritmos Como un Diálogo Creativo""
+title: 'Felipe Elgueta, Cineasta: "Me Interesan los Errores de los Algoritmos Como un Diálogo Creativo"'
 titleShortened: Errores Como Diálogo Creativo
 published: 2024-12-19
 description: Entrevista al cineasta Felipe Elgueta

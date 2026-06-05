@@ -1,6 +1,6 @@
 ---
-title: "Conservar \"Un Metro del Ecuador\"..."
-titleShortened: "Conservar \"Un Metro del Ecuador\""
+title: 'Conservar "Un Metro del Ecuador"...'
+titleShortened: 'Conservar "Un Metro del Ecuador"'
 published: 2024-01-06
 description: Y Más Allá. La Colección Giaconi Raad
 tags: [Artículo]
