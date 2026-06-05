@@ -1,8 +1,8 @@
 ---
-title: "Proyecto Honorarias. ¿Quién Trabaja para Quién?"
+title: "¿Quién Trabaja para Quién?"
 published: 2024-04-22
-description: Artículo publicado en Artishock Revista
-tags: []
+description: El Proyecto Honorarias
+tags: [Artículo]
 category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2024/04/22/proyecto-honorarias-quien-trabaja-para-quien/

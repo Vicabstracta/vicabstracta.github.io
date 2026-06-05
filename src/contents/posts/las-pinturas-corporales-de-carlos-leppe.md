@@ -2,7 +2,7 @@
 title: "Las Pinturas Corporales de Carlos Leppe"
 published: 2024-06-24
 description: Artículo publicado en Artishock Revista
-tags: []
+tags: [Artículo]
 category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2024/06/24/las-pinturas-corporales-de-carlos-leppe/

@@ -3,7 +3,7 @@ title: "Oráculos del Subsuelo: Cuando los Minerales Hablan"
 titleShortened: "Oráculos del Subsuelo"
 published: 2025-06-26
 description: Mále Uribe y Constanza Gaggero en la Bienal de Diseño de Londres
-tags: []
+tags: [Entrevista]
 category: Mediales.art
 author: "Victoria Abaroa"
 sourceLink: https://www.mediales.art/articulos/minerasophia-pabellon-chile-bienal-diseno

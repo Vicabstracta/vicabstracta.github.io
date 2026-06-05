@@ -1,7 +1,7 @@
 ---
 title: "Lo Sobrenatural de lo Técnico"
 published: 2025-09-08
-description: La búsqueda de Rodrigo Toro Madrid
+description: La búsqueda analógica de Rodrigo Toro Madrid
 tags: [Entrevista]
 category: Mediales.art
 author: "Victoria Abaroa"

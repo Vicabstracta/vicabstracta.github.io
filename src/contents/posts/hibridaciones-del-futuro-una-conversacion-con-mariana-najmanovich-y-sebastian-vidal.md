@@ -3,7 +3,7 @@ title: "Hibridaciones del Futuro: Una Conversación con Mariana Najmanovich y Se
 titleShortened: Hibridaciones del Futuro
 published: 2025-01-08
 description: Una conversación con Mariana Najmanovich y Sebastián Vidal
-tags: []
+tags: [Entrevista]
 category: Mediales.art
 author: "Victoria Abaroa"
 sourceLink: https://www.mediales.art/articulos/entrevista-mariana-najmanovich-y-sebastian-vidal

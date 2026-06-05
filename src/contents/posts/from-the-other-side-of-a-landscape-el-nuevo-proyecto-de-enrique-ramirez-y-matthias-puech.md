@@ -3,7 +3,7 @@ title: "From The Other Side Of a Landscape, el Nuevo Proyecto de Enrique Ramíre
 titleShortened: "From The Other Side Of a Landscape"
 published: 2025-02-24
 description: El nuevo proyecto de Enrique Ramírez y Matthias Puech
-tags: []
+tags: [Entrevista]
 category: Mediales.art
 author: "Victoria Abaroa"
 sourceLink: https://www.mediales.art/articulos/enrique-ramirez-entrevista
