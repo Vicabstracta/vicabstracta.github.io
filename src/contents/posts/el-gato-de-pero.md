@@ -9,8 +9,7 @@ licenseUrl: https://creativecommons.org/licenses/by-nc-nd/4.0/
 author: Victoria Abaroa
 cover: /blog/apuntes/franciscopero/la-vision-de-un-hombre-que-excede-su-imagen.webp
 draft: false
-
-
+---
 
 <figure class="blog-image">
     <img

@@ -10,8 +10,7 @@ author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/ch-aco-2024-entrevista-al-artista-alan-marti-me-interesa-que-la-audiencia-experimente-cierta-incomodidad/
 cover: /blog/apuntes/ch-aco-2024-entrevista-al-artista-alan-marti-me-interesa-que-la-audiencia-experimente-cierta-incomodidad/1711116932801-scaled.jpg
 objectPosition: 50% 30%
-
-
+---
 
 **Por Victoria Abaroa**
 

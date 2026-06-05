@@ -9,8 +9,7 @@ showFeaturedImage: true
 author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/ch-aco-2024-entrevista-a-la-artista-claudia-moreno-pastenes-lo-performativo-atraviesa-nuestro-pensamiento-artistico/
 cover: /blog/apuntes/ch-aco-2024-entrevista-a-la-artista-claudia-moreno-pastenes-lo-performativo-atraviesa-nuestro-pensamiento-artistico/Claudia-Moreno-scaled.jpg
-
-
+---
 
 **Por Victoria Abaroa**
 

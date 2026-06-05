@@ -1,5 +1,5 @@
 ---
-title: "Felipe Elgueta, Cineasta: \"Me Interesan los Errores de los Algoritmos Como un Diálogo Creativo\""
+title: "Felipe Elgueta, Cineasta: "Me Interesan los Errores de los Algoritmos Como un Diálogo Creativo""
 titleShortened: Errores Como Diálogo Creativo
 published: 2024-12-19
 description: Entrevista al cineasta Felipe Elgueta
@@ -8,8 +8,7 @@ category: Mediales.art
 author: "Victoria Abaroa"
 sourceLink: https://www.mediales.art/articulos/felipe-elgueta-entrevista
 cover: /blog/apuntes/felipe-elgueta-cineasta-me-interesan-los-errores-de-los-algoritmos-como-un-dialogo-creativo/6761eb5153bccc2a498238d7_Felipe_20Elgueta_2C_20Prueba_20NeRF_2C_202023_.png
-
-
+---
 
 #### El director de "Data Flesh", cortometraje con el que ganó el Premio Juan Downey en la categoría de Videoarte y Animación Local, reflexiona en esta entrevista sobre la relación entre las imágenes y la tecnología en la era de la inteligencia artificial, donde en su trabajo utiliza técnicas como NeRF para crear un diálogo entre errores algorítmicos y narrativas visuales, explorando la frontera entre lo humano y lo digital.
 

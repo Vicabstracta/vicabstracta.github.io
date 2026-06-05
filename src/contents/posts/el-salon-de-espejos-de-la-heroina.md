@@ -7,8 +7,7 @@ category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2024/10/14/el-salon-de-espejos-de-la-heroina/
 cover: /blog/apuntes/el-salon-de-espejos-de-la-heroina/Maliki-Foto-Alvaro-de-la-Fuente-5.jpg
-
-
+---
 
 #### En la sensualidad pictórica de las obras de Vanity Fauna subyacen múltiples capas de rebeldía. Junto al discurso teórico-crítico que sustenta la muestra, las pinturas condensan un viaje de autodescubrimiento femenino que culmina en el desarrollo de un lenguaje visual genuino. El virtuosismo técnico de Maliki, en su esencia intuitiva, desafía los estándares estéticos de la época victoriana y su lastre en la inextinguible historia del patriarcado.
 

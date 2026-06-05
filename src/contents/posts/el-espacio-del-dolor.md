@@ -8,8 +8,7 @@ licenseName: CC BY-NC-ND 4.0
 licenseUrl: https://creativecommons.org/licenses/by-nc-nd/4.0/
 author: Victoria Abaroa
 cover: /blog/apuntes/josephbeuys/elespaciodeldolorjosephbeuys.webp
-
-
+---
 
 <figure class="blog-image">
     <img

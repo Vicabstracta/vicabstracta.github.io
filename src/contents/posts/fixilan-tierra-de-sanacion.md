@@ -7,8 +7,7 @@ category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2025/01/02/fixilan-tierra-de-sanacion/
 cover: /blog/apuntes/fixilan-tierra-de-sanacion/Paloma-Maturana-4.jpg
-
-
+---
 
 #### Nombrado a partir de un invento de su padre para explicar un microorganismo marino, Fixilan se transformó en el universo de Paloma Maturana. A través de decenas de pinturas realizadas por la artista y su familia, la Galería Artespacio conmemora lo que habría sido su trigésimo séptimo cumpleaños, poco más de un año después de su fallecimiento. Mediante obras que conjugan sufrimiento y esperanza, la artista revive en el espacio expositivo, transportando a sus visitantes al mundo que ella concibió.
 

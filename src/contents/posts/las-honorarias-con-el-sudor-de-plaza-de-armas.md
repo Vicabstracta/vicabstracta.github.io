@@ -7,8 +7,7 @@ category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2023/10/07/las-honorarias-con-el-sudor-de-plaza-de-armas/
 cover: /blog/apuntes/las-honorarias-con-el-sudor-de-plaza-de-armas/IMG_7288.png
-
-
+---
 
 #### Más de cien paños impregnados con el sudor de la frente de peatones, junto al relato de sus motivaciones para salir a trabajar cada día son algunos de los registros de la acción de calle realizada por el colectivo Las Honorarias durante su residencia en Espacio 218. La exposición resultante obtuvo el primer lugar en la última edición de Gallery Weekend por el ingenio al cuestionar la precariedad laboral a la que se enfrentan los artistas en Chile.
 

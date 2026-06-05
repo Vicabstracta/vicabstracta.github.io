@@ -7,8 +7,7 @@ category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2023/09/07/el-goce-de-la-pintura-las-historias-de-una-familia-de-artistas/
 cover: /blog/apuntes/el-goce-de-la-pintura-las-historias-de-una-familia-de-artistas/El-goce-de-la-pintura-de-Samy-Matilde-y-Jose-Benmayor-2.jpg
-
-
+---
 
 #### Samy, Matilde y José Benmayor son tres reconocidos artistas chilenos dedicados a la pintura. A su vez, son un padre, una hija y un hijo que ven el arte como una herramienta de conexión con el mundo y consigo mismos. Hasta el 15 de septiembre, 18 pinturas de los Benmayor conversan por primera vez en las paredes de la Galería Gachi Prieto, en Buenos Aires.
 

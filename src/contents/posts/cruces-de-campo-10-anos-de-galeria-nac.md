@@ -7,8 +7,7 @@ category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2024/02/29/cruces-de-campo-10-anos-de-galeria-nac/
 cover: /blog/apuntes/cruces-de-campo-10-anos-de-galeria-nac/Soledad-Salame-1-842x900.jpg
-
-
+---
 
 #### La exposición Cruces de Campo celebra el décimo aniversario de la galería NAC, originalmente fundada por Nicole Andreu con un enfoque en la arquitectura, pero que con el tiempo ha adoptado una perspectiva multidisciplinaria que indaga en la interrelación entre humanidad, medio ambiente, sociedad y vida cotidiana. Más allá de la diversidad de obras de los 23 artistas reunidos, la muestra revela múltiples conexiones que enriquecen la experiencia de los visitantes.
 

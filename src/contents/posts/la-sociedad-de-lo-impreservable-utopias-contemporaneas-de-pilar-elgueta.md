@@ -8,8 +8,7 @@ category: Mediales.art
 author: "Victoria Abaroa"
 sourceLink: https://www.mediales.art/articulos/la-sociedad-de-lo-impreservable-pilar-elgueta
 cover: /blog/apuntes/la-sociedad-de-lo-impreservable-utopias-contemporaneas-de-pilar-elgueta/68d1dba33b6ca14083370baf_pe-cap2-9_Felipe_20Ugalde.jpg
-
-
+---
 
 #### Tras su residencia en Delfina Foundation, la artista Pilar Elgueta presenta "La Sociedad de la Preservación de lo Impreservable", un proyecto donde explora los límites y contradicciones de la conservación. Hasta el 18 de octubre, su propuesta en Galería NAC convierte lo efímero en materia de archivo, cuestionando quién decide qué se protege, cómo y bajo qué criterios de poder y memoria.
 

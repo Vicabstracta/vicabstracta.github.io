@@ -7,8 +7,7 @@ category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2024/06/24/las-pinturas-corporales-de-carlos-leppe/
 cover: /blog/apuntes/las-pinturas-corporales-de-carlos-leppe/Carlos-Leppe-Pinturas-4-1-836x900.jpg
-
-
+---
 
 #### Mucho se ha hablado de Carlos Leppe en los últimos meses, en parte gracias a la brillante exposición montada en el Bellas Artes. Paralelamente, y desde una vereda bastante menos espectacular, la Galería Aninat exhibe Pinturas y Fotografías Inéditas de Acciones hasta el 31 de julio. Esta fue la primera ocasión en la que me enfrenté a múltiples telas del artista, resultando una experiencia reveladora que me introdujo al potencial corporal de la pintura.
 

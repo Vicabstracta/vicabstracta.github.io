@@ -8,8 +8,7 @@ category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2024/02/02/grafiti-textiles-de-paola-podesta/
 cover: /blog/apuntes/la-densidad-del-grafiti-en-los-textiles-de-paola-podesta/Paola-Podesta-MAVI-UC-por-Jorge-Brantmayer-3.jpg
-
-
+---
 
 #### Paola Podestá (Santiago, 1969) es una artista multimedial que durante el último año se ha dedicado a crear tapices de gran tamaño utilizando la técnica del patchwork. Estos textiles, confeccionados con metros y metros de tela, evocan las paredes grafitadas de Valparaíso, su ciudad de residencia. En el MAVI UC, la artista exhibe siete de estos murales blandos, a través de los cuales nos invita a reflexionar sobre temas urgentes de la actualidad.
 

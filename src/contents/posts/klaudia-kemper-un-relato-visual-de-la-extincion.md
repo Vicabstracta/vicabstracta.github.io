@@ -7,8 +7,7 @@ category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2023/11/02/klaudia-kemper-un-relato-visual-de-la-extincion/
 cover: /blog/apuntes/klaudia-kemper-un-relato-visual-de-la-extincion/Klaudia-Kemper-en-MAVI-Foto-Jorge-Brantmayer-9.jpg
-
-
+---
 
 #### Es imposible predecir el momento exacto en el que se acabará el mundo, pero hay múltiples señales que indican que podría ocurrir muy pronto. Diversos activistas y científicos ya han advertido la posibilidad de una catástrofe, y desde las salas del MAVI, Klaudia Kemper se une al llamado de alerta. A través de más de 70 obras, la artista invita a los visitantes a enfrentar el miedo a la extinción, proponiendo nuevas formas de habitar el mundo.
 

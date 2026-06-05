@@ -8,9 +8,7 @@ category: Inédito
 showFeaturedImage: true
 author: "Victoria Abaroa"
 cover: /blog/apuntes/irradiar-la-mirada/la-mirada-de-gutete-mesa-2.jpg
-
-
-
+---
 
 **Por Victoria Abaroa**
 

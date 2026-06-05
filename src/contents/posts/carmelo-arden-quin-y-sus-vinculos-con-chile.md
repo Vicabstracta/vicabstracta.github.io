@@ -7,8 +7,7 @@ category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2023/09/22/carmelo-arden-quin-y-sus-vinculos-con-chile/
 cover: /blog/apuntes/carmelo-arden-quin-y-sus-vinculos-con-chile/Carmelo-Arden-Quin-Foto-CCPLM-6.jpg
-
-
+---
 
 #### Unas 200 pinturas, esculturas, ilustraciones y collages, así como archivos y videos, componen una muestra construida en torno a un artista que se caracterizó por ser multidisciplinario en su dimensión artística e inclusivo en la dimensión social. Mediante una actitud de apertura y versatilidad destacables, Carmelo Arden Quin (Uruguay, 1913 – Francia, 2010) logró armar un entramado de relaciones artísticas entre Argentina, Chile y Francia que hoy nuevamente confluyen en el Centro Cultural La Moneda.
 

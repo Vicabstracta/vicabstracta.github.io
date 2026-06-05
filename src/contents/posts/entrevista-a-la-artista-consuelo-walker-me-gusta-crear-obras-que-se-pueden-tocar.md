@@ -10,8 +10,7 @@ author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/entrevista-a-la-artista-consuelo-walker-me-gusta-crear-obras-que-se-pueden-tocar/
 cover: /blog/apuntes/entrevista-a-la-artista-consuelo-walker-me-gusta-crear-obras-que-se-pueden-tocar/consuelo-con-pony.png
 objectPosition: 50% 10%
-
-
+---
 
 **Por Victoria Abaroa**
 

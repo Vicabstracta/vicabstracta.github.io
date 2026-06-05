@@ -8,8 +8,7 @@ category: Mediales.art
 author: "Victoria Abaroa"
 sourceLink: https://www.mediales.art/articulos/felipe-cussen-entrevista
 cover: /blog/apuntes/felipe-cussen-entre-algoritmos-y-partituras-no-soy-muy-posthumano-soy-a-duras-penas-humano/67a26ed9e80117af14ff23ca_portadacussen.jpg
-
-
+---
 
 #### El poeta y músico experimental, que para esta entrevista le pidió a la IA que realizara un retrato de él mismo, cuenta cómo en el último tiempo ha explorado la música generativa a través de secuenciadores, softwares y sintetizadores, volcándose cada vez más a la música electrónica y su improvisación. Además, aborda "Partituras inesperadas" la actual muestra que, junto a La oficina de la nada, presenta hasta el 3 de marzo en el Centro Cultural España.
 

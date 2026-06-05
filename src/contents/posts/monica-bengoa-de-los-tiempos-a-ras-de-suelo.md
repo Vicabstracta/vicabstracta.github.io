@@ -8,8 +8,7 @@ category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2025/01/08/monica-bengoa-de-los-tiempos-a-ras-de-suelo/
 cover: /blog/apuntes/monica-bengoa-de-los-tiempos-a-ras-de-suelo/Monica-Bengoa-3.webp
-
-
+---
 
 #### Deteniéndose en elementos naturales comunes, como los insectos y las plantas, la artista chilena Mónica Bengoa nos invita a replantearnos nuestra relación con el mundo en la exposición de los tiempos a ras de suelo. A través de la cuidadosa transcripción de sus alrededores al bordado y al dibujo, la artista logra develar la belleza ignorada que nos rodea.
 

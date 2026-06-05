@@ -10,8 +10,7 @@ author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/ch-aco-2024-entrevista-al-artista-samy-benmayor-mis-imagenes-estan-inspiradas-en-los-primeros-recuerdos-de-la-infancia/
 cover: /blog/apuntes/ch-aco-2024-entrevista-al-artista-samy-benmayor-mis-imagenes-estan-inspiradas-en-los-primeros-recuerdos-de-la-infancia/SAMY-scaled.jpg
 objectPosition: 50% 36%
-
-
+---
 
 **Por Victoria Abaroa**
 

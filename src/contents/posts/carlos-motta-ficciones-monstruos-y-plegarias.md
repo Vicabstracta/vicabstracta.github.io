@@ -8,8 +8,7 @@ category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2025/07/25/carlos-motta-ficciones-monstruos-y-plegarias/
 cover: /blog/apuntes/carlos-motta-ficciones-monstruos-y-plegarias/Carlos-Motta-MACBA-1.jpg
-
-
+---
 
 #### Ocupando la totalidad del tercer piso del Museo de Arte Contemporáneo de Barcelona, la producción artística de más de dos décadas del artista colombiano Carlos Motta plantea preguntas incómodas, denuncias y afirmaciones contundentes. En sintonía con el título de la muestra, la exposición se presenta como una invocación reivindicativa que reclama espacios para las disidencias, tanto en la historia documentada como en la que está por construirse.
 

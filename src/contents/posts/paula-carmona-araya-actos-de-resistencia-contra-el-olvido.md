@@ -7,8 +7,7 @@ category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2023/09/27/paula-carmona-araya/
 cover: /blog/apuntes/paula-carmona-araya-actos-de-resistencia-contra-el-olvido/ESTRELLA-SOLITARIA-2.jpg
-
-
+---
 
 #### A través de acciones corporales en torno a una estrella solitaria y la deconstrucción de la bandera como emblema nacional, Paula Carmona Araya cuestiona los discursos hegemónicos sustentados en el concepto de patria, a la vez que denuncia la violencia de Estado que se esconde detrás de él.
 

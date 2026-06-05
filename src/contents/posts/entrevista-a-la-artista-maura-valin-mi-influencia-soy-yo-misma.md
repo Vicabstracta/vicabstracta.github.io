@@ -9,8 +9,7 @@ showFeaturedImage: true
 author: "Victoria Abaroa"
 sourceLink: https://culturizarte.cl/entrevista-a-la-artista-maura-valin-mi-influencia-soy-yo-misma/
 cover: /blog/apuntes/entrevista-a-la-artista-maura-valin-mi-influencia-soy-yo-misma/WhatsApp-Image-2024-02-07-at-11.24.51.jpeg
-
-
+---
 
 **Por Victoria Abaroa**
 

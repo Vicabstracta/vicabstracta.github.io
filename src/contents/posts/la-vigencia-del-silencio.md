@@ -7,8 +7,7 @@ category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2024/11/04/la-vigencia-del-silencio/
 cover: /blog/apuntes/la-vigencia-del-silencio/Monica-Sunico-Hegemonia-y-Supremacia-Foto-Macarena-Ternicien.jpg
-
-
+---
 
 #### En 2018, la ONU emitió un informe devastador que denunciaba al Estado de Chile por violar 13 artículos de la Convención sobre los Derechos del Niño. Inspirada por este documento, Mónica Súnico concibió el proyecto Inocente Silencio, conectando su experiencia de abuso con el que sufren niñxs del Sename. Concebida como un homenaje a las víctimas del Servicio Nacional de Menores, la exposición termina reflejando vulneraciones que persisten hasta hoy.
 

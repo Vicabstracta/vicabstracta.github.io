@@ -7,8 +7,7 @@ category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2023/10/26/carlos-arias-bordar-la-chilenidad/
 cover: /blog/apuntes/carlos-arias-bordar-la-chilenidad/Carlos-Arias-Foto-Alenka-Wellmann-8.jpg
-
-
+---
 
 #### Después de haber pasado cuatro años sin exponer en su tierra natal, y no haber quedado como finalista para representar al país en la Bienal de Venecia, Carlos Arias decidió concretar la exposición ante los ojos de los chilenos en el Museo Nacional de Bellas Artes, en la que reflexiona en torno a su biografía y la práctica del bordado.
 

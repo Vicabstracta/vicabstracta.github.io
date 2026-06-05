@@ -7,8 +7,7 @@ category: Mediales.art
 author: "Victoria Abaroa"
 sourceLink: https://www.mediales.art/articulos/sintetizar-la-sombra
 cover: /blog/apuntes/sintetizar-la-sombra/6743b0bef9758f7a8c7a49a6_benjamin-ossa-29.jpg
-
-
+---
 
 #### El artista Benjamín Ossa está presentando hasta el 3 de diciembre "Convertir una palabra en sombra" en Galería de Sousa, Buenos Aires, exposición que reúne dibujos, instalaciones y esculturas proyectadas en el espacio, explorando la luz, la sombra y el tiempo. En esta serie de obras creadas en distintos períodos, Ossa invita al espectador a reflexionar sobre lo visible y lo efímero, integrando el significado de la luz y la sombra en las culturas oriental y occidental.
 

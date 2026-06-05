@@ -7,8 +7,7 @@ category: Artishock
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2023/09/14/rosa-velasco/
 cover: /blog/apuntes/una-telarana-un-moai-y-una-misma-lengua-las-presencias-ausentes-de-rosa-velasco/Rosa-Velasco-en-el-MAVI-Foto-Jorge-Brantmayer-4.jpg
-
-
+---
 
 #### Rosa Velasco reconoce que el origen de sus obras está anclado en un concepto. En el caso de su actual muestra en el MAVI, la idea matriz es la de una presencia ausente. Aquello que está pero no está, como los recuerdos que habitan en el inconsciente. A través del molde de un moai que fue arrebatado, una tela de araña de 15 kilos, dos libros de más de dos mil páginas y tres pinturas galácticas, la reconocida artista chilena alude a ausencias que han estado presentes en su autobiografía y en la historia del mundo.
 
