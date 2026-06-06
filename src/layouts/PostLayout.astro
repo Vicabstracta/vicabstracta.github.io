@@ -2,6 +2,8 @@
 import Main from "../layouts/MainLayout.astro";
 import Markdown from "../components/Markdown.astro";
 import CopyRight from "../components/misc/CopyRight.astro";
+import { i18n } from "../locales/translation";
+import I18nKeys from "../locales/keys";
 
 interface Props {
   title?: string;
@@ -39,6 +41,14 @@ const {
         <slot />
       </Markdown>
       {
+        sourceLink && (
+          <div class="source-link-block">
+            <span class="source-link-label">{i18n(I18nKeys.source_link_label)}</span>
+            <a class="source-link-url" href={sourceLink} target="_blank" rel="noopener noreferrer">{sourceLink}</a>
+          </div>
+        )
+      }
+      {
         published && title && (
           <CopyRight
             title={title}
@@ -60,5 +70,15 @@ const {
   .article {
     @apply flex flex-col;
     font-size: var(--primary-font);
+  }
+  .source-link-block {
+    @apply mt-4 flex items-center gap-2 text-sm;
+  }
+  .source-link-label {
+    color: var(--text-color-lighten);
+  }
+  .source-link-url {
+    color: var(--primary-color);
+    word-break: break-all;
   }
 </style>

@@ -6,6 +6,8 @@ export const en: Translation = {
   [key.copy_right_publish_date]: "Publish Date",
   [key.copy_right_license]: "License",
 
+  [key.source_link_label]: "Original article in:",
+
   [key.nav_bar_home]: "Home",
   [key.nav_bar_archive]: "Archive",
   [key.nav_bar_about]: "About",

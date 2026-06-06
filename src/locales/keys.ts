@@ -3,6 +3,8 @@ enum I18nKeys {
   copy_right_publish_date = "copy_right_publish_date",
   copy_right_license = "copy_right_license",
 
+  source_link_label = "source_link_label",
+
   nav_bar_home = "nav_bar_home",
   nav_bar_archive = "nav_bar_archive",
   nav_bar_about = "nav_bar_about",
