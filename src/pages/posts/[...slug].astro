@@ -28,6 +28,7 @@ const { Content } = await render(entry);
         showFeaturedImage={entry.data.showFeaturedImage}
         objectPosition={entry.data.objectPosition}
         published={entry.data.published}
+        category={entry.data.category}
         sourceLink={entry.data.sourceLink}
       >
         <div
@@ -53,6 +54,7 @@ const { Content } = await render(entry);
         showFeaturedImage={entry.data.showFeaturedImage}
         objectPosition={entry.data.objectPosition}
         published={entry.data.published}
+        category={entry.data.category}
         license={{ name: entry.data.licenseName, url: entry.data.licenseUrl }}
         author={entry.data.author}
         sourceLink={entry.data.sourceLink}

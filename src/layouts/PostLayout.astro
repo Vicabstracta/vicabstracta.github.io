@@ -12,6 +12,7 @@ interface Props {
   showFeaturedImage?: boolean;
   objectPosition?: string;
   published?: Date;
+  category?: string;
   license?: {
     name: string;
     url?: string;
@@ -27,6 +28,7 @@ const {
   showFeaturedImage,
   objectPosition,
   published,
+  category,
   license,
   author,
   sourceLink,
@@ -49,7 +51,7 @@ const {
         )
       }
       {
-        published && title && (
+        category === "Inédito" && published && title && (
           <CopyRight
             title={title}
             published={published}
