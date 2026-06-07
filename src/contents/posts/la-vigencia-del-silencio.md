@@ -15,7 +15,7 @@ cover: /blog/apuntes/la-vigencia-del-silencio/Monica-Sunico-Hegemonia-y-Supremac
     <img
         src="/blog/apuntes/la-vigencia-del-silencio/Monica-Sunico-Hegemonia-y-Supremacia-Foto-Macarena-Ternicien.jpg">
     <figcaption>
-        Mónica Súnico, Hegemonía y Supremacía. Foto: Macarena Ternicien
+        **Mónica Súnico**, <em>Hegemonía y Supremacía</em>. Foto: Macarena Ternicien
     </figcaption>
 </figure>
 
@@ -25,9 +25,9 @@ En el registro grabado en blanco y negro, Mónica Súnico entra en escena, camin
 
 Es la llamada de auxilio que contuvo en su interior durante más de 40 años, hasta que finalmente pudo confesar su secreto. Un grito ahogado subyace en su mirada, resonando constantemente, sin que el paso del tiempo haya atenuado su dolor. Es precisamente la existencia de esa necesidad inconfesada la que se removió en su interior al escuchar la voz de un niño pidiendo ayuda en medio de súplicas desesperadas. Estos gritos de angustia le llegaron a través de un audio enviado en el grupo de WhatsApp de las madres del colegio de sus hijos. El título del archivo era “Una noche en el Sename”.
 
-Mónica no podía creer lo que escuchaba y decidió investigar las negligencias ocurridas en el Servicio Nacional de Menores, un organismo “encargado de proteger y promover los derechos de los niños, niñas y adolescentes vulnerados”. La promesa de cuidado se desmentía con cada informe y artículo que leía. Fue entonces cuando, tras una extensa investigación, creó una propuesta visual contundente bajo la curaduría de Arturo Duclos, cuya ruta expositiva comenzó en Santiago y sigue en la V Región, en el Parque Cultural de Valparaíso, donde se podrá ver hasta el 15 de noviembre.
+Mónica no podía creer lo que escuchaba y decidió investigar las negligencias ocurridas en el Servicio Nacional de Menores, un organismo “encargado de proteger y promover los derechos de los niños, niñas y adolescentes vulnerados”. La promesa de cuidado se desmentía con cada informe y artículo que leía. Fue entonces cuando, tras una extensa investigación, creó una propuesta visual contundente bajo la curaduría de **Arturo Duclos**, cuya ruta expositiva comenzó en Santiago y sigue en la V Región, en el **Parque Cultural de Valparaíso**, donde se podrá ver hasta el 15 de noviembre.
 
-Inicialmente concebido para el Museo de la Memoria y los Derechos Humanos, Inocente silencio comenzó como un proyecto de memoria destinado a honrar a las víctimas que murieron y sufrieron a manos del Estado de Chile. Sin embargo, con el tiempo ha quedado claro que no es un proyecto que se limite al pasado, sino que se extiende hasta el presente, manifestándose en la expectativa incumplida de una Mejor Niñez.
+Inicialmente concebido para el **Museo de la Memoria y los Derechos Humanos**, *Inocente silencio* comenzó como un proyecto de memoria destinado a honrar a las víctimas que murieron y sufrieron a manos del Estado de Chile. Sin embargo, con el tiempo ha quedado claro que no es un proyecto que se limite al pasado, sino que se extiende hasta el presente, manifestándose en la expectativa incumplida de una Mejor Niñez.
 
 ### ESPERANDO REFUGIO
 
@@ -35,7 +35,7 @@ Durante su infancia, Mónica Súnico contaba los años que le faltaban para cump
 
 A la entrada del Parque Cultural de Valparaíso, la manta evoca una ruca mapuche. Está construida con una estructura de hierro y colihue, recubierta con más de 250 peluches de diversos tamaños y procedencias. Más que un refugio, esta ruca representa un espacio de encuentro y comunidad, un símbolo potente para el pueblo mapuche en el cual la figura materna ocupa un rol fundamental. La madre actúa como el pilar que sostiene la armonía universal, encarnando el regreso al balance esencial cuando el desequilibrio amenaza.
 
-A través de Refugio, la artista alude a la maternidad indirecta de su adorada compañera, cuyo recuerdo aún hoy la fortalece. Al evocar a Victoria, le vienen a la mente las palabras del doctor Jorge Barudy: “Si bien hemos sido afectados por sucesos difíciles, no necesariamente hemos sido determinados por ellos. Su impacto depende de la contención que recibimos en el momento en que más lo necesitábamos”.
+A través de *Refugio*, la artista alude a la maternidad indirecta de su adorada compañera, cuyo recuerdo aún hoy la fortalece. Al evocar a Victoria, le vienen a la mente las palabras del doctor Jorge Barudy: “Si bien hemos sido afectados por sucesos difíciles, no necesariamente hemos sido determinados por ellos. Su impacto depende de la contención que recibimos en el momento en que más lo necesitábamos”.
 
 La contención de la que habla el doctor Barudy, experto en trauma complejo, es justamente la que les falta a más de 126 mil niños, niñas y adolescentes en el Servicio Mejor Niñez. La situación es aún más grave para quienes están en lista de espera, pues pueden pasar meses aguardando un cupo en los programas de protección. Una vez dentro, reciben terapias psicológicas con un plan de intervención, aunque esto no siempre da buenos resultados. La mayoría de los programas son mal evaluados por la Dirección de Presupuestos (Dipres) y no logran prevenir la reincidencia (La Segunda, 27 de septiembre, 2024).
 
@@ -45,7 +45,7 @@ Los factores de riesgo para la salud mental que surgieron con la pandemia, junto
     <img
         src="/blog/apuntes/la-vigencia-del-silencio/Monica-Sunico-Celdas-Foto-Macarena-Ternicien.jpg">
     <figcaption>
-        Mónica Súnico, Celdas. Foto: Macarena Ternicien
+        Mónica Súnico, <em>Celdas</em>. Foto: Macarena Ternicien
     </figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ Los factores de riesgo para la salud mental que surgieron con la pandemia, junto
     <img
         src="/blog/apuntes/la-vigencia-del-silencio/Monica-Sunico-Almohada-de-obra-Celdas-Foto-PCDV.jpg">
     <figcaption>
-        Mónica Súnico, Almohada de obra Celdas. Foto: PCDV
+        Mónica Súnico, Almohada de obra <em>Celdas</em>. Foto: PCDV
     </figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ El Estado ha continuado usando residencias en lugar de fomentar el acogimiento f
     <img
         src="/blog/apuntes/la-vigencia-del-silencio/Monica-Sunico-Colgados-Foto-PCDV.jpg">
     <figcaption>
-        Mónica Súnico, Colgados. Foto: PCDV
+        Mónica Súnico, <em>Colgados</em>. Foto: PCDV
     </figcaption>
 </figure>
 
@@ -81,13 +81,13 @@ El cóndor ilustra las cajas de Diazepam que conforman el patrón decorativo de 
 
 El nombre del joven en el informe de fiscalización del Servicio Mejor Niñez de septiembre de 2022 permanece anonimizado. El caso ocurrió en la residencia Entre Volcanes, administrada por Aldeas Infantiles SOS, una de las instituciones privadas que colabora con el Estado en el cuidado de menores. La nueva legislación exige que estas organizaciones se reacrediten, lo que debe ser evaluado por un Consejo de cinco expertos, cuyos procesos debían ser publicados. Sin embargo, en los últimos cuatro meses no se ha publicado ningún documento porque el Consejo ha dejado de sesionar, tras la renuncia de tres miembros en junio, lo que impide alcanzar el quórum necesario para las votaciones (Silva, V., 30 de septiembre 2024).
 
-Aunque los consejeros no mencionaron las acusaciones como motivo de su dimisión, su salida puede estar relacionada con un informe de la Comisión de Investigadora del Senado que critica la falta de fiscalización del Consejo, debilitando el Sistema de Protección. Este problema se evidenció en el caso de la Corporación Ayuda a la Familia, cuya acreditación fue polémica. En julio de 2023, El Ciudadano reveló que Gastón Pinochet, su representante legal, había sido acusado de violación a menores, pero el Consejo lo acreditó unánimemente sin evaluar adecuadamente la calidad del servicio, ignorando las advertencias de sus miembros sobre la insuficiencia de la matriz de evaluación.
+Aunque los consejeros no mencionaron las acusaciones como motivo de su dimisión, su salida puede estar relacionada con un informe de la Comisión de Investigadora del Senado que critica la falta de fiscalización del Consejo, debilitando el Sistema de Protección. Este problema se evidenció en el caso de la Corporación Ayuda a la Familia, cuya acreditación fue polémica. En julio de 2023, *El Ciudadano* reveló que Gastón Pinochet, su representante legal, había sido acusado de violación a menores, pero el Consejo lo acreditó unánimemente sin evaluar adecuadamente la calidad del servicio, ignorando las advertencias de sus miembros sobre la insuficiencia de la matriz de evaluación.
 
 <figure class="blog-image">
     <img
         src="/blog/apuntes/la-vigencia-del-silencio/011-Supremacia_Por-Macarena.jpg">
     <figcaption>
-        Mónica Súnico, Hegemonía y Supremacía. Foto: Macarena Ternicien
+        Mónica Súnico, <em>Hegemonía y Supremacía</em>. Foto: Macarena Ternicien
     </figcaption>
 </figure>
 

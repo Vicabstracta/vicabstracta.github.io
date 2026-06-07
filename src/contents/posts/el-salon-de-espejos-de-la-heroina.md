@@ -17,15 +17,15 @@ Marcela Trujillo entró resoplando al Museo Nacional de Bellas Artes. Llegaba co
 
 A pesar del ajetreo, Marcela se veía radiante. Llevaba puesto un vestido negro, combinado con una chaqueta decorada con perlas. El labial color nude y los ojos delineados con precisión acentuaban su belleza natural. Un collar dorado con figura de chita añadía un toque chic, perfectamente en sintonía con el entorno animalesco de su muestra.
 
-Hasta el 27 de octubre, la sala Chile del Bellas Artes se transforma en el Verde Bosque, un universo ficticio donde las animalas —hembras no humanas con cabezas de diferentes especies salvajes y cuerpos antropomorfos— conviven y comparten sus aficiones y actividades culturales. Este espacio cuestiona los ideales de belleza del siglo XIX a través de dos salones: el Salón de Artes y Artificios, que presenta las reinterpretaciones de tres pinturas de la Colección del MNBA por parte de artistas animalas, y el Salón de Tertulias y Aullidos, donde se exhiben 26 acrílicos sobre tela y 20 dibujos en tinta china que retratan a las garbosas animalas con trajes de la alta sociedad occidental de hace un siglo.
+Hasta el 27 de octubre, la sala Chile del Bellas Artes se transforma en el *Verde Bosque*, un universo ficticio donde las *animalas* —hembras no humanas con cabezas de diferentes especies salvajes y cuerpos antropomorfos— conviven y comparten sus aficiones y actividades culturales. Este espacio cuestiona los ideales de belleza del siglo XIX a través de dos salones: el *Salón de Artes y Artificios,* que presenta las reinterpretaciones de tres pinturas de la Colección del MNBA por parte de artistas animalas, y el *Salón de Tertulias y Aullidos*, donde se exhiben 26 acrílicos sobre tela y 20 dibujos en tinta china que retratan a las garbosas animalas con trajes de la alta sociedad occidental de hace un siglo.
 
-Los entornos pictóricos están dedicados exclusivamente a la figura femenina. Los hombres, que ya habían tenido un rol predominante en la vida de Maliki, dejaron una marca en su producción artística temprana. En Vanity Fauna, las mujeres se apropian de las escenas, invitándonos a adentrarnos en su mundo de libertad. Un terreno donde la hiper racionalidad, históricamente impuesta, es superada por la sabiduría del instinto, ofreciendo un espacio de legítima emancipación.
+Los entornos pictóricos están dedicados exclusivamente a la figura femenina. Los hombres, que ya habían tenido un rol predominante en la vida de Maliki, dejaron una marca en su producción artística temprana. En *Vanity Fauna,* las mujeres se apropian de las escenas, invitándonos a adentrarnos en su mundo de libertad. Un terreno donde la hiper racionalidad, históricamente impuesta, es superada por la sabiduría del instinto, ofreciendo un espacio de legítima emancipación.
 
 <figure class="blog-image">
     <img
         src="/blog/apuntes/el-salon-de-espejos-de-la-heroina/Maliki-Foto-Alvaro-de-la-Fuente-5.jpg">
     <figcaption>
-        Marcela Trujillo «Maliki», Paseos en la era carbonífera, 2022-2023. Acrílico sobre tela, 120 x 140 cm. Foto: Alvaro de la Fuente
+        Marcela Trujillo «Maliki», <em>Paseos en la era carbonífera</em>, 2022-2023. Acrílico sobre tela, 120 x 140 cm. Foto: Alvaro de la Fuente
     </figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ Una rabia inesperada me atrapó cuando me acerqué a una de las vitrinas en el c
 
 Una de las revistas permitía que los visitantes nos asomáramos al tipo de mensaje que contenían sus páginas: “Antes de comprar un short o pijama de playa, piense en su silueta; no se exponga a ser el hazmerreír de los demás”. Esa frase me golpeó. Tal vez a ti también. No necesité más para entender de inmediato lo que Marcela, en su texto exhibido en la pared, quería transmitir al hablar de su experiencia con las revistas femeninas de su infancia. Aunque estoy familiarizada con la presión sofocante de intentar encajar en los estándares de belleza, tuve la suerte de nacer en una época en la que un mensaje como ese sería cancelado de inmediato. Para Marcela, en cambio, las cosas fueron distintas. Ella creció leyendo este tipo de contenido tóxico, en una época en la que la mayoría de las mujeres prefería callar.
 
-El impacto de esta vivencia fue tan profundo en Marcela que toda su obra ha estado marcada por los preceptos de belleza. Su trayectoria refleja un viaje que va del optimismo de Quiero ser flaca y feliz a la decepción y posterior aceptación del Diario Oscuro. El primero es un libro coescrito con una psicóloga especializada en obesidad, donde entrega tips para bajar de peso; el segundo es un diario en el que relata su experiencia tras haber recuperado los kilos perdidos durante la dieta. Este recorrido es una montaña rusa emocional que ha tenido altibajos significativos, una lucha permanente contra las presiones del patriarcado.
+El impacto de esta vivencia fue tan profundo en Marcela que toda su obra ha estado marcada por los preceptos de belleza. Su trayectoria refleja un viaje que va del optimismo de *Quiero ser flaca y feliz* a la decepción y posterior aceptación del *Diario Oscuro.* El primero es un libro coescrito con una psicóloga especializada en obesidad, donde entrega tips para bajar de peso; el segundo es un diario en el que relata su experiencia tras haber recuperado los kilos perdidos durante la dieta. Este recorrido es una montaña rusa emocional que ha tenido altibajos significativos, una lucha permanente contra las presiones del patriarcado.
 
 <figure class="blog-image">
     <img
@@ -61,9 +61,9 @@ A través de un colorido vibrante y texturas hipnóticas, las pinturas nos invit
 
 Es innegable que la exposición encierra un discurso crítico, evidente en su catálogo. Este se amplía con una segunda publicación titulada, al igual que la muestra, Vanity Fauna. La revista incluye textos de diversa índole, como un reportaje sobre un colectivo feminista que se niega a usar corsé y un relato de amor lésbico interclasista. Además, contiene entrevistas con animalas expertas en temas como la discriminación por autismo, las deficiencias en la educación artística y las dificultades de movilidad que enfrentan las personas en regiones marginadas.
 
-Creada por un equipo liderado por la curadora Antonia Viu, doctora en literatura y especialista en historia de las revistas chilenas, junto al curador Rolando Báez, historiador especializado en barroco latinoamericano, quienes escribieron la mayoría de los textos, la revista establece un diálogo crítico con las pinturas. Su lenguaje accesible e ingenioso abre sugerencias de lectura estimulantes que enriquecen las interpretaciones alternativas.
+Creada por un equipo liderado por la curadora **Antonia Viu**, doctora en literatura y especialista en historia de las revistas chilenas, junto al curador **Rolando Báez**, historiador especializado en barroco latinoamericano, quienes escribieron la mayoría de los textos, la revista establece un diálogo crítico con las pinturas. Su lenguaje accesible e ingenioso abre sugerencias de lectura estimulantes que enriquecen las interpretaciones alternativas.
 
-El proyecto también contó con la colaboración de las asistentes Amanda López y Annais Catalán, así como de alumnas en práctica del Instituto Profesional Arcos y de las Escuelas de Literatura y Arte de la Universidad Diego Portales.
+El proyecto también contó con la colaboración de las asistentes **Amanda López** y **Annais Catalán**, así como de alumnas en práctica del **Instituto Profesional Arcos** y de **las Escuelas de Literatura y Arte de la Universidad Diego Portales**.
 
 <figure class="blog-image">
     <img
@@ -75,9 +75,9 @@ El proyecto también contó con la colaboración de las asistentes Amanda López
 
 ### UN VIAJE DE LIBERTAD
 
-Lo que más me impactó de la pintura fue el brillo en los ojos de la protagonista. Esa pequeña chispa blanquecina en un océano negro utilizada en las caricaturas japonesas para dramatizar. En Retrato de mi madre, la partera Petra Chupona, este mismo brillo, representado como una esfera en el borde superior del globo ocular, dota a la obra de un profundo realismo. Aureolas de café lechosas, que transitan del latte al cortado y al espresso, se derraman uniformemente sobre ambas esferas, incrustadas en la circunferencia tensa del párpado. Estos ojos están enmarcados por una pequeña cabeza peluda, coronada por un moño que aprisiona los rizos de su cabello caoba. Su espalda erguida y sus orejas levantadas le otorgan un aire de elegancia, mientras que sus brazos flectados naturalizan su actitud.
+Lo que más me impactó de la pintura fue el brillo en los ojos de la protagonista. Esa pequeña chispa blanquecina en un océano negro utilizada en las caricaturas japonesas para dramatizar. En *Retrato de mi madre, la partera Petra Chupona*, este mismo brillo, representado como una esfera en el borde superior del globo ocular, dota a la obra de un profundo realismo. Aureolas de café lechosas, que transitan del latte al cortado y al espresso, se derraman uniformemente sobre ambas esferas, incrustadas en la circunferencia tensa del párpado. Estos ojos están enmarcados por una pequeña cabeza peluda, coronada por un moño que aprisiona los rizos de su cabello caoba. Su espalda erguida y sus orejas levantadas le otorgan un aire de elegancia, mientras que sus brazos flectados naturalizan su actitud.
 
-Las figuras antropomórficas en las telas del Bellas Artes contrastan con los Hombres Sensibles de las acuarelas que Marcela expuso en la Feria Faxxi de 2013. Uno de ellos se muestra relajado, con las manos en los bolsillos de una chaqueta. El resplandor de sus ojos no es tan intenso como el de la madre partera; aunque su traje sugiere elegancia, la falta de definición en la textura le resta el impacto que ella logra proyectar.
+Las figuras antropomórficas en las telas del Bellas Artes contrastan con los *Hombres Sensibles* de las acuarelas que Marcela expuso en la Feria Faxxi de 2013. Uno de ellos se muestra relajado, con las manos en los bolsillos de una chaqueta. El resplandor de sus ojos no es tan intenso como el de la madre partera; aunque su traje sugiere elegancia, la falta de definición en la textura le resta el impacto que ella logra proyectar.
 
 Al lado del protagonista de la acuarela aparece una pequeña criatura perturbadora, en la que el rostro de un hombre cuarentón se inserta en el cuerpo de un animal indescifrable. Imagino a este ser como una segunda encarnación del protagonista o como una especie de Pepe Grillo: un compañero insoportable que impone su racionalidad a pesar de su insignificancia. Tanto la partera como los Hombres Sensibles están cubiertos de pelaje. Sin embargo, las líneas que conforman el cuerpo de la animala muestran un trabajo más meticuloso que el de sus antecesores, evocando una textura más realista gracias a la precisión de las pinceladas.
 
@@ -89,7 +89,7 @@ Al lado del protagonista de la acuarela aparece una pequeña criatura perturbado
     </figcaption>
 </figure>
 
-La evolución de estos personajes refleja la experiencia de Maliki en el viaje de la heroína, un concepto desarrollado por Maureen Murdock como respuesta a la estructura narrativa propuesta por Joseph Campbell. Mientras que la narrativa tradicional, presente en relatos como La Odisea, El Rey León o El Señor de los Anillos (historias de hombres escritas por hombres), se centra en pruebas externas que conducen a transformaciones profundas, Murdock propone una experiencia más introspectiva. Su enfoque privilegia el autodescubrimiento y la autoaceptación, resaltando una evolución interna que redefine el trayecto narrativo.
+La evolución de estos personajes refleja la experiencia de Maliki en el viaje de la heroína, un concepto desarrollado por Maureen Murdock como respuesta a la estructura narrativa propuesta por Joseph Campbell. Mientras que la narrativa tradicional, presente en relatos como *La Odisea*, *El Rey León* o *El Señor de los Anillos* (historias de hombres escritas por hombres), se centra en pruebas externas que conducen a transformaciones profundas, Murdock propone una experiencia más introspectiva. Su enfoque privilegia el autodescubrimiento y la autoaceptación, resaltando una evolución interna que redefine el trayecto narrativo.
 
 El viaje de la heroína comienza con el rechazo de lo femenino por parte de la protagonista, quien se identifica con el padre. Este impulso la lleva a sobresalir en un entorno dominado por hombres, logrando cierto éxito, aunque sin alcanzar la felicidad. La heroína no se siente completa hasta que logra reconectar consigo misma, un proceso que coincide con el descubrimiento de su propia manera de experimentar la feminidad.
 
@@ -121,4 +121,4 @@ La sala del Bellas Artes se transforma en un salón de espejos, un universo de p
 
 ---
 
-Créditos: Rolando Báez, curador y museógrafo; Antonia Viu, curadora y editora; Carolina Zañartu, diseñadora; The Wall y Omnio, papel mural.
+**Créditos:** Rolando Báez, curador y museógrafo; Antonia Viu, curadora y editora; Carolina Zañartu, diseñadora; The Wall y Omnio, papel mural.

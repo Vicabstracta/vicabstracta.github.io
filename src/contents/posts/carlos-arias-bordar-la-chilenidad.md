@@ -29,7 +29,7 @@ Algunos días después de lo sucedido, a la imagen traumática de los aviones so
 
 Generalmente se iba por la calle Juan Moya, hacia Irarrázaval, pero hasta ese momento Dublé Almeyda le parecía más amena. Esa calle había sido el escenario de reconfortantes recuerdos infantiles entre él y sus amigos, de cuando tocaban los timbres de las casas vecinas para molestarlos y salir corriendo. Sin embargo, desde ese día en adelante, la imagen del cuerpo en el suelo eclipsó las memorias alegres.
 
-45 años después, Carlos Arias inmortalizaría aquel cuerpo en una tela colorida, cuyas tonalidades rojas dificultan la lectura de las letras. El bordado forma parte de Chile: Amnesia de la Verdad, la muestra abierta en el Bellas Artes hasta el 17 de diciembre. Compuesta por 23 obras que dan cuenta de las vivencias del artista en su tierra natal, muchas de estas imágenes están relacionadas con la dictadura. De hecho, el bordado referente al cuerpo en el suelo está rodeado por otros dos textos alusivos a recuerdos violentos: a su derecha se denuncia el fusilamiento de Ricardo García, el 18 de octubre del 73, y a su izquierda se expone el recuerdo personal de una intimidación.
+45 años después, Carlos Arias inmortalizaría aquel cuerpo en una tela colorida, cuyas tonalidades rojas dificultan la lectura de las letras. El bordado forma parte de *Chile: Amnesia de la Verdad*, la muestra abierta en el Bellas Artes hasta el 17 de diciembre. Compuesta por 23 obras que dan cuenta de las vivencias del artista en su tierra natal, muchas de estas imágenes están relacionadas con la dictadura. De hecho, el bordado referente al cuerpo en el suelo está rodeado por otros dos textos alusivos a recuerdos violentos: a su derecha se denuncia el fusilamiento de Ricardo García, el 18 de octubre del 73, y a su izquierda se expone el recuerdo personal de una intimidación.
 
 “Fue una madrugada de invierno y debieron haber sido las cinco o seis de la mañana. Me acuerdo perfectamente de haber estado durmiendo, en total oscuridad, cuando dos milicos me apuntaron al estómago y al pecho, obligándome a levantarme,” relata el artista.
 
@@ -43,7 +43,7 @@ Generalmente se iba por la calle Juan Moya, hacia Irarrázaval, pero hasta ese m
 
 ### Reforzar los recuerdos con hilo
 
-En el texto titulado Cuando la Memoria pende de un hilo, Nelly Richard plantea que “el tacto del bordar a mano el dato referencial (un nombre, un lugar, una fecha de ejecución política) rellenándolo con hilos tan amarrados a la tela que se vuelve inseparable de su urdimbre, hace de conjura para que este dato de referencia no termine vaciado como cifra o como número en el universo estadístico -indiferente- de la desaparición masiva”. Efectivamente, la naturaleza de bordado de tales imágenes textuales pareciera incrementar su poder, permitiendo revelar la humanidad detrás de los datos.
+En el texto titulado *Cuando la Memoria pende de un hilo,* **Nelly Richard** plantea que “el tacto del bordar a mano el dato referencial (un nombre, un lugar, una fecha de ejecución política) rellenándolo con hilos tan amarrados a la tela que se vuelve inseparable de su urdimbre, hace de conjura para que este dato de referencia no termine vaciado como cifra o como número en el universo estadístico -indiferente- de la desaparición masiva”. Efectivamente, la naturaleza de bordado de tales imágenes textuales pareciera incrementar su poder, permitiendo revelar la humanidad detrás de los datos.
 
 Un fenómeno similar ocurre con los bordados que aluden a las lecturas escolares del artista, quien a los 18 años ya había devorado textos completos de Gramsci, Marx, Maquiavelo y Jean Paul Sartre.
 
@@ -65,7 +65,7 @@ El artista explica su interés por cuestiones que trascienden las circunstancias
     </figcaption>
 </figure>
 
-En Chile: Amnesia de la Verdad, obras que podrían parecer circunstanciales por su estrecho vínculo con sus contextos de producción, se proyectan hacia periodos históricos y procesos que resurgen de manera constante. Tal es el caso del bordado Chile: un país del cual debes huir, que surgió en 2019 a raíz de la incredulidad de Arias ante la reelección de Sebastián Piñera, pero que tras el Estallido Social se podría reinterpretar como el deseo de escapar del clima convulso del país.
+En *Chile: Amnesia de la Verdad,* obras que podrían parecer circunstanciales por su estrecho vínculo con sus contextos de producción, se proyectan hacia periodos históricos y procesos que resurgen de manera constante. Tal es el caso del bordado *Chile: un país del cual debes huir,* que surgió en 2019 a raíz de la incredulidad de Arias ante la reelección de Sebastián Piñera, pero que tras el Estallido Social se podría reinterpretar como el deseo de escapar del clima convulso del país.
 
 Carlos llegó a temer que su bordado pudiera ser interpretado como una expresión de conformismo por parte de un ciudadano que busca mantener el statu quo. Sin embargo, después del plebiscito, el bordado adquirió una nueva dimensión de interpretación: el anhelo de escapar que surge, precisamente, como respuesta a la inercia del modelo neoliberal.
 
@@ -113,7 +113,7 @@ Carlos llegó a temer que su bordado pudiera ser interpretado como una expresió
 
 ### Vaivenes (Vas y vienes)
 
-Hasta el día de hoy, Carlos Arias no tiene muy claro si fue parte del Frente Patriótico Manuel Rodríguez o no. Solo sabe que en 1983 se reunió unas cuantas veces con un grupo de jóvenes que estaba en contra de la dictadura de Pinochet. La inscripción en aquella agrupación política, realizada por un primo de segundo grado, y el llamado a participar como personaje extra de nacionalidad chilena en la película Missing, habían empujado al artista a contemplar la idea de regresar al país del que había huido junto a su familia a los 10 años.
+Hasta el día de hoy, Carlos Arias no tiene muy claro si fue parte del Frente Patriótico Manuel Rodríguez o no. Solo sabe que en 1983 se reunió unas cuantas veces con un grupo de jóvenes que estaba en contra de la dictadura de Pinochet. La inscripción en aquella agrupación política, realizada por un primo de segundo grado, y el llamado a participar como personaje extra de nacionalidad chilena en la película *Missing,* habían empujado al artista a contemplar la idea de regresar al país del que había huido junto a su familia a los 10 años.
 
 A estas razones se sumaba un deseo de independencia de sus padres y la expectativa de que el gobierno de Pinochet ya estuviera cercano a su fin. En 1988, tras terminar sus estudios en Chile, Carlos regresó a México para cursar un posgrado en la Escuela Nacional de Artes Plásticas de la UNAM, y se quedó viviendo allí. No obstante, Chile se mantuvo como una presencia constante, cuya memoria se colaba silente entre los hilos de algunos bordados.
 
@@ -141,13 +141,13 @@ Arias destaca el fenómeno de que ni a sus mismos compatriotas les pareciera imp
     </figcaption>
 </figure>
 
-Carlos había olvidado la existencia de algunas de las obras que expone en el MNBA y cuenta que fue gracias al curador Cuauhtémoc Medina y a la teórica Nelly Richard que se motivó a recopilar aquellas obras que se relacionan con sus experiencias en el país. Remitiéndose al bordado Fue tan violento lo de Chile…, reconoce que en parte lo hizo por su propia salud mental.
+Carlos había olvidado la existencia de algunas de las obras que expone en el MNBA y cuenta que fue gracias al curador **Cuauhtémoc Medina** y a la teórica Nelly Richard que se motivó a recopilar aquellas obras que se relacionan con sus experiencias en el país. Remitiéndose al bordado *Fue tan violento lo de Chile*…, reconoce que en parte lo hizo por su propia salud mental.
 
 — Estéticamente a mí no me parecía tan atractiva esa obra y encuentro que el tema es del terror. Se trata de un bordado difícil, cuya lectura es complicada, por tener letras rojas sobre un fondo del mismo color. Entonces, era una obra que yo tenía borrada de mi mente (…) Creo que la existencia es tan corta, que uno tiene que vivir el cotidiano de una manera muy gloriosa y fructífera. No podemos estar pegados en el pasado o viviendo en otros lugares.
 
-Esta misma actitud de aceptación distingue a Carlos Arias cuando se refiere a la Bienal de Venecia, a la que postuló junto a Medina con El Lienzo de los Anónimos. A pesar de que su propuesta fue seleccionada como finalista pero no elegida para representar a Chile, decidió seguir adelante con la obra que ya estaba en proceso. Mentalizándose a encontrar una forma de exhibirla ante el público chileno, finalmente encontró la oportunidad en el Museo Nacional de Bellas Artes.
+Esta misma actitud de aceptación distingue a Carlos Arias cuando se refiere a la Bienal de Venecia, a la que postuló junto a Medina con *El Lienzo de los Anónimos*. A pesar de que su propuesta fue seleccionada como finalista pero no elegida para representar a Chile, decidió seguir adelante con la obra que ya estaba en proceso. Mentalizándose a encontrar una forma de exhibirla ante el público chileno, finalmente encontró la oportunidad en el Museo Nacional de Bellas Artes.
 
-— Creo que igual es sano que te digan usted no va a representar esta cosa, pero no por eso no es importante. En este escenario tenía dos opciones: o entristecerme y sentir que nadie aprecia mi trabajo, o decir qué bueno que estuve presente, porque finalmente esa vigencia depende de mí. Aunque yo jamás vaya a Venecia, siento que ya fui.
+— Creo que igual es sano que te digan *usted no va a representar esta cosa, pero no por eso no es importante.* En este escenario tenía dos opciones: o entristecerme y sentir que nadie aprecia mi trabajo, o decir qué bueno que estuve presente, porque finalmente esa vigencia depende de mí. Aunque yo jamás vaya a Venecia, siento que ya fui.
 
 <figure class="blog-image">
     <img

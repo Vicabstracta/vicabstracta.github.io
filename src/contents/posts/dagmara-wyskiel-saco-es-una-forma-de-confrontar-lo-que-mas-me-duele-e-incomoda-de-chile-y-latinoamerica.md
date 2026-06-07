@@ -13,11 +13,11 @@ cover: /blog/apuntes/dagmara-wyskiel-saco-es-una-forma-de-confrontar-lo-que-mas-
 
 ---
 
-A los 15 años, la artista visual polaca Dagmara Wyskiel tomó la decisión de matricularse en una escuela secundaria con clases intensivas de español. No sabía exactamente por qué, pero sentía una fuerte atracción por el idioma. Esa elección, aparentemente casual, marcaría su futuro. Hoy, Dagmara suma dos décadas como habitante de la región de Antofagasta, un territorio del que se ha enamorado profundamente. La ausencia de espacios dedicados a la educación y circulación de la producción artística en la zona la impulsó a fundar SACO, actualmente reconocida como una de las iniciativas artísticas más influyentes de Chile.
+A los 15 años, la artista visual polaca **Dagmara Wyskiel** tomó la decisión de matricularse en una escuela secundaria con clases intensivas de español. No sabía exactamente por qué, pero sentía una fuerte atracción por el idioma. Esa elección, aparentemente casual, marcaría su futuro. Hoy, Dagmara suma dos décadas como habitante de la región de Antofagasta, un territorio del que se ha enamorado profundamente. La ausencia de espacios dedicados a la educación y circulación de la producción artística en la zona la impulsó a fundar SACO, actualmente reconocida como una de las iniciativas artísticas más influyentes de Chile.
 
 Iniciado como una modesta semana del arte, el proyecto ha crecido exponencialmente, atrayendo a artistas de todo el mundo para desarrollar propuestas profundamente enraizadas en el paisaje desértico. Este entorno, un estímulo constante para las mentes creativas, ha sido el eje inspirador de SACO a lo largo de sus 12 ediciones, dando vida a diversos proyectos surgidos como respuestas a una convocatoria de gran alcance.
 
-Sin exceder la extensión de una página y media, el texto curatorial de cada versión de SACO actúa como su núcleo vital, estimulando la creación artística de quienes responden a la convocatoria. La duodécima edición del festival, titulada Ecosistemas oscuros, se basa en la biosfera oscura, un territorio subterráneo habitado por los poliextremófilos, organismos capaces de prosperar en condiciones extremas y potenciales colonos de Marte.
+Sin exceder la extensión de una página y media, el texto curatorial de cada versión de SACO actúa como su núcleo vital, estimulando la creación artística de quienes responden a la convocatoria. La duodécima edición del festival, titulada *Ecosistemas oscuros*, se basa en la biosfera oscura, un territorio subterráneo habitado por los poliextremófilos, organismos capaces de prosperar en condiciones extremas y potenciales colonos de Marte.
 
 Enfrentándose a los múltiples desafíos del desierto, los extremófilos se perfilan como un modelo de resiliencia para el futuro de la humanidad. SACO convoca a los artistas a trascender lo convencional y utilizar el desierto como un laboratorio para imaginar utopías. Entre junio y septiembre de 2025, la bienal se desplegará en la región más árida del mundo, inaugurando proyectos que conectan las artes visuales, las ciencias, el territorio y sus habitantes.
 
@@ -25,11 +25,11 @@ Enfrentándose a los múltiples desafíos del desierto, los extremófilos se per
     <img
         src="/blog/apuntes/dagmara-wyskiel-saco-es-una-forma-de-confrontar-lo-que-mas-me-duele-e-incomoda-de-chile-y-latinoamerica/Dagmara-Wyskiel-Juego-Mixto2016-Valle-de-los-Meteoritos-Quillagua-Region-de-Antofagasta-Chile-Cortesia-de-la-artista.jpg">
     <figcaption>
-        Dagmara Wyskiel, Juego Mixto, 2016. Valle de los Meteoritos, Quillagua, Región de Antofagasta, Chile. Cortesía de la artista
+        Dagmara Wyskiel, <em>Juego Mixto</em>, 2016. Valle de los Meteoritos, Quillagua, Región de Antofagasta, Chile. Cortesía de la artista
     </figcaption>
 </figure>
 
-Llevas décadas viviendo en el norte y, según he leído en entrevistas, consideras que el desierto es como un templo contemporáneo. Esa idea pareció hermosa, y me gustaría que la pudieras desarrollar un poco más desde tu experiencia personal con el territorio.
+**Llevas décadas viviendo en el norte y, según he leído en entrevistas, consideras que el desierto es como un templo contemporáneo. Esa idea pareció hermosa, y me gustaría que la pudieras desarrollar un poco más desde tu experiencia personal con el territorio.**
 
 Es una historia larga, pero podría decirse que todo comenzó por mi interés, desde muy chica, por hablar español. A los 15 años elegí un colegio de enseñanza media que ofrecía clases intensivas del idioma, lo cual resultó ser crucial para el efecto dominó que me llevó al lugar donde vivo hoy. Más adelante, se establecieron intercambios culturales entre la Universidad de Bellas Artes en Cracovia y Chile, y fue entonces cuando el profesor polaco Guroski viajó a Chile a dictar talleres.
 
@@ -43,7 +43,7 @@ En mi barrio había casas de la cultura con talleres, cursos, cine para niños y
     <img
         src="/blog/apuntes/dagmara-wyskiel-saco-es-una-forma-de-confrontar-lo-que-mas-me-duele-e-incomoda-de-chile-y-latinoamerica/Joao-Paulo-Racy-Brasil.jpg">
     <figcaption>
-        João Paulo Racy, Redacciones territoriales, 2023. Instalación en Parque Cultural Ruinas de Huanchaca y vallas publicitarias sector La Chimba, Antofagasta, Chile. Foto cortesía de Bienal SACO.
+        João Paulo Racy, <em>Redacciones territoriales</em>, 2023. Instalación en Parque Cultural Ruinas de Huanchaca y vallas publicitarias sector La Chimba, Antofagasta, Chile. Foto cortesía de Bienal SACO.
     </figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ El mundo del arte sigue siendo profundamente elitista. Aunque se proclama inclus
 
 ---
 
-En una entrevista previa con Artishock mencionaste que, a partir del 2019, SACO se convirtió en una especie de moda. Sin embargo, ¿cómo dirías que han logrado mantener ese interés vivo y seguir creciendo? Este año, por ejemplo, recibieron una mayor cantidad de postulaciones en la convocatoria internacional respecto al año pasado.
+**En una entrevista previa con Artishock mencionaste que, a partir del 2019, SACO se convirtió en una especie de moda. Sin embargo, ¿cómo dirías que han logrado mantener ese interés vivo y seguir creciendo? Este año, por ejemplo, recibieron una mayor cantidad de postulaciones en la convocatoria internacional respecto al año pasado.**
 
 Veo esto casi como una ola que va creciendo, un interés que se propaga boca a boca. Creo que los artistas, en el contexto global, necesitan contacto con algo profundamente auténtico, algo que no encuentran en las galerías, museos o en sus propios circuitos de arte. El mundo del arte en las grandes ciudades es inestable, no ofrece nada sólido a lo que aferrarse cuando alguien se siente perdido. En contraste, el desierto es una constante. Es un espacio que puede entregar equilibrio, tanto literal como simbólicamente, proporcionando un piso firme desde donde empezar a trabajar, presentándose como un lugar ideal para reconectarse con uno mismo, sea desde lo más ateo hasta lo más místico o religioso.
 
@@ -99,7 +99,7 @@ Lo que me emociona especialmente de esta edición es la diversidad global que se
     <img
         src="/blog/apuntes/dagmara-wyskiel-saco-es-una-forma-de-confrontar-lo-que-mas-me-duele-e-incomoda-de-chile-y-latinoamerica/Dagmara-Wyskiel-en-Desert-Transformation-Lab-Bledowska-Polonia.jpg">
     <figcaption>
-        Dagmara Wyskiel en Desert Transformation Lab, Błędowska (Polonia)
+        Dagmara Wyskiel en <em>Desert Transformation Lab</em>, Błędowska (Polonia)
     </figcaption>
 </figure>
 
@@ -109,7 +109,7 @@ Lo que me emociona especialmente de esta edición es la diversidad global que se
 
 ---
 
-Eso me hizo recordar tu statement curatorial, disponible en tu web, que seguramente se manifestará en la Bienal de Cuenca de 2025, donde has sido invitada como co-curadora. ¿Cómo definirías tu estilo curatorial?
+**Eso me hizo recordar tu statement curatorial, disponible en tu web, que seguramente se manifestará en la Bienal de Cuenca de 2025, donde has sido invitada como co-curadora. ¿Cómo definirías tu estilo curatorial?**
 
 Creo que mi enfoque es particular porque mi primera carrera fue diseño industrial, entonces provengo de un mundo que trabaja con sus manos, con la materia, y hay que saber fundamentar cada decisión. En el diseño industrial nada es especulativo, un producto funciona o no funciona, y esa manera de reflexionar la he trasladado del diseño al arte, y luego a la curaduría.
 
@@ -117,17 +117,17 @@ Soy bastante pragmática, por lo que en mis textos curatoriales no trato de pone
 
 Antes, cuando ni pensaba que me integraría al campo de la curaduría, leía textos curatoriales y me quedaba dormida. Pensaba que algo estaba mal conmigo, pero después me di cuenta de que muchas veces los curadores escriben para lucirse frente a sus colegas, sin siquiera pensar en los artistas, cuando la verdad es que el texto curatorial es para inspirarlos a ellos. Yo siempre he destacado como uno de mis éxitos más grandes el que una vez un artista me dijera que no pudo dormir después de leer un texto curatorial porque no paraba de imaginar ideas. Para mí, la metodología de funcionamiento de un texto curatorial es como la de un poema.
 
-Justamente te quería preguntar cuánto te demoras en escribir los textos, porque son bastante concisos si se considera que organizas todo un festival en torno a ellos…
+**Justamente te quería preguntar cuánto te demoras en escribir los textos, porque son bastante concisos si se considera que organizas todo un festival en torno a ellos…**
 
 Experimento la escritura como un proceso muy lento; a veces redacto un par de frases y espero dos semanas antes de retomar el texto. No obstante, siempre estoy anotando ideas abiertas para la próxima edición, a ver si algún día miro con cariño un tema previamente desechado y lo retomo.
 
-Recuerdo que en una charla de la Asociación Internacional de Bienales mencionaste el auge de la investigación sobre microbiología y los extremófilos. ¿Cómo se desarrolló finalmente la temática dentro de esta edición?
+**Recuerdo que en una charla de la Asociación Internacional de Bienales mencionaste el auge de la investigación sobre microbiología y los extremófilos. ¿Cómo se desarrolló finalmente la temática dentro de esta edición?**
 
 Fue a partir del cruce de las temáticas, tal como dices, que ya estaban circulando en el ambiente, pero también el momento de unir las piezas entre lo macro y lo micro, entre astronomía y microbiología, comprendiendo la interdependencia entre disciplinas, con los microbiólogos influenciando de manera directa aquellas zonas del universo que actualmente se investigan en búsqueda de la posible vida.
 
 Hace un año aproximadamente me hice consciente de la interconexión entra las áreas de la ciencia dura, y me pareció que me demoré tanto en hacerlo porque nadie me presentó estos temas de alguna manera amigable o creativa. Los lenguajes utilizados por los expertos en el área son tan poco accesibles para nosotros que uno se demora mucho en comprender sus planteamientos. Una vez que por fin lo pude comprender sentí que mi misión era aproximar de manera mucho más interesante ese contenido al mundo del arte, especialmente a los artistas, logrando llegar al público general que visita SACO a través de sus producciones.
 
-Uno de los artistas confirmados para esta edición es el chileno Coco González Lohse, quien llevará a cabo un proyecto en colaboración con el Liceo Experimental Artístico, incorporando por primera vez su espacio expositivo Waldo Valenzuela. ¿Me podrías contar más acerca de este proyecto y de sus expectativas, como Bienal, respecto al impacto de este proyecto en la comunidad escolar y local de Antofagasta?
+**Uno de los artistas confirmados para esta edición es el chileno Coco González Lohse, quien llevará a cabo un proyecto en colaboración con el Liceo Experimental Artístico, incorporando por primera vez su espacio expositivo Waldo Valenzuela. ¿Me podrías contar más acerca de este proyecto y de sus expectativas, como Bienal, respecto al impacto de este proyecto en la comunidad escolar y local de Antofagasta?**
 
 Sí, Coco va a trabajar en un nuevo espacio para nosotros en el Liceo Experimental Artístico, que recientemente abrió una sala de arte con acceso directo desde la calle, lo cual tiene un gran valor local. Considerando que ese espacio representa el último nivel de educación en artes visuales en la ciudad, y que muchos de quienes se dedican al arte provienen de allí, estar presentes nos parece crucial.
 
@@ -139,11 +139,11 @@ Coco planea involucrar a profesores de diferentes áreas, no solo de arte, para 
 
 ---
 
-¿Hay algún otro espacio nuevo que puedas adelantar para esta edición?
+**¿Hay algún otro espacio nuevo que puedas adelantar para esta edición?**
 
 Sí, vamos a estar en la sala temporal del Museo de Salitre en María Elena, un espacio muy importante, por ser la última salitrera en funcionamiento. Allí se desarrollará la exposición de Isidora Correa, artista Doctoranda en Ciencia y Tecnología que fue seleccionada dentro de la línea de Geología de la convocatoria internacional de residencias del año pasado. Su proyecto involucra extremófilos vivos que se transformarán en parte de la obra, integrada en esculturas de vidrio con biolixiviación. También trabajará con el paisaje sonoro, haciendo de la exposición algo único y muy sorprendente, especialmente diseñado para este espacio.
 
-En una conversación previa me estuviste comentando que otra de las novedades para esta edición sería un Congreso Regional con invitados provenientes de diversas áreas.
+**En una conversación previa me estuviste comentando que otra de las novedades para esta edición sería un Congreso Regional con invitados provenientes de diversas áreas.**
 
 La idea del Congreso Regional nació de la necesidad de generar un espacio de diálogo entre actores de diferentes sectores, como el arte, la política, la ciencia y la industria, que a menudo viven en burbujas separadas. En la región, las iniciativas intersectoriales suelen ser impulsadas por el ámbito industrial, sin considerar la cultura como un actor relevante. Nuestro objetivo con este congreso es desafiar esa visión, poniendo el arte como anfitrión, estableciendo la metodología y las preguntas que guiarán el debate.
 
@@ -163,7 +163,7 @@ Queremos promover un pensamiento más autónomo y maduro sobre nuestro territori
 
 ---
 
-Para finalizar, me gustaría preguntarte por un balance, al cabo de tres años, del traspaso de formato de festival a Bienal. ¿Cómo has visto este cambio y su impacto en el trabajo de SACO?
+**Para finalizar, me gustaría preguntarte por un balance, al cabo de tres años, del traspaso de formato de festival a Bienal. ¿Cómo has visto este cambio y su impacto en el trabajo de SACO?**
 
 El cambio a Bienal nos ha dado más tiempo para profundizar nuestros proyectos y conectar mejor con el territorio. Un ejemplo claro es Bienal en el Maletero, una iniciativa de realidad virtual que permite que las exposiciones circulen por comunidades, colegios y cárceles durante todo el año no bienal. Estas iniciativas, que parecen utopías, acercan la cultura a quienes no suelen tener acceso. Las obras que surgen a partir de investigaciones locales tienen un valor especial, porque la familiaridad del territorio permite que el público se conecte, incluso con obras complejas. Por ejemplo, si alguien ve el cerrito detrás de su casa en un videoarte, esa conexión hace que quiera entender más. A partir de ahí, el mediador puede profundizar sobre el concepto del artista.
 

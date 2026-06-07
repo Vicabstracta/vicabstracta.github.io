@@ -15,9 +15,9 @@ cover: /blog/apuntes/proyecto-honorarias-quien-trabaja-para-quien/Las-Honorarias
 
 Un curioso objeto geométrico llamó mi atención al ingresar a la sala. Se trata de una especie de prisma, elaborado con espejos, de no más de 11 centímetros de altura. A pesar de su pequeño tamaño, su ubicación privilegiada en una esquina de la galería le otorgaba cierta aura de importancia. Intrigada, busqué información sobre él en la hoja de sala, pero no la encontré. Me pareció particularmente desconcertante.
 
-A diferencia de lo habitual en este tipo de documentos, la hoja de sala del Proyecto Honorarias no proporcionaba información sobre el nombre ni las dimensiones de las obras. Tampoco incluía a su autor/a, o al menos no de manera convencional. En su lugar, figuraba el nombre de un ‘protoautor’, quien había sugerido la idea de lo que sería la obra, pero no había participado en su desarrollo conceptual, ejecución y montaje. Todas las propuestas materializadas en las obras expuestas en Galería Macchina fueron principalmente realizadas por Las Honorarias.
+A diferencia de lo habitual en este tipo de documentos, la hoja de sala del *Proyecto Honorarias* no proporcionaba información sobre el nombre ni las dimensiones de las obras. Tampoco incluía a su autor/a, o al menos no de manera convencional. En su lugar, figuraba el nombre de un ‘protoautor’, quien había sugerido la idea de lo que sería la obra, pero no había participado en su desarrollo conceptual, ejecución y montaje. Todas las propuestas materializadas en las obras expuestas en **Galería Macchina** fueron principalmente realizadas por Las Honorarias.
 
-Este colectivo, compuesto por Roery Herrera y Loreto Muñoz, concibió el proyecto con un enfoque en obras de arte por encargo. Para ello, invitaron a un conjunto de artistas de mediana y larga trayectoria a proponer sus ideas, entre ellos Gonzalo Díaz, Cristóbal León y Pablo Ferrer. Este último es el autor del objeto geométrico que me cautivó, parte de la gran instalación que ocupa una esquina diagonal en la sala, una estructura púrpura adornada con flores de plástico.
+Este colectivo, compuesto por **Roery Herrera** y **Loreto Muñoz**, concibió el proyecto con un enfoque en obras de arte por encargo. Para ello, invitaron a un conjunto de artistas de mediana y larga trayectoria a proponer sus ideas, entre ellos **Gonzalo Díaz**, **Cristóbal León** y **Pablo Ferrer**. Este último es el autor del objeto geométrico que me cautivó, parte de la gran instalación que ocupa una esquina diagonal en la sala, una estructura púrpura adornada con flores de plástico.
 
 <figure class="blog-image">
     <img
@@ -27,7 +27,7 @@ Este colectivo, compuesto por Roery Herrera y Loreto Muñoz, concibió el proyec
     </figcaption>
 </figure>
 
-La obra, que me pareció una suerte de lavadora con un toque glamorosamente kitsch, busca reflejar el estado emocional de Ágathe y Ulrich, los hermanos incestuosos que protagonizan la novela El hombre sin atributos. Ferrer basó su propuesta en torno a uno de los capítulos del libro, que adjuntó a un mail en el que solicitaba “hacer el intento de cifrar el estado de percepción” de los protagonistas “en el trabajo”.
+La obra, que me pareció una suerte de lavadora con un toque glamorosamente kitsch, busca reflejar el estado emocional de Ágathe y Ulrich, los hermanos incestuosos que protagonizan la novela *El hombre sin atributos*. Ferrer basó su propuesta en torno a uno de los capítulos del libro, que adjuntó a un mail en el que solicitaba “hacer el intento de cifrar el estado de percepción” de los protagonistas “en el trabajo”.
 
 En términos concretos, el capítulo se podría considerar poco acontecido, pues se centra en la conversación entre ambos personajes en un paisaje maravilloso. El diálogo comienza a partir de los colores de las plantas que los rodean, y termina transformándose en una reflexión metafísica acerca de la existencia de Dios y la muerte. Si bien la actitud de los hablantes resulta difícil de precisar, un aspecto innegable es el éxtasis que los invade en aquel ambiente paradisíaco. Un escenario que Las Honorarias interpretaron como un jardín burgués.
 
@@ -49,11 +49,11 @@ Esta búsqueda de realismo, que atraviesa todas las obras del colectivo, se refl
 
 ### KUNG FU INSTALATIVO
 
-El golpeteo de los martillos en el video se entrelaza con el relato proveniente de otra pieza audiovisual, basada en la propuesta del artista Pablo Rivera. En la pantalla, vemos a Roery haciendo un molde de la oreja de Loreto, la cual luego es empaquetada en una caja de pizza y enviada por delivery a la casa de Rivera, junto con un molde de la oreja de Roery. Durante los primeros minutos del video, una voz en off narra que el empresario José Menéndez Menéndez ordenaba cortar las orejas de los Selk Nam, un hecho histórico que Rivera buscaba denunciar en su propuesta para Las Honorarias.
+El golpeteo de los martillos en el video se entrelaza con el relato proveniente de otra pieza audiovisual, basada en la propuesta del artista **Pablo Rivera**. En la pantalla, vemos a Roery haciendo un molde de la oreja de Loreto, la cual luego es empaquetada en una caja de pizza y enviada por delivery a la casa de Rivera, junto con un molde de la oreja de Roery. Durante los primeros minutos del video, una voz en off narra que el empresario **José Menéndez Menéndez** ordenaba cortar las orejas de los Selk Nam, un hecho histórico que Rivera buscaba denunciar en su propuesta para Las Honorarias.
 
 Inicialmente, el artista les había encargado remover las orejas de siete estatuas de soldados y hacer un collar con ellas. Sin embargo, esta tarea resultaba extremadamente difícil de llevar a cabo, ya que no solo vandalizar monumentos constituye un delito, sino que también hacía imposible exhibir las obras en la galería de una universidad católica. Ante este desafío, Las Honorarias se vieron forzadas a adaptar la propuesta original, aprovechando la situación para hacer una declaración: crear moldes de sus propias orejas y enviarlos a Rivera en cajas que contenían mensajes estratégicos, incluyendo entre ellos el lema ‘quien no asume un riesgo nunca ganará una partida’.
 
-Estas cajas se exhiben junto al video, acompañadas además por un libro de Enrique Campos Menéndez, descubierto por Loreto. Según relatan en la producción audiovisual, este libro pertenecía al encargado cultural de Pinochet, quien defendía a José Menéndez Menéndez argumentando que su abuelo no había cometido ninguna agresión, ya que solo había dado la orden de realizar el crimen, pero no lo había llevado a cabo personalmente.
+Estas cajas se exhiben junto al video, acompañadas además por un libro de **Enrique Campos Menéndez**, descubierto por Loreto. Según relatan en la producción audiovisual, este libro pertenecía al encargado cultural de Pinochet, quien defendía a José Menéndez Menéndez argumentando que su abuelo no había cometido ninguna agresión, ya que solo había dado la orden de realizar el crimen, pero no lo había llevado a cabo personalmente.
 
 A través de esta obra, Las Honorarias establecen una conexión entre la tercerización del corte de orejas de los indígenas y el encargo hecho por Rivera, ya que, si hubieran cumplido con la tarea, habrían sido consideradas culpables de vandalizar un monumento. Ante este dilema, las artistas decidieron cambiar el rumbo de la situación, adaptando la obra para generar un nuevo discurso.
 
@@ -67,7 +67,7 @@ En lugar de realizar la extracción de orejas, Las Honorarias optaron por crear 
     </figcaption>
 </figure>
 
-La manera en que el trabajo de Las Honorarias es percibido o entendido se refleja nuevamente a través de la obra que crearon en respuesta al desafío propuesto por Gonzalo Díaz: investigar el concepto de trabajo de campo inspirándose en los libros Las muy ricas horas del Duque de Berry y Las geórgicas. El primero es un manual de oración encargado por el duque francés a los hermanos Limbourg, mientras que el segundo es un libro con propósitos pedagógicos, comisionado a Virgilio para promover las labores agrícolas.
+La manera en que el trabajo de Las Honorarias es percibido o entendido se refleja nuevamente a través de la obra que crearon en respuesta al desafío propuesto por Gonzalo Díaz: investigar el concepto de trabajo de campo inspirándose en los libros *Las muy ricas horas del Duque de Berry* y *Las geórgicas*. El primero es un manual de oración encargado por el duque francés a los hermanos Limbourg, mientras que el segundo es un libro con propósitos pedagógicos, comisionado a Virgilio para promover las labores agrícolas.
 
 El Duque de Berry encargó a los miniaturistas Limbourg la creación de un libro de horas, un tipo de manuscrito distintivo de la Edad Media que contiene una serie de pinturas iluminadas relacionadas con las estaciones del año. Este detalle estético fue el que Las Honorarias visualmente trasladaron a su obra: una escultura colgante de trupán pintada en dorado, el color característico de las miniaturas que acompañan estos manuscritos.
 
@@ -79,7 +79,7 @@ Las artistas utilizan la metáfora de la comunidad de abejas para resaltar la im
 
 En su exposición en Galería Macchina, Las Honorarias refuerzan este discurso al presentar obras en las que comparten la autoría con otros artistas que participaron en su conceptualización. Este enfoque cuestiona si el valor de una obra radica en la idea original o en su producción, desafiando la noción del artista como poseedor de genialidad única, una idea arraigada en el capitalismo como sistema económico. En cambio, resalta el valor del trabajo colectivo como una práctica que se ha consolidado desde el siglo XX con el surgimiento de las vanguardias artísticas y los avances en la tecnología y la comunicación.
 
-Uno de los grupos más destacados del siglo XX fue la Asociación de Artistas de Vanguardia (VAKhN), ligada al Constructivismo ruso, un movimiento con el que Las Honorarias se identifican ideológicamente y del que extraen referentes para la identidad visual de su producción artística. En Proyecto Honorarias, el diálogo formal con la VAKhN se hace evidente en la atención prestada a las cualidades físicas de los materiales. Sin embargo, la estética industrial del Constructivismo ruso se adapta a las obras del colectivo mediante un enfoque más bien artesanal, lo que les confiere una apariencia genuina y humana.
+Uno de los grupos más destacados del siglo XX fue la **Asociación de Artistas de Vanguardia (VAKhN)**, ligada al Constructivismo ruso, un movimiento con el que Las Honorarias se identifican ideológicamente y del que extraen referentes para la identidad visual de su producción artística. En Proyecto Honorarias, el diálogo formal con la VAKhN se hace evidente en la atención prestada a las cualidades físicas de los materiales. Sin embargo, la estética industrial del Constructivismo ruso se adapta a las obras del colectivo mediante un enfoque más bien artesanal, lo que les confiere una apariencia genuina y humana.
 
 <figure class="blog-image">
     <img
@@ -91,15 +91,21 @@ Uno de los grupos más destacados del siglo XX fue la Asociación de Artistas de
 
 ### OBSESIONES REINTERPRETADAS
 
-Se dice que la animación stop motion tuvo sus inicios alrededor de 1910, cuando Vladislav Starevich, entonces director del Museo de Historia Natural de Lituania decidió utilizar cadáveres de cucarachas para realizar un cortometraje. La idea surgió al notar que los insectos no dejaban de moverse o de frentón morían debido al calor de los focos utilizados para iluminarlos. Esa historia es una de las fascinaciones de Cristóbal León y se refleja tanto en sus producciones junto a Joaquín Cociña (León & Cociña) como en su propuesta para Proyecto Honorarias.
+Se dice que la animación stop motion tuvo sus inicios alrededor de 1910, cuando Vladislav Starevich, entonces director del Museo de Historia Natural de Lituania decidió utilizar cadáveres de cucarachas para realizar un cortometraje. La idea surgió al notar que los insectos no dejaban de moverse o de frentón morían debido al calor de los focos utilizados para iluminarlos. Esa historia es una de las fascinaciones de Cristóbal León y se refleja tanto en sus producciones junto a **Joaquín Cociña** (**León & Cociña**) como en su propuesta para _Proyecto Honorarias_.
 
-Está vivaTiene peloHace ruidoTiene agujerosEsconde un secreto
+_Está viva_  
+_Tiene pelo_  
+_Hace ruido_  
+_Tiene agujeros_  
+_Esconde un secreto_
 
 La descripción atañe a la muñeca bicéfala de hojalata propuesta por Cristóbal León. Detrás de ambos rostros/máscaras de plástico, dos parlantes reproducen el audio de una conversación entre Las Honorarias. La desnudez absoluta del mecanismo, así como los rostros que articulan el sonido de cada una de las voces, generan una sensación ligeramente perturbadora.
 
-No obstante, a diferencia del trabajo de León & Cociña, la muñeca de Las Honorarias tiene un componente humorístico. No solo por la originalidad de la creación, sino también por la naturaleza del diálogo que mantienen ambas cabezas. En él, se retoman algunas frases del manifiesto que escribieron para su anterior exposición en Espacio218, El Sudor de la Frente, en relación con la precariedad del trabajo cultural en Chile.
+No obstante, a diferencia del trabajo de León & Cociña, la muñeca de Las Honorarias tiene un componente humorístico. No solo por la originalidad de la creación, sino también por la naturaleza del diálogo que mantienen ambas cabezas. En él, se retoman algunas frases del manifiesto que escribieron para su anterior exposición en **Espacio218**, *El Sudor de la Frente*, en relación con la precariedad del trabajo cultural en Chile.
 
-R: No sacrificarlo todo, pero sí una gran parte de algo.L: Una vez leí de una artista que prefería comprar materiales que almuerzo.R&L: Nunca haremos eso.
+**R**: _No sacrificarlo todo, pero sí una gran parte de algo._  
+**L**: _Una vez leí de una artista que prefería comprar materiales que almuerzo._  
+**R&L**: _Nunca haremos eso._
 
 <figure class="blog-image">
     <img
@@ -109,7 +115,7 @@ R: No sacrificarlo todo, pero sí una gran parte de algo.L: Una vez leí de una 
     </figcaption>
 </figure>
 
-Si la obsesión Frankensteiniana de Cristóbal León es reinterpretada por Las Honorarias mediante una aproximación artesanal-humorística, el interés por la estética de la maldad de Víctor Hugo Bravo es reconceptualizado a través de una instalación/performance que hace referencia al Servicio Mejor Niñez, el encargado de proteger a niños, niñas y adolescentes que fueron gravemente vulnerados en sus derechos.
+Si la obsesión Frankensteiniana de Cristóbal León es reinterpretada por Las Honorarias mediante una aproximación artesanal-humorística, el interés por la estética de la maldad de **Víctor Hugo Bravo** es reconceptualizado a través de una instalación/performance que hace referencia al **Servicio Mejor Niñez**, el encargado de proteger a niños, niñas y adolescentes que fueron gravemente vulnerados en sus derechos.
 
 La instalación incluye un sonajero pintado con un diseño militar, un motivo recurrente en las obras de Bravo, solo que las características tonalidades verdo-terrosas son reemplazadas por la paleta de colores de los caramelos Skittles. El sonajero está fijado sobre una escultura de metal cobrizo que representa una casa. Un sistema robótico lo activa periódicamente, produciendo sonidos. En la pared, diagonal al sonajero, las artistas colocaron un papel que documenta una donación al Servicio Mejor Niñez. El documento acredita la recepción de un conjunto de sonajeros artesanales destinados a sesiones de musicoterapia.
 
@@ -117,7 +123,7 @@ El papel establece un vínculo entre la sala expositiva y el mundo exterior, cre
 
 La imagen se desvaneció rápidamente cuando recordé la historia de una abuela cuyo nieto llevaba más de cinco años esperando para acceder a un Programa de Reparación de Maltrato Grave. Me puse a pensar en las condiciones de las residencias familiares, donde los menores carecen de amor, donde muchas niñas son víctimas de explotación sexual y los niños son reclutados por bandas de narcotraficantes.
 
-Esta obra, que encapsula el corazón de la propuesta de Víctor Hugo Bravo, Trabajar con el concepto de lo NEFASTO, fue la que más me impactó. Mientras recorría el resto de la exposición y veía otros trabajos que abordaban otros temas, el sonajero no dejaba de golpetear la estructura metálica de la casita, insistiendo en su presencia. A veces, parece que aún lo escucho.
+Esta obra, que encapsula el corazón de la propuesta de Víctor Hugo Bravo, *Trabajar con el concepto de lo NEFASTO,* fue la que más me impactó. Mientras recorría el resto de la exposición y veía otros trabajos que abordaban otros temas, el sonajero no dejaba de golpetear la estructura metálica de la casita, insistiendo en su presencia. A veces, parece que aún lo escucho.
 
 ---
 
