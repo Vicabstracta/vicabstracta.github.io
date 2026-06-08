@@ -15,13 +15,13 @@ cover: /blog/apuntes/maria-veronica-san-martin-memoriales-abiertos/Maria-Veronic
 
 Eran las 12:00 del día cuando comenzó a llover. María Verónica y las otras nueve personas que la acompañaban en la mesa alzaron los ojos al cielo. Muchos celebraron el clima, señalando hacia el silo que se erguía frente a ellos: la humedad tendría un impacto impredecible en los retratos que la artista había instalado alrededor de la estructura.
 
-Días antes, María Verónica había terminado de pegar decenas de cortinas de baño impresas con imágenes aleatoriamente extraídas del archivo digital Memoria Viva. Eran 35 retratos de detenidos desaparecidos adheridos a las telas con polvo de carboncillo. Las cortinas en el silo eran parte de los dos proyectos que desarrollaría durante su residencia en ART OMI, un centro artístico inmerso en 48 hectáreas de áreas verdes en el valle del Hudson, Nueva York.
+Días antes, María Verónica había terminado de pegar decenas de cortinas de baño impresas con imágenes aleatoriamente extraídas del archivo digital _Memoria Viva_. Eran 35 retratos de detenidos desaparecidos adheridos a las telas con polvo de carboncillo. Las cortinas en el silo eran parte de los dos proyectos que desarrollaría durante su residencia en **ART OMI**, un centro artístico inmerso en 48 hectáreas de áreas verdes en el valle del Hudson, Nueva York.
 
-La escena se repitió varias veces durante el transcurso de la residencia. El clima colaboró en el proceso de producción de la obra al permitir que algunos trazos en los retratos de los detenidos desaparecidos dejaran una huella en la superficie de silo. Si bien la artista concibió el proyecto como un proceso de doble desaparición, las condiciones climáticas intervinieron en su discurso inicial para dejar un rastro, una evidencia tangible que es a la vez memoria.
+La escena se repitió varias veces durante el transcurso de la residencia. El clima colaboró en el proceso de producción de la obra al permitir que algunos trazos en los retratos de los detenidos desaparecidos dejaran una huella en la superficie de silo. Si bien la artista concibió el proyecto como un proceso de _doble desaparición_, las condiciones climáticas intervinieron en su discurso inicial para dejar un rastro, una evidencia tangible que es a la vez memoria.
 
 — Fue la naturaleza la que fijó la suerte de pintura, que era carboncillo, dentro de la suerte de papel, que era la cortina de baño.
 
-Paralelamente, en el estudio asignado durante la residencia, la artista trabajó con los mismos retratos de los detenidos desaparecidos, desplegándolos en el suelo. A partir de este material, creó un libro que contiene todos los retratos, asegurando así su archivo y protección. El libro se unió a la serie Memoriales Móviles, cuya circulación contribuye a la construcción de espacios de memoria.
+Paralelamente, en el estudio asignado durante la residencia, la artista trabajó con los mismos retratos de los detenidos desaparecidos, desplegándolos en el suelo. A partir de este material, creó un libro que contiene todos los retratos, asegurando así su archivo y protección. El libro se unió a la serie _Memoriales Móviles_, cuya circulación contribuye a la construcción de espacios de memoria.
 
 <figure class="blog-image">
     <img
@@ -63,7 +63,7 @@ Sus ojos recorrían la estructura del edificio de arriba a abajo, aunque sin mar
 
 Estas reflexiones diarias la encaminaron hacia la temática que abordaría en sus proyectos como estudiante de posgrado: la historia de su país. A partir del desarrollo de un discurso político de resistencia y libertad, el asunto adquirió vital importancia en su visión del mundo. El compromiso con estas ideas fue estimulado tempranamente desde los 7 años, cuando ya asistía con su familia a manifestaciones en contra de la dictadura de Pinochet.
 
-En 2012, presenta en clase el proyecto In their Memory, un libro con estructura de acordeón que recopila los retratos de 3.550 personas desaparecidas durante la dictadura. Este trabajo forma parte de la colección de nueve libros de Memoriales Móviles, que además se muestra como performance. Durante la activación, la artista coloca los libros en el suelo y, mientras los despliega, va narrando los procesos de producción y los contextos históricos de sus orígenes. El proyecto consta de 200 copias impresas a mano con técnicas de grabado como aguafuerte, serigrafia, xilografía, y litografía con tipos de metal.
+En 2012, presenta en clase el proyecto _In their Memory_, un libro con estructura de acordeón que recopila los retratos de 3.550 personas desaparecidas durante la dictadura. Este trabajo forma parte de la colección de nueve libros de _Memoriales Móviles_, que además se muestra como performance. Durante la activación, la artista coloca los libros en el suelo y, mientras los despliega, va narrando los procesos de producción y los contextos históricos de sus orígenes. El proyecto consta de 200 copias impresas a mano con técnicas de grabado como aguafuerte, serigrafia, xilografía, y litografía con tipos de metal.
 
 — Estos libros se convierten en memoriales, trascendiendo su condición de simples obras bidimensionales al expandirse en el espacio tridimensional. Habitar estos libros replica la experiencia silenciosa de estar en un memorial.
 
@@ -105,13 +105,13 @@ Con cada proyecto, María Verónica se involucraba más y más con aquellas víc
 
 ### DIGNIDAD
 
-Era abril de 2017 y María Verónica caminaba apurada por Teatinos, preocupada por llegar puntual a las 15:00. La verdad es que estaba un poco nerviosa, pero el sentimiento de emoción rebasaba sus inseguridades. Un hombre alto con chaleco burdeo le abrió la puerta, mientras esbozaba una cálida sonrisa. Su anfitrión era Winfred Hempel, el abogado de las víctimas de Colonia Dignidad.
+Era abril de 2017 y María Verónica caminaba apurada por Teatinos, preocupada por llegar puntual a las 15:00. La verdad es que estaba un poco nerviosa, pero el sentimiento de emoción rebasaba sus inseguridades. Un hombre alto con chaleco burdeo le abrió la puerta, mientras esbozaba una cálida sonrisa. Su anfitrión era **Winfred Hempel**, el abogado de las víctimas de Colonia Dignidad.
 
 El hombre la observó detenidamente a través de unos anteojos cuadrados. Desde el primer momento, la artista percibió en su mirada un deseo ferviente de descubrir la verdad. Con un gesto delicado de su brazo, el abogado la invitó a pasar a su oficina. La habitación estaba repleta de libros: se apurruñaban en las estanterías y se esparcían sobre la mesa y el piso.
 
-María Verónica entregó tres libros más a Winfred, que se sumarían a su colección. Pero estos libros eran diferentes: In Their Memory (2012/2020), Memory and Landscape (2013) e Indignity and Resistance (2015), parte de su proyecto Memoriales Móviles. Mientras desplegaba cada uno sobre el escritorio del abogado, le explicó que era una artista chilena residente en Estados Unidos y que su tema de interés era la memoria de su país.
+María Verónica entregó tres libros más a Winfred, que se sumarían a su colección. Pero estos libros eran diferentes: _In Their Memory_ (2012/2020), _Memory and Landscape_ (2013) e _Indignity and Resistance_ (2015), parte de su proyecto _Memoriales Móviles_. Mientras desplegaba cada uno sobre el escritorio del abogado, le explicó que era una artista chilena residente en Estados Unidos y que su tema de interés era la memoria de su país.
 
-Tras escucharla con atención, Winfred replicó con otra historia, una que trascendería el proyecto inicial de los Memoriales Móviles para convertirse en una performance en sí misma.
+Tras escucharla con atención, Winfred replicó con otra historia, una que trascendería el proyecto inicial de los _Memoriales Móviles_ para convertirse en una performance en sí misma.
 
 <figure class="blog-image">
     <img
@@ -165,7 +165,7 @@ No pasó mucho tiempo antes de que siguiera su deseo y comenzara a Googlear “j
 
 La figura de la lanza volvió a entrar en la vida de María Verónica, esta vez resignificada desde su posición de artista e investigadora.
 
-—Quería referirme a la jabalina como un elemento capaz de cruzar fronteras, libremente, como un llamado al no borders. A fin de cuentas, qué raro es eso de tener un pasaporte.
+—Quería referirme a la jabalina como un elemento capaz de cruzar fronteras, libremente, como un llamado al _no borders_. A fin de cuentas, qué raro es eso de tener un pasaporte.
 
 La jabalina es interpretada desde una perspectiva histórico-crítica, como una herramienta de supervivencia y un símbolo fálico, largo y punzante. Es un objeto que otorga poder al lanzarlo, pero cuyo control se pierde una vez que ha sido arrojado.
 
@@ -185,7 +185,7 @@ Uno de esos días de marzo, al amanecer, el grupo de bailarines comenzó a mover
 
 Después de escuchar las explicaciones del coreógrafo, uno de los militares les invitó a retirarse porque era hora de comenzar su entrenamiento. Los bailarines ya se habían dado cuenta de que estaban en una zona de práctica de combate para los militares cuando vieron bombas lacrimógenas en el suelo.
 
-Proyecto Jabalina, ritual-performance de 30 minutos, con música original, quedó registrado en un video y tres libros. Estos documentos dan cuenta de aquellos temas que María Verónica ha venido trabajando en el tiempo, como la resistencia y la libertad.
+_Proyecto Jabalina,_ ritual-performance de 30 minutos, con música original, quedó registrado en un video y tres libros. Estos documentos dan cuenta de aquellos temas que María Verónica ha venido trabajando en el tiempo, como la resistencia y la libertad.
 
 <figure class="blog-image">
     <img

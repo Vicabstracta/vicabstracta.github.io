@@ -13,7 +13,7 @@ cover: /blog/apuntes/el-goce-de-la-pintura-las-historias-de-una-familia-de-artis
 
 ---
 
-Samy Benmayor miró hacia arriba de manera atenta, deleitado por los graciosos personajes oníricos que desfilaban por el techo de su habitación. Seres inexistentes, ondulados, antropomórficos, angulados e imposibles. Se rio con ganas cuando distinguió la sombra del rey, un personaje con corona que habitualmente se le aparecía.
+Samy Benmayor miró hacia arriba de manera atenta, deleitado por los graciosos personajes oníricos que desfilaban por el techo de su habitación. Seres inexistentes, ondulados, antropomórficos, angulados e imposibles. Se rio con ganas cuando distinguió la sombra del _rey_, un personaje con corona que habitualmente se le aparecía.
 
 La procesión era mágica y gratuita. Pero la verdad es que no eran más que sombras proyectadas por las luces de los microbuses en las ventanas, y de ahí al techo. Samy no reparaba en eso; estaba demasiado ocupado disfrutando el show.
 
@@ -35,13 +35,13 @@ En marzo de este año, la curadora Irene Gelfman aceptó el desafío propuesto p
 
 Tras ver las obras en conjunto y hablar con cada integrante de la familia, el punto de cruce curatorial se hizo evidente para Gelfman. “Algo que se repetía en nuestras conversaciones era esta idea de no hacer evidente que son una familia, pero sí que hay otra cosa en común, y que tiene que ver con el disfrute, con el goce de la práctica”, dice.
 
-Es partir de allí que surge El Goce de la Pintura como título de la muestra, la primera en reunir las obras de Samy, Matilde y José Benmayor.
+Es partir de allí que surge _El Goce de la Pintura_ como título de la muestra, la primera en reunir las obras de Samy, Matilde y José Benmayor.
 
 Arte, Magia y Naturaleza
 
-Se llamaba Señor Cocle y era un duende que vivía en la biblioteca de la casa de los Benmayor. Se sentaba en una sillita pequeña en la noche y cuidaba los libros de la familia. Matilde y José lo recuerdan perfectamente, al igual que a La novia que se desplegaba en toda la pared de su comedor. “Era un cuadro grande con tonos medios rojos y rosados, con blancos y grises, en el que salía una gran figura femenina con un velo de novia y las letras LA en el pecho. Era especial porque era grande y tenía solo un personaje”, recuerda José.
+Se llamaba Señor Cocle y era un duende que vivía en la biblioteca de la casa de los Benmayor. Se sentaba en una sillita pequeña en la noche y cuidaba los libros de la familia. Matilde y José lo recuerdan perfectamente, al igual que a _La novia_ que se desplegaba en toda la pared de su comedor. “Era un cuadro grande con tonos medios rojos y rosados, con blancos y grises, en el que salía una gran figura femenina con un velo de novia y las letras LA en el pecho. Era especial porque era grande y tenía solo un personaje”, recuerda José.
 
-Matilde comparte los recuerdos de su hermano. “La novia formaba parte de las imágenes que nos acompañaron en nuestro entorno familiar, cuadros donde había animales y cosas. Era como que estábamos dentro de una obra de arte. Hasta la alfombra de la habitación de mi hermano, llena de colores, había sido hecha por mi papá”.
+Matilde comparte los recuerdos de su hermano. “_La novia_ formaba parte de las imágenes que nos acompañaron en nuestro entorno familiar, cuadros donde había animales y cosas. Era como que estábamos dentro de una obra de arte. Hasta la alfombra de la habitación de mi hermano, llena de colores, había sido hecha por mi papá”.
 
 A pesar de que Matilde convivió con el arte desde muy pequeña, no fue hasta los 12 años cuando se convenció de que había hecho su primera obra de arte. Fue justo después de que su tío, Bororo, le regalara una maleta con óleos.
 
@@ -81,7 +81,7 @@ Irene Gelfman consideró estas apreciaciones de Matilde como un aspecto importan
 
 Algo con lo que también sintoniza Samy. A partir de la lectura de Baruch Spinoza, al artista le entusiasma la idea de que todos los seres vivos somos uno con la divinidad. “El filósofo plantea: ‘no busques a Dios en esos lugares lúgubres que construyeron los hombres para adorarlo. Búscalo en la maleza, en los ríos, en las montañas y los árboles”.
 
-Como un árbol genealógico describe Matilde la disposición de las obras en el espacio de la galería. A raíz de esta exposición, se dio cuenta de las relaciones formales entre sus obras y las de su papá. Se sorprendió con el parecido, sobre todo porque no tenía conocimiento de lo que trabajaba su padre estando él en Santiago y ella Nueva York. A pesar de la distancia, ambos estaban haciendo pinturas con colores y formas similares durante el mismo período.
+Como un _árbol genealógico_ describe Matilde la disposición de las obras en el espacio de la galería. A raíz de esta exposición, se dio cuenta de las relaciones formales entre sus obras y las de su papá. Se sorprendió con el parecido, sobre todo porque no tenía conocimiento de lo que trabajaba su padre estando él en Santiago y ella Nueva York. A pesar de la distancia, ambos estaban haciendo pinturas con colores y formas similares durante el mismo período.
 
 “Hay cuadros que nadie sabe si son míos o si son de la Mati”, comenta Samy. “Todos los elementos se relacionan muy bien. El montaje es extraordinario”.
 
@@ -103,7 +103,7 @@ Música de carrete, olor a piscola y manchas de pintura en el piso imprimían el
 
 Después de dejar a su hija en el colegio, José se va al taller y hace rendir su tiempo, trabajando hasta las seis en algunos bosquejos. El espacio lo comparte con dos artistas comprometidos, en un ambiente de camaradería y buena onda, algo que buscaba desde que los conoció a través de Samy.
 
-— Tengo ese recuerdo de ir al taller de mi papá cuando era chico, y que era algo muy bacán. Recuerdo estar con amigos, comer tallarines, dormir una siesta, y después seguir pintando. Y pensaba: voy a hacer esta misma wea nomás. No hay otra cosa que me interese.
+— Tengo ese recuerdo de ir al taller de mi papá cuando era chico, y que era algo muy bacán. Recuerdo estar con amigos, comer tallarines, dormir una siesta, y después seguir pintando. Y pensaba: _voy a hacer esta misma wea nomás_. _No hay otra cosa que me interese_.
 
 Michael Yaikel, Santiago Ascui y José Benmayor son amigos desde la universidad y fueron compañeros de taller en Angamos. Los unía el amor por la pintura, la melomanía y las noches en desvelo frente a sus obras en desarrollo. “Lo pasábamos bien cuando éramos más jóvenes… y hasta el día de hoy. Por eso nos hicimos amigos”.
 
@@ -117,7 +117,7 @@ A diferencia de Matilde, que reconoce una relación formal entre la pintura de s
     </figcaption>
 </figure>
 
-José recuerda que, de chico, su papá no lo dejaba usar regla. Pero él decidió romper la regla: sus líneas son instrumentales, medidas, y también guiadas por masking tape. Y mientras Samy va al taller a manchar la tela hasta ver lo que sale, José prefiere llegar con una idea clara. Él es de los que bosquejan.
+José recuerda que, de chico, su papá no lo dejaba usar regla. Pero él decidió _romper la regla_: sus líneas son instrumentales, medidas, y también guiadas por masking tape. Y mientras Samy va al taller a manchar la tela hasta ver lo que sale, José prefiere llegar con una idea clara. Él es de los que bosquejan.
 
 -Obvio que para mí eso es lo mejor, cuando tengo la cuestión hecha desde antes. Dibujar algo una vez, dos veces, tres veces y después pasarlo a la pintura.
 

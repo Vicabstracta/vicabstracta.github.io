@@ -13,13 +13,13 @@ cover: /blog/apuntes/el-golpe-interminable/El-golpe-interminable-2.jpg
 
 ---
 
-Decenas de militares, tanques y tanquetas pasaban ante los ojos atónitos del artista Carlos Gallardo mientras se desplazaba por la calle Moneda en un Peugeot 404 sedan. El auto no era de él, tampoco estaba al volante, pues se trataba de un vehículo de propiedad estatal. Conducía el cuñado de Gallardo, en este entonces con un cargo en el Ministerio de Agricultura, donde tenía que devolverlo. Por eso transitaban tan cerca del Palacio de Gobierno aquel 11 de septiembre de 1973.
+Decenas de militares, tanques y tanquetas pasaban ante los ojos atónitos del artista **Carlos Gallardo** mientras se desplazaba por la calle Moneda en un Peugeot 404 sedan. El auto no era de él, tampoco estaba al volante, pues se trataba de un vehículo de propiedad estatal. Conducía el cuñado de Gallardo, en este entonces con un cargo en el Ministerio de Agricultura, donde tenía que devolverlo. Por eso transitaban tan cerca del Palacio de Gobierno aquel 11 de septiembre de 1973.
 
 Carlos Gallardo no recuerda ninguna conversación entre él y su cuñado durante el desplazamiento; ambos estaban en shock. Sabían que sus vidas corrían peligro.
 
 — Sentía que podía llegarnos una bala perdida, porque los militares disparaban desde el suelo hacia los edificios, desde los cuales les disparaban de vuelta… no tenían idea si ese auto que iba pasando por esas calles era de los buenos o de los malos.
 
-Ocho años y 11 meses más tarde, en un matadero de la Cisterna, el artista creó una muerte ficcional, una muerte que nunca ocurrió. Parado ante a la cámara, realizó una mimesis de la fotografía Muerte de un Miliciano, de Robert Capa, una imagen que atrapa el preciso instante en el que un soldado es abatido. La acción performática de Gallardo fue el resultado de una búsqueda por retratar el brutal escenario en el que el país se había sumergido.
+Ocho años y 11 meses más tarde, en un matadero de la Cisterna, el artista creó una muerte ficcional, una muerte que nunca ocurrió. Parado ante a la cámara, realizó una mimesis de la fotografía *Muerte de un Miliciano,* de Robert Capa, una imagen que atrapa el preciso instante en el que un soldado es abatido. La acción performática de Gallardo fue el resultado de una búsqueda por retratar el brutal escenario en el que el país se había sumergido.
 
 <figure class="blog-image">
     <img
@@ -29,11 +29,11 @@ Ocho años y 11 meses más tarde, en un matadero de la Cisterna, el artista cre�
     </figcaption>
 </figure>
 
-En enero de 2021 su sobrino Sokio, un gestor cultural radicado en Nueva York desde hace 11 años viajó a Chile. Dos años atrás le había comentado a Carlos acerca de un proyecto que planeaba llevar a cabo: una exposición que conmemora las cinco décadas del golpe de Estado. En ese momento estaba pensada como una muestra institucional, a cargo de la curadora Antonia Cea, con un título en la línea de A 50 años.
+En enero de 2021 su sobrino **Sokio**, un gestor cultural radicado en Nueva York desde hace 11 años viajó a Chile. Dos años atrás le había comentado a Carlos acerca de un proyecto que planeaba llevar a cabo: una exposición que conmemora las cinco décadas del golpe de Estado. En ese momento estaba pensada como una muestra institucional, a cargo de la curadora **Antonia Cea**, con un título en la línea de A 50 años.
 
-Tras el rechazo a la nueva Constitución en un plebiscito el 4 de septiembre, la idea curatorial se hizo mucho más definida y pasó a estar a cargo de Sokio y Amanda Riesman, fundadores de New Latin Wave, un proyecto multiplataforma para promocionar a artistas latinx. “La frase que define y gatilla la exposición es que la dictadura puede haberse acabado, pero el golpe continúa”, comenta Sokio.
+Tras el rechazo a la nueva Constitución en un plebiscito el 4 de septiembre, la idea curatorial se hizo mucho más definida y pasó a estar a cargo de Sokio y **Amanda Riesman**, fundadores de **New Latin Wave**, un proyecto multiplataforma para promocionar a artistas latinx. “La frase que define y gatilla la exposición es que la dictadura puede haberse acabado, pero el golpe continúa”, comenta Sokio.
 
-Bajo esta premisa curatorial se articula The Endless Coup [El Golpe Interminable], la muestra que reúne hasta el 30 de septiembre a artistas de diversas edades y trayectorias en la sala de exposiciones de la New Art Dealers Alliance (NADA), una organización sin fines de lucro que agrupa a las galerías independientes y más pequeñas de Estados Unidos.
+Bajo esta premisa curatorial se articula *The Endless Coup* [El Golpe Interminable], la muestra que reúne hasta el 30 de septiembre a artistas de diversas edades y trayectorias en la sala de exposiciones de la New Art Dealers Alliance (NADA), una organización sin fines de lucro que agrupa a las galerías independientes y más pequeñas de Estados Unidos.
 
 A diferencia de su tío Carlos, Sokio -nacido en 1973- no tiene recuerdo alguno del Golpe de Estado. Sin embargo, recuerda los crudos sucesos del periodo de la dictadura.
 
@@ -45,11 +45,11 @@ Imágenes malditas
 
 Al igual que Sokio, muchos de los artistas que participan en la muestra no vivieron el golpe militar. Pero eso no quita el que hayan sido herederos de imágenes traumáticas de aquella época, las cuales destilan en el conjunto de obras presentadas en esta exposición, en su mayoría realizadas entre finales de los 90 y principios de los 2000.
 
-Cristóbal Cea centra su video en el bombardeo de los Hawker Hunter al Palacio La Moneda, evento en el que, a su juicio, se configura la negación y se articula el mal. El artista se pregunta por la manera en que opera el “no ver” y elabora una animación en 3D, en loop, que recrea un derruido avión de caza cuya cabina está cubierta por una gran bolsa plástica negra. Una imagen fotorrealista que viene de la voluntad del artista por recordar algo no vivido.
+**Cristóbal Cea** centra su video en el bombardeo de los Hawker Hunter al Palacio La Moneda, evento en el que, a su juicio, se configura la negación y se articula el mal. El artista se pregunta por la manera en que opera el “no ver” y elabora una animación en 3D, en loop, que recrea un derruido avión de caza cuya cabina está cubierta por una gran bolsa plástica negra. Una imagen fotorrealista que viene de la voluntad del artista por recordar algo no vivido.
 
-— Me gusta mucho que la palabra recuerdo viene de re-cordos: pasar de nuevo por el corazón. Pienso que entonces no tenía que ser una imagen señalada sino una que tenía que pasar por mí, y eso toma tiempo (…) Fue súper liberador. Como sacarse un demonio de adentro.
+— Me gusta mucho que la palabra recuerdo viene de *re-cordos*: pasar de nuevo por el corazón. Pienso que entonces no tenía que ser una imagen señalada sino una que tenía que pasar por mí, y eso toma tiempo (…) Fue súper liberador. Como sacarse un demonio de adentro.
 
-Tras una investigación profunda que la llevó a recorrer Neltume y Panguipulli, Claudia del Fierro realiza El Complejo, un proyecto audiovisual que expone los mecanismos de memoria de un episodio de la resistencia chilena. Todo comenzó cuando conoció a Pedro Cardyn, uno de los sobrevivientes de la llamada Guerrilla de 1981.
+Tras una investigación profunda que la llevó a recorrer Neltume y Panguipulli, **Claudia del Fierro** realiza *El Complejo*, un proyecto audiovisual que expone los mecanismos de memoria de un episodio de la resistencia chilena. Todo comenzó cuando conoció a **Pedro Cardyn**, uno de los sobrevivientes de la llamada Guerrilla de 1981.
 
 Cardyn formó parte del destacamento Toqui Lautaro, un grupo reducido de militantes del MIR (Movimiento de Izquierda Revolucionaria) que había instalado una resistencia en la zona de Neltume. El establecimiento de la guerrilla formaba parte de un plan mayor conocido como Operación Retorno o Plan 78. Su objetivo era derrocar la dictadura militar mediante la acumulación de fuerza social, política y militar, con la finalidad de instalar un gobierno democrático popular.
 
@@ -67,7 +67,7 @@ Pedro Cardyn, quien fue el médico del destacamento, compartió su testimonio co
     </figcaption>
 </figure>
 
-Una reflexión similar surge a raíz del trabajo de María Verónica San Martín, otra artista que se ha servido de múltiples materiales de archivo, entrevistas y visitas en terreno para dar cuenta de las aberraciones sucedidas durante la dictadura.
+Una reflexión similar surge a raíz del trabajo de **María Verónica San Martín**, otra artista que se ha servido de múltiples materiales de archivo, entrevistas y visitas en terreno para dar cuenta de las aberraciones sucedidas durante la dictadura.
 
 Uno de sus proyectos releva el caso de Colonia Dignidad, un terreno que operó como centro de tortura durante la dictadura. Si bien su fundador y líder Paul Schäfer y su comunidad de seguidores se instalaron en el sector en 1961, después del Golpe de Estado de 1973 Colonia Dignidad comenzó a ser uno de los destinos de los opositores a Pinochet. Treintaidós años después el lugar se transformó en Villa Baviera, un destino turístico que presta servicios de hospedaje y gastronomía.
 
@@ -83,9 +83,9 @@ María Verónica habla con conocimiento de fe. Si bien la presidenta de la Asoci
     </figcaption>
 </figure>
 
-En 2017 viajó junto a su madre a pasar un día de campo en Villa Baviera. La artista trató de no hacer muchas preguntas, para no revelar sus verdaderas intenciones. En ese momento ella ya había comenzado a trabajar en Dignidad, el proyecto artístico en torno al centro de tortura, cuyo elemento central sería la grabación de una conversación de espionaje entre Paul Schäfer y dos agentes nazis. El audio le fue otorgado a la artista por Winfried Hempel, un ex colono que, tras la situación que había vivido, decidió convertirse en el abogado de las víctimas de Colonia Dignidad.
+En 2017 viajó junto a su madre a pasar un día de campo en Villa Baviera. La artista trató de no hacer muchas preguntas, para no revelar sus verdaderas intenciones. En ese momento ella ya había comenzado a trabajar en *Dignidad,* el proyecto artístico en torno al centro de tortura, cuyo elemento central sería la grabación de una conversación de espionaje entre Paul Schäfer y dos agentes nazis. El audio le fue otorgado a la artista por Winfried Hempel, un ex colono que, tras la situación que había vivido, decidió convertirse en el abogado de las víctimas de Colonia Dignidad.
 
-La obra de San Martín ha sido mostrada en varias ocasiones y en diferentes formatos que se ajustan al espacio expositivo. En el caso de The Endless Coup se presenta la estructura plegable de acero, de 60 kilos, que fue diseñada para ser activada durante una performance.
+La obra de San Martín ha sido mostrada en varias ocasiones y en diferentes formatos que se ajustan al espacio expositivo. En el caso de *The Endless Coup* se presenta la estructura plegable de acero, de 60 kilos, que fue diseñada para ser activada durante una performance.
 
 Se trata de una coreografía acompañada de una pieza sonora en la cual la artista construye y deconstruye símbolos de poder mediante el movimiento de su cuerpo y de la escultura. Así, a lo largo de 20 minutos San Martín modela swastikas y cruces, recrea bunkers, túneles y salas de castigo, configurando un ambiente sofocante que evoca el brutal ambiente de Colonia Dignidad.
 
@@ -93,13 +93,13 @@ Una nueva Constitución (?)
 
 El 25 octubre de 2020 miles de chilenos se manifestaban a favor de una nueva Constitución. Esta sería escrita por una Convención Constituyente, un órgano cuya totalidad de miembros serían elegidos democráticamente. El acuerdo fue el resultado de meses de incansables manifestaciones del pueblo chileno.
 
-Las protestas eran reprimidas por la policía y Plaza Dignidad, el nombre que adquirió el sector cuando pasó a transformarse en el corazón del Estallido Social, se convirtió en un campo de batalla. Fue en este contexto que María Luisa Portuondo Vila se instaló con veinte cuadernos en un extremo de la plaza para recolectar demandas ciudadanas que posteriormente le enviaría al presidente.
+Las protestas eran reprimidas por la policía y Plaza Dignidad, el nombre que adquirió el sector cuando pasó a transformarse en el corazón del Estallido Social, se convirtió en un campo de batalla. Fue en este contexto que **María Luisa Portuondo Vila** se instaló con veinte cuadernos en un extremo de la plaza para recolectar demandas ciudadanas que posteriormente le enviaría al presidente.
 
 La artista logró recabar 1.809 demandas que fueron enviadas a La Moneda junto con una carta suya. Pero no recibió respuesta alguna sino hasta cinco meses después. La contestación se presentó mediante un correo firmado por el director de Gestión Ciudadana, Carlos Cruz-Coke, y consistía en un texto de seis líneas con un escueto agradecimiento que terminaba con una invitación a revisar la página web gubernamental respecto al proceso constituyente.
 
 Casi siete meses después de que María Luisa recibiera la insatisfactoria respuesta de La Moneda, 62% de los chilenos rechazaba la propuesta constitucional. Ahora, sin embargo, de cierta forma la obra sigue vigente; intacta al igual que su esencia, construida a partir de los deseos que surgieron en un contexto específico. Carlos Gallardo señala que “estas condiciones sociopolíticas muy definidas no desaparecieron. Ni se esfumaron. Ni se diluyeron. Siguen allí, igual”.
 
-Así, todas las obras de The Endless Coup aluden a un proceso inconcluso y sus repercusiones, haciendo referencia, en algunos casos, a fenómenos que las rodean sin que necesariamente evidencien una relación explícita. De este modo, si bien Tú, yo, y todo el viento entremedio II (Mudras de Nazca), una de las obras de Constanza Alarcón Tennen, no estuvo pensada en relación con el golpe militar, sí se podría vincular con el aguante colectivo generado en el Estallido Social y la resistencia ante las políticas de distanciamiento social durante la pandemia.
+Así, todas las obras de The *Endless Coup* aluden a un proceso inconcluso y sus repercusiones, haciendo referencia, en algunos casos, a fenómenos que las rodean sin que necesariamente evidencien una relación explícita. De este modo, si bien *Tú, yo, y todo el viento entremedio II (Mudras de Nazca)*, una de las obras de **Constanza Alarcón Tennen**, no estuvo pensada en relación con el golpe militar, sí se podría vincular con el aguante colectivo generado en el Estallido Social y la resistencia ante las políticas de distanciamiento social durante la pandemia.
 
 La obra, suspendida en el centro de la sala, es una escultura de un par de manos hechas en greda que cumplen la función de silbato: pueden ser activadas por dos personas de manera simultánea, producen cinco tonos prácticamente autónomos y diversos fenómenos acústicos.
 
@@ -117,8 +117,8 @@ Actualmente, el impulso ciudadano del Estallido Social se ha diluido, y si bien 
 
 Sorpresivamente, el anteproyecto presentado por la Comisión de Expertos presentada a principios de junio resultó ser un producto equilibrado y un avance en cuanto a derechos sociales, independencia del poder judicial, y el reconocimiento de los pueblos indígenas. No obstante, las más de mil enmiendas republicanas generan la posibilidad de que el 17 de noviembre nos encontremos ante un escenario insólito: optar por una Constitución marcada por los vestigios de la dictadura de Pinochet o un texto que, si bien se podría catalogar de democrático, significaría un retroceso en cuanto a los avances que se habían alcanzado en los últimos años.
 
-¿Qué haremos ahora? Esta fue una de las preguntas abordadas durante uno de los conversatorios de The Endless Coup. La respuesta -se concluye en el debate- está en crear una nueva oportunidad de cambio que requiere del surgimiento de una fuerza opositora al orden establecido. Una energía potente que pueda contraponerse al legado del golpe. Es la fuerza que se reconoce en un sinfín de manifestaciones artísticas, una resistencia tan interminable como el golpe ante el que se revela, y que probablemente solo necesite de un tiempo más para rearmarse y volver fortalecida.
+¿Qué haremos ahora? Esta fue una de las preguntas abordadas durante uno de los conversatorios de *The Endless Coup.* La respuesta -se concluye en el debate- está en crear una nueva oportunidad de cambio que requiere del surgimiento de una fuerza opositora al orden establecido. Una energía potente que pueda contraponerse al legado del golpe. Es la fuerza que se reconoce en un sinfín de manifestaciones artísticas, una resistencia tan interminable como el golpe ante el que se revela, y que probablemente solo necesite de un tiempo más para rearmarse y volver fortalecida.
 
 ---
 
-Participantes The Endless Coup: Anto Astudillo, Constanza Alarcón Tennen, Macarena Aguiló, Francisca Benítez, Cristóbal Cea, Diego Cumplido, Claudia Del Fierro, Gianfranco Foschino, Carlos Gallardo, Marisol García, Claudia Gutiérrez, Marcela Moraga, Carlos Navarrete, Iván Navarro, Leonardo Portus, Montserrat Rojas Corradi, Rodrigo Rojas De Negri, María Verónica San Martín, Sofía Suazo, César Valencia Donoso, María P Vila, Patricio Vogel.
+Participantes *The Endless Coup*: Anto Astudillo, Constanza Alarcón Tennen, Macarena Aguiló, Francisca Benítez, Cristóbal Cea, Diego Cumplido, Claudia Del Fierro, Gianfranco Foschino, Carlos Gallardo, Marisol García, Claudia Gutiérrez, Marcela Moraga, Carlos Navarrete, Iván Navarro, Leonardo Portus, Montserrat Rojas Corradi, Rodrigo Rojas De Negri, María Verónica San Martín, Sofía Suazo, César Valencia Donoso, María P Vila, Patricio Vogel.

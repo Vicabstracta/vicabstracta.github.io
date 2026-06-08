@@ -19,7 +19,7 @@ Con un marcado acento gringo, el desconocido le pidió que por favor le trajera 
 
 De vuelta en la entrada de la galería, con el vaso de agua en mano, María José notó el interés con el que el hombre contemplaba una de las esculturas en el patio del inmueble. El visitante se dio vuelta para mirar a la chica, y mientras extendía el brazo para recibir el vaso, preguntó si se trataba de una galería de arte.
 
-María José Sagredo le dijo que sí, que se llamaba Animal, que había abierto en el 2000, y que le podía hacer una pequeña visita guiada. El gringo asintió interesado y comenzó a seguirla, preguntándole más acerca de las obras expuestas en diversos rieles y plintos. Mientras respondía las preguntas del visitante, María José se explayó en detalles sobre la colección de la galería, recorriendo los tres pisos que conforman el espacio.
+**María José Sagredo** le dijo que sí, que se llamaba Animal, que había abierto en el 2000, y que le podía hacer una pequeña visita guiada. El gringo asintió interesado y comenzó a seguirla, preguntándole más acerca de las obras expuestas en diversos rieles y plintos. Mientras respondía las preguntas del visitante, María José se explayó en detalles sobre la colección de la galería, recorriendo los tres pisos que conforman el espacio.
 
 Tras poco más de media hora de conversación, el hombre manifestó su deseo de comprar una escultura de Cienfuegos. La pieza de bronce, que medía más de dos metros, fue una de las ventas más significativas de su carrera.
 
@@ -33,13 +33,13 @@ Tras poco más de media hora de conversación, el hombre manifestó su deseo de 
     </figcaption>
 </figure>
 
-Un terreno complejo
+**Un terreno complejo**
 
 Todos hemos visitado una galería alguna vez, por lo que tenemos alguna idea respecto a su funcionamiento. Ello implica que tenemos cierta noción de la labor de un galerista, y podemos imaginar cómo podría ser un día cualquiera en sus vidas. Cuelgan y descuelgan cuadros, hablan con artistas y preparan elegantes inauguraciones. No obstante, hay muchos aspectos de esta actividad que nos podrían resultar sorpresivos. Experiencias asociadas al desarrollo de una personalidad obstinada, flexible y capacitada para el multitasking.
 
-Es de conocimiento público que las galerías se encargan de representar artistas y vender su obra. Pero la amplitud de esta labor abarca numerosos detalles que rara vez llegan a ser comprendidos en todas sus dimensiones. Es esta concepción la que motivó a las nuevas galerías que conforman el gremio de AGAC (Asociación de Galerías de Arte Contemporáneo de Chile) a proponer la realización de un conversatorio en el que se pudieran exponer estos temas, bajo la organización de la Fundación Antenna.
+Es de conocimiento público que las galerías se encargan de representar artistas y vender su obra. Pero la amplitud de esta labor abarca numerosos detalles que rara vez llegan a ser comprendidos en todas sus dimensiones. Es esta concepción la que motivó a las nuevas galerías que conforman el gremio de **AGAC (Asociación de Galerías de Arte Contemporáneo de Chile)** a proponer la realización de un conversatorio en el que se pudieran exponer estos temas, bajo la organización de la **Fundación Antenna**.
 
-El evento, Viaje al centro del galerismo, se llevó a cabo el pasado 17 de octubre en Galería Animal y contó con la participación de las directivas de las galerías AFA, Animal, Artespacio, Die Ecke, Espacio O, Espora, NAC, Isabel Croxatto y La Sala. Durante el conversatorio, un representante de cada galería asociada al gremio habló durante cuatro minutos acerca de un tema en específico.
+El evento, _Viaje al centro del galerismo_, se llevó a cabo el pasado 17 de octubre en **Galería Animal** y contó con la participación de las directivas de las galerías **AFA, Animal, Artespacio, Die Ecke, Espacio O, Espora, NAC, Isabel Croxatto** y **La Sala**. Durante el conversatorio, un representante de cada galería asociada al gremio habló durante cuatro minutos acerca de un tema en específico.
 
 Algunos de los tópicos tratados fueron la representación e internacionalización de los artistas, la participación en ferias, bienales y simposios, así como las características del galerismo en Chile. Los expositores destacaron que, al ser un sector que todavía se encuentra en pañales, la representación de artistas y comercialización de sus obras aún no se ha consolidado como una actividad rentable. A pesar de su pasión por el trabajo, estos galeristas admiten cansancio.
 
@@ -53,7 +53,7 @@ Algunos de los tópicos tratados fueron la representación e internacionalizaci�
 
 En sus discursos destacaban que ser galerista requiere de una personalidad altamente sociable, curiosa y, en cierta medida, obsesiva. Se necesita una mentalidad obstinada que fomente una lealtad inquebrantable hacia los artistas con los que colaboran, construyendo así relaciones de confianza duraderas.
 
-“Cuando uno trabaja con un artista realmente se compromete a que esa carrera tenga un desarrollo. No es sólo el hecho de contratar artistas para poder vender su obra, sino que hay un desarrollo de carrera», señaló Daniela Claro, de Espacio O.
+“Cuando uno trabaja con un artista realmente se compromete a que esa carrera tenga un desarrollo. No es sólo el hecho de contratar artistas para poder vender su obra, sino que hay un desarrollo de carrera», señaló **Daniela Claro**, de Espacio O.
 
 Para la galerista, ser capaz de interpretar las situaciones a través de los ojos de sus representados es fundamental. Esto porque ella misma conoció muy bien la vida de artista tras obtener su pregrado en arte cuando tenía 30 años. Para ese momento, Daniela ya era licenciada en Ingeniería Comercial, por lo que abrir una galería se transformó en una excelente manera de hacer congeniar su doble licenciatura.
 
@@ -69,11 +69,11 @@ Es justamente esta perspectiva de mercado la que la hace consciente de la necesi
     </figcaption>
 </figure>
 
-Es por la necesidad de internalización que las galerías se esfuerzan por participar en ferias y promover a sus artistas en el exterior. Nicole Andreu, directora de Galería NAC, destaca que la participación en ferias en distintos países debe ser considerada como una estrategia a largo plazo y no como un evento único.
+Es por la necesidad de internalización que las galerías se esfuerzan por participar en ferias y promover a sus artistas en el exterior. **Nicole Andreu**, directora de Galería NAC, destaca que la participación en ferias en distintos países debe ser considerada como una estrategia a largo plazo y no como un evento único.
 
 — La idea es armar mercado en un determinado lugar mediante estrategias privadas y públicas. Por ejemplo, yo que voy muchísimo a Perú, en el 2018 abrí una galería en Lima, porque allí ya estaba yendo a dos ferias anuales. Pero tras el cierre de ART Lima en 2019 decidimos cerrar esa sede.
 
-No obstante, Paul Birke, presidente de AGAC y director de la Galería Die Ecke, advierte que en la mayoría de los casos esa constancia de participación en ferias se hace muy difícil, tomando en cuenta, sobre todo, los costos involucrados.
+No obstante, **Paul Birke**, presidente de AGAC y director de la Galería Die Ecke, advierte que en la mayoría de los casos esa constancia de participación en ferias se hace muy difícil, tomando en cuenta, sobre todo, los costos involucrados.
 
 — El problema de la internacionalización es que tiene que ser abordada desde el Estado, a nivel país. Una galería puede hacer infinitos esfuerzos, pero estos difícilmente llegarán a ser suficientes.
 
@@ -89,13 +89,13 @@ Sin embargo, desde su punto de vista, el desafío se hace aún mayor al consider
     </figcaption>
 </figure>
 
-Paula Cortés, directora de Galería Espora, considera que uno de los mayores aportes que podría hacer el Estado para apoyar al arte chileno, y por extensión al galerismo, sería implementar políticas que incentiven el valor de la obra de arte, como ha sucedido con la artesanía, por ejemplo, que ha experimentado una especie de revival tras la adopción de la certificación y la creación de fondos estatales que rescatan prácticas como el hilado.
+**Paula Cortés**, directora de Galería Espora, considera que uno de los mayores aportes que podría hacer el Estado para apoyar al arte chileno, y por extensión al galerismo, sería implementar políticas que incentiven el valor de la obra de arte, como ha sucedido con la artesanía, por ejemplo, que ha experimentado una especie de _revival_ tras la adopción de la certificación y la creación de fondos estatales que rescatan prácticas como el hilado.
 
 Por otro lado, señala que, si se redestinaran los recursos estatales asignados a los concursos Fondart a la implementación de una política pública enfocada en el crecimiento del mercado de las artes, es probable que el sector pueda auto sustentarse. Paula admite que se trataría de una medida a muy largo plazo, pero estratégica y con efectos altamente positivos.
 
-En medio de este panorama, los galeristas rescatan las acciones de ProChile, que desde el 2017 contribuye con el 50% del financiamiento de los proyectos presentados por Sísmica, la marca sectorial del arte en el país. ProChile también ha aportado recursos a proyectos individuales, aunque muchos de estos también han sido financiados parcialmente con aportes del sector privado.
+En medio de este panorama, los galeristas rescatan las acciones de [**ProChile**](https://www.prochile.gob.cl/), que desde el 2017 contribuye con el 50% del financiamiento de los proyectos presentados por [**Sísmica**](https://www.sismica.art/), la marca sectorial del arte en el país. ProChile también ha aportado recursos a proyectos individuales, aunque muchos de estos también han sido financiados parcialmente con aportes del sector privado.
 
-Alejandra Chellew, directora de la galería La Sala, comenta que a lo largo de sus 25 años como gestora cultural y galerista siempre ha buscado el auspicio de empresas privadas para el desarrollo de proyectos tan variados como la intervención artística de objetos cotidianos (etiquetas de vinos, bancas), eventos masivos, realización de murales, o la retrospectiva de Oswaldo Guayasamín en 2002 en el Museo Nacional de Bellas Artes y el homenaje a Matilde Pérez llevado a cabo en Nueva York durante 2012. La Sala también ha participado en ferias en Miami, Lima, Santiago y Buenos Aires.
+**Alejandra Chellew**, directora de la galería [**La Sala**](https://www.galerialasala.cl/), comenta que a lo largo de sus 25 años como gestora cultural y galerista siempre ha buscado el auspicio de empresas privadas para el desarrollo de proyectos tan variados como la intervención artística de objetos cotidianos (etiquetas de vinos, bancas), eventos masivos, realización de murales, o la retrospectiva de Oswaldo Guayasamín en 2002 en el Museo Nacional de Bellas Artes y el homenaje a Matilde Pérez llevado a cabo en Nueva York durante 2012. La Sala también ha participado en ferias en Miami, Lima, Santiago y Buenos Aires.
 
 <figure class="blog-image">
     <img
@@ -105,11 +105,11 @@ Alejandra Chellew, directora de la galería La Sala, comenta que a lo largo de s
     </figcaption>
 </figure>
 
-Preciadas sutilezas
+**Preciadas sutilezas**
 
-El casco amarillo fue lo primero que le llamó la atención a Isabel al voltear hacia la entrada, mientras instalaba el último billete en la pared. Quien lo llevaba puesto era un hombre que estaba trabajando en la construcción de un edificio aledaño al de CV Galería, que para aquel entonces, año 2017, albergaba la feria Ch.ACO.
+El casco amarillo fue lo primero que le llamó la atención a Isabel al voltear hacia la entrada, mientras instalaba el último billete en la pared. Quien lo llevaba puesto era un hombre que estaba trabajando en la construcción de un edificio aledaño al de **CV Galería,** que para aquel entonces, año 2017, albergaba la [**feria Ch.ACO**](https://www.chaco.cl/).
 
-Isabel Croxatto, fundadora de la galería homónima, recibió gustosa al desconocido. Estaba feliz de que alguien mostrara tanto interés en una de las obras que estaba exponiendo en la feria. La galerista le explicó que se trataba de un billete intervenido por el artista Víctor Castillo, un pintor chileno que vive entre Barcelona y Los Ángeles cuya obra de corte surrealista guarda cierto aspecto oscuro y satírico.
+**Isabel Croxatto**, fundadora de la galería homónima, recibió gustosa al desconocido. Estaba feliz de que alguien mostrara tanto interés en una de las obras que estaba exponiendo en la feria. La galerista le explicó que se trataba de un billete intervenido por el artista **Víctor Castillo**, un pintor chileno que vive entre Barcelona y Los Ángeles cuya obra de corte surrealista guarda cierto aspecto oscuro y satírico.
 
 A través de aquella serie, compuesta por 100 billetes de un dólar, Castillo buscaba democratizar su obra al hacerla accesible para aquellos que no podían adquirirla. El artista ha alcanzado un nivel de fama tal que sus precios fluctúan entre los 2 mil y los 25 mil dólares.
 
@@ -129,7 +129,7 @@ Emocionado por el relato, y después de una larga conversación con el interesad
     </figcaption>
 </figure>
 
-María Elena Comandari, codirectora de la Galería Artespacio junto a Rosita Lira, también rememoró una experiencia de venta significativa. Se trató de un joven de 16 años decidido a comprar una escultura en su galería. Con esfuerzo y ahorros, logró concretar la adquisición al cumplir los 18 años. Durante todo ese tiempo, María Elena le reservó la obra.
+**María Elena Comandari**, codirectora de la [**Galería Artespacio**](https://www.artespacio.cl/) junto a **Rosita Lira**, también rememoró una experiencia de venta significativa. Se trató de un joven de 16 años decidido a comprar una escultura en su galería. Con esfuerzo y ahorros, logró concretar la adquisición al cumplir los 18 años. Durante todo ese tiempo, María Elena le reservó la obra.
 
 —  Una está dispuesta a guardarse por una persona así, porque sabes que esa persona va a hacer una cadena; su pasión por el arte va a seguir y llagará a otros.
 
@@ -149,9 +149,9 @@ Son este tipo de experiencias las que reflejan el impacto que el arte puede tene
     </figcaption>
 </figure>
 
-Compras pandémicas
+**Compras pandémicas**
 
-Medio en serio y medio en broma, María José Sagredo, co-directora de Galería Animal, dice que uno de los mayores desafíos es mantenerse vendiendo, aunque admite, por otro lado, que nunca se ha preocupado de si las obras que va a exponer tendrán un alto éxito comercial. Revela que, gracias a la venta masiva de grabados, la galería puede sostenerse en dos ejes: uno más lucrativo y otro más experimental.
+Medio en serio y medio en broma, María José Sagredo, co-directora de [**Galería Animal**](https://www.galeriaanimal.cl/), dice que uno de los mayores desafíos es mantenerse vendiendo, aunque admite, por otro lado, que nunca se ha preocupado de si las obras que va a exponer tendrán un alto éxito comercial. Revela que, gracias a la venta masiva de grabados, la galería puede sostenerse en dos ejes: uno más lucrativo y otro más experimental.
 
 El modelo de negocios que sustenta a la galería se gestó hace aproximadamente 20 años, cuando optaron por asumir los costos de producir numerosas series de grabados. Esto permite que Animal cuente con más de 1.200 ejemplares de este tipo de obra (y que incluso acepte que los clientes realicen cambios en la tienda). Hoy en día, muchas galerías financian la producción de grabados de sus artistas, pero ninguna iguala la magnitud de su colección.
 
@@ -161,7 +161,7 @@ Galería Animal también es pionera a nivel nacional en la venta de obras online
 
 Die Ecke fue otra galería que realizó ventas de forma virtual durante la pandemia, pero no a través de una tienda en línea, sino mediante recomendaciones. Aunque la antigua técnica del boca a boca funcionó en su caso, tras la pandemia se dieron cuenta de la importancia de habilitar un e-commerce en su sitio web.
 
-Galería Espora también continuó vendiendo durante la pandemia a través de su página web. En su caso, la crisis tuvo un impacto positivo inesperado: el exitoso proyecto Carta Postal. Paula, la directora, invitó a sus artistas a crear obras de pequeño formato que pudieran ser enviadas por correo. Las cartas alcanzaron una circulación notable, llegando desde Arica a Punta Arenas, en Chile, e incluso alcanzaron destinos internacionales como España e Israel.
+Galería Espora también continuó vendiendo durante la pandemia a través de su página web. En su caso, la crisis tuvo un impacto positivo inesperado: el exitoso proyecto _Carta Postal_. Paula, la directora, invitó a sus artistas a crear obras de pequeño formato que pudieran ser enviadas por correo. Las cartas alcanzaron una circulación notable, llegando desde Arica a Punta Arenas, en Chile, e incluso alcanzaron destinos internacionales como España e Israel.
 
 —Es lo más lindo que he hecho en mi vida. Imagínate que, en pandemia, cuando te llegaban puros delivery de comida, recibas un sobre con un sello postal, con una obra de arte única adentro.
 

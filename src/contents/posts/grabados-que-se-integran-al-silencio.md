@@ -19,9 +19,9 @@ El hombre aparece como una figura solitaria, sentada en una banca, observando el
 
 El brazo del artista descansa cómodamente sobre un bastón de madera, que más tarde lo acompañará al descender una pequeña colina. Su caminar es notablemente lento, pero su cuerpo parece no tener apuro. Se desplaza como si fuera capaz de sacar provecho de las limitaciones de su andar, desafiando el ajetreo de la vida cotidiana. Esta misma calma se manifiesta más tarde cuando comienza a hablar, empleando un tono de voz suave que se articula mediante un ritmo pausado.
 
-Las imágenes se proyectan en una pantalla al final del recorrido de la exposición de grabados de Eduardo Vilches (Chile, 1932) en el Museo de Artes Visuales (MAVI UC),que ha sido curada por el artista y profesor Cristián Silva. El documental, encargado al cineasta Ignacio Agüero para acompañar la muestra, fue realizado en enero de 2024 en la casa del artista, en Llaullao, Chiloé. La pieza audiovisual captura la esencia y la psicología del artista, reflejándose en los aspectos formales de las imágenes.
+Las imágenes se proyectan en una pantalla al final del recorrido de la exposición de grabados de **Eduardo Vilches** (Chile, 1932) en el **Museo de Artes Visuales (MAVI UC)**,que ha sido curada por el artista y profesor **Cristián Silva**. El documental, encargado al cineasta **Ignacio Agüero** para acompañar la muestra, fue realizado en enero de 2024 en la casa del artista, en Llaullao, Chiloé. La pieza audiovisual captura la esencia y la psicología del artista, reflejándose en los aspectos formales de las imágenes.
 
-La exposición Eduardo Vilches: Grabados (1960-1974) presenta obras recientemente adquiridas por la Pontificia Universidad Católica de Chile, institución a la que pertenece el museo y donde el artista fue profesor hasta los 90 años. Aunque Vilches dejó la docencia en 2019, cada encuentro con él sigue siendo una experiencia vital, auténtica y enriquecedora.
+La exposición _Eduardo Vilches: Grabados (1960-1974)_ presenta obras recientemente adquiridas por la **Pontificia Universidad Católica de Chile**, institución a la que pertenece el museo y donde el artista fue profesor hasta los 90 años. Aunque Vilches dejó la docencia en 2019, cada encuentro con él sigue siendo una experiencia vital, auténtica y enriquecedora.
 
 <figure class="blog-image">
     <img
@@ -33,7 +33,7 @@ La exposición Eduardo Vilches: Grabados (1960-1974) presenta obras recientement
 
 ### RECUERDOS DE DOCENCIA
 
-Una inusual sensación de taquicardia invadió Eduardo Vilches ese día de 1959, mientras se preparaba para su primera clase de grabado en una de las salas del Campus UC. La oportunidad de unirse al cuerpo docente de la Universidad Católica se dio por invitación de Nemesio Antúnez, luego de que el emblemático Taller 99, del que fue fundador en 1958, se trasladara al campus de Lo Contador.
+Una inusual sensación de taquicardia invadió Eduardo Vilches ese día de 1959, mientras se preparaba para su primera clase de grabado en una de las salas del Campus UC. La oportunidad de unirse al cuerpo docente de la Universidad Católica se dio por invitación de **Nemesio Antúnez**, luego de que el emblemático **Taller 99**, del que fue fundador en 1958, se trasladara al campus de Lo Contador.
 
 Ese mismo año, Eduardo Vilches había ingresado al taller de acuarela de Nemesio Antúnez por descarte, después de que se cancelara el curso de xilografía en el que se había inscrito previamente. Fue su tía quien lo motivó a asistir al taller de Antúnez, llegando incluso a prestarle una hermosa caja de acuarelas de dos pisos.
 
@@ -57,7 +57,7 @@ Vilches sabe que esta elección le permite enfocarse en la forma, ya que el cere
 
 Entre estas, destacan las portadas de la revista Panorama Económico, donde se muestran tres triángulos cuya disposición varía en cada ejemplar, demostrando la capacidad del artista para innovar mediante la reordenación de elementos. Este ingenio también se refleja en la labor social desarrollada en los talleres de grabado que realizó en 1970, donde utilizó matrices de cartón y lápices bic en lugar de herramientas profesionales.
 
-Durante ese año, el departamento de comunicaciones de la Universidad Católica lanzó un programa llamado Nueva Pedagogía, en el cual el profesorado podía inscribirse para desarrollar iniciativas de ayuda social relacionadas con sus áreas de conocimiento. Consciente de lo difícil que podría ser captar el interés de adultos por el arte, Vilches concibió un taller de grabado para niños, presentándolo como un juego para facilitar su participación. Esta idea fue influenciada por los talleres previos organizados por su esposa, Alicia Vega, cuya labor social fue documentada por Ignacio Agüero en el filme 100 niños esperando el tren.
+Durante ese año, el departamento de comunicaciones de la Universidad Católica lanzó un programa llamado Nueva Pedagogía, en el cual el profesorado podía inscribirse para desarrollar iniciativas de ayuda social relacionadas con sus áreas de conocimiento. Consciente de lo difícil que podría ser captar el interés de adultos por el arte, Vilches concibió un taller de grabado para niños, presentándolo como un juego para facilitar su participación. Esta idea fue influenciada por los talleres previos organizados por su esposa, **Alicia Vega**, cuya labor social fue documentada por Ignacio Agüero en el filme _100 niños esperando el tren_.
 
 El video relata la experiencia de un grupo de niños de bajos recursos que se incorporan a un taller de cine dirigido por Alicia Vega. En la escena inicial, la mayoría de los niños admite nunca haber ido al cine, escribiendo esta confesión en papel según la indicación de la profesora. Alicia les asegura que eso cambiará, que comenzarán a ver películas juntos todos los sábados en el taller.
 
@@ -67,7 +67,7 @@ En una escena del documental, Alicia está parada frente a una capilla junto a u
 
 — Con la Alicia la paso súper bien. No solo nos reímos de todas las tonteras que nos pasan, sino que también de nuestras limitaciones. De todo eso que podría ser considerado una tragedia.
 
-En el documental mencionado al inicio, realizado por Agüero para la exposición en el MAVI UC, vemos uno de esos tantos momentos de risas compartidas. En menos de un minuto, el cineasta captura en Vilches (2023, 30 min) la complicidad que une a la pareja. La compañía de Alicia Vega se ha integrado de manera fluida en la vida de Vilches, complementándola con su alegría para contrarrestar la melancolía que a veces reside en la serenidad del artista.
+En el documental mencionado al inicio, realizado por Agüero para la exposición en el MAVI UC, vemos uno de esos tantos momentos de risas compartidas. En menos de un minuto, el cineasta captura en _Vilches_ (2023, 30 min) la complicidad que une a la pareja. La compañía de Alicia Vega se ha integrado de manera fluida en la vida de Vilches, complementándola con su alegría para contrarrestar la melancolía que a veces reside en la serenidad del artista.
 
 <figure class="blog-image">
     <img
@@ -99,11 +99,11 @@ La cruz que sostiene el Niño Jesús de Praga en el altar de la abuela Flora es 
 
 En las visitas al cementerio, mientras su madre colocaba flores en las tumbas, Eduardo observaba detenidamente el entorno, registrando las formas que se desplegaban ante sus ojos. Las imágenes de la vegetación circundante al cementerio se anidaban en aquellas de sus paseos de fin de semana, momentos preciados de alegría para un niño cuya vida había sido marcada por la tragedia. La naturaleza se convirtió en su refugio y así lo plasmó en numerosos dibujos bosquejos a lápiz que años más tarde traspasaría del papel a la madera, transformándolos en xilografías.
 
-La cruz del Niño Jesús de Praga se puede ver en un extremo de La máquina, y en otros grabados como Guerrero, Pagoda, Su Excelencia y Portal. Vilches aclara que su fascinación por las cruces no tiene relación con su catolicismo. Para él, la religión no se limita a ser una filosofía dogmática, sino más bien una forma de relacionarse con los demás.
+La cruz del Niño Jesús de Praga se puede ver en un extremo de _La máquina_, y en otros grabados como _Guerrero_, _Pagoda_, _Su Excelencia_ y _Portal_. Vilches aclara que su fascinación por las cruces no tiene relación con su catolicismo. Para él, la religión no se limita a ser una filosofía dogmática, sino más bien una forma de relacionarse con los demás.
 
 Quizás este sea uno de los conceptos más esenciales para comprender la estética de Eduardo Vilches: un interés relacional que se aplica tanto a las conexiones humanas como a la interacción de las figuras en el espacio. En sus grabados, las formas interactúan mediante dinámicas de contraste, combinando colores, tamaños y formas de manera complementaria.
 
-Las figuras resultan evocadoras, con un potencial narrativo que se alinea con el origen etimológico de la palabra ‘relación’, interpretada como ‘acción y efecto de llevar algo otra vez’. Mediante los títulos de sus grabados, Vilches nos libera de la ansiedad de la abstracción al ofrecernos personajes, elementos o lugares familiares. El propio artista ‘bautizaba’ sus obras una vez terminadas, basándose en los recuerdos que le evocaban. Nombres como Cordillera, Torero y Pájaros remiten a algo concreto, pero a la vez general (un paisaje, un animal). Esto, ante la imagen sintética, casi sugerida, brinda al espectador la libertad suficiente para elaborar una lectura independiente.
+Las figuras resultan evocadoras, con un potencial narrativo que se alinea con el origen etimológico de la palabra ‘relación’, interpretada como ‘acción y efecto de llevar algo otra vez’. Mediante los títulos de sus grabados, Vilches nos libera de la ansiedad de la abstracción al ofrecernos personajes, elementos o lugares familiares. El propio artista ‘bautizaba’ sus obras una vez terminadas, basándose en los recuerdos que le evocaban. Nombres como _Cordillera_, _Torero_ y _Pájaros_ remiten a algo concreto, pero a la vez general (un paisaje, un animal). Esto, ante la imagen sintética, casi sugerida, brinda al espectador la libertad suficiente para elaborar una lectura independiente.
 
 <figure class="blog-image">
     <img
@@ -119,9 +119,9 @@ En 1974, esta característica se hace aún más evidente con la integración de 
 
 — Cuando el punto es blanco en un rostro negro, eso para mí es un agujero, pero cuando el punto es azul dentro de una forma oscura, no es la herida dejada por un balazo, sino que es algo tangible, pero al mismo tiempo liviano. Es como el punto vital.
 
-Para Eduardo Vilches, el color es algo subjetivo. Sin embargo, en la serie de 1974, designa significados específicos: el negro representa la muerte, el blanco la vida y el azul la esperanza. Una esperanza especialmente necesaria en un ambiente post-golpe, la misma que da origen a obras como Manos II. Aquí, Vilches reemplaza la representación de la naturaleza por el gesto de dibujar el contorno de sus manos y su rostro, buscando una nueva forma de expresar la corporalidad humana.
+Para Eduardo Vilches, el color es algo subjetivo. Sin embargo, en la serie de 1974, designa significados específicos: el negro representa la muerte, el blanco la vida y el azul la esperanza. Una esperanza especialmente necesaria en un ambiente post-golpe, la misma que da origen a obras como _Manos II_. Aquí, Vilches reemplaza la representación de la naturaleza por el gesto de dibujar el contorno de sus manos y su rostro, buscando una nueva forma de expresar la corporalidad humana.
 
-Si bien el año 1974 marcó el inicio de la operación de calco, la figura humana ya había aparecido previamente en las obras de Vilches, colándose en forma de piernas. Extremidades que forman una especie de calendario gráfico del mes de abril (7 de abril, 19 de abril, 11 de abril…) Piernas en movimiento, cuyo dinamismo transmite la sensación de una marcha ciudadana, eventos a los cuales Vilches asistió en múltiples ocasiones junto a su hijo.
+Si bien el año 1974 marcó el inicio de la operación de calco, la figura humana ya había aparecido previamente en las obras de Vilches, colándose en forma de piernas. Extremidades que forman una especie de calendario gráfico del mes de abril (_7 de abril_, _19 de abril_, _11 de abril_…) Piernas en movimiento, cuyo dinamismo transmite la sensación de una marcha ciudadana, eventos a los cuales Vilches asistió en múltiples ocasiones junto a su hijo.
 
 <figure class="blog-image">
     <img
@@ -139,7 +139,7 @@ Si bien el año 1974 marcó el inicio de la operación de calco, la figura human
     </figcaption>
 </figure>
 
-Tal como en 1970 captó la energía emanada por la esperanza de cambio, para 1973 Vilches buscó graficar la inquietud del ambiente en La constante amenaza. En esta serie, la figura humana aparece más prominente que nunca, con el encuadre construido desde un plano medio que integra el cuello y el torso de los personajes representados. Cada grabado expuesto en el MAVI presenta a dos personas dentro del marco, individuos de identidad desconocida siendo atravesados por franjas diagonales.
+Tal como en 1970 captó la energía emanada por la esperanza de cambio, para 1973 Vilches buscó graficar la inquietud del ambiente en _La constante amenaza_. En esta serie, la figura humana aparece más prominente que nunca, con el encuadre construido desde un plano medio que integra el cuello y el torso de los personajes representados. Cada grabado expuesto en el MAVI presenta a dos personas dentro del marco, individuos de identidad desconocida siendo atravesados por franjas diagonales.
 
 Las líneas crean un vacío en la superficie que opera como signo de cancelación e insinúa un quiebre identitario. Líneas severas que imponen un orden, bloquean y censuran de manera implacable en su intento por aniquilar la humanidad. La fuerza colectiva se sugiere mediante la proximidad corporal que emerge desde una base compartida.
 
@@ -159,8 +159,8 @@ Las clases de grabado de Eduardo Vilches se configuraban como un espacio de resi
 
 ---
 
-Para el cierre de la muestra Eduardo Vilches. Grabados (1960 – 1974) se ha organizado la presentación del libro Eduardo Vilches. Fotografías, publicado por Ediciones UC. El lanzamiento tendrá lugar el 6 de julio a las 12:00 horas en el MAVI UC.
+Para el cierre de la muestra _Eduardo Vilches. Grabados (1960 – 1974)_ se ha organizado la presentación del libro _Eduardo Vilches. Fotografías_, publicado por **Ediciones UC**. El lanzamiento tendrá lugar el 6 de julio a las 12:00 horas en el MAVI UC.
 
-El evento contará con la presencia de Ignacio Sánchez, presidente de la Fundación MAVI UC y Rector de la Pontificia Universidad Católica de Chile, Alejandra Bendel, directora de la Escuela de Arte UC, y Eduardo Vilches, quien estará firmando ejemplares del libro.
+El evento contará con la presencia de **Ignacio Sánchez**, presidente de la Fundación MAVI UC y Rector de la Pontificia Universidad Católica de Chile, **Alejandra Bendel**, directora de la Escuela de Arte UC, y **Eduardo Vilches**, quien estará firmando ejemplares del libro.
 
-Esta publicación forma parte del proyecto Patrimonio Eduardo Vilches, iniciado en 2022, que incluyó además la impresión de las obras del artista y la organización de esta exposición.
+Esta publicación forma parte del proyecto **Patrimonio Eduardo Vilches**, iniciado en 2022, que incluyó además la impresión de las obras del artista y la organización de esta exposición.
