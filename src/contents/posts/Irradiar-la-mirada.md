@@ -26,7 +26,7 @@ Sombras indiscernibles se reflejan en los ojos de Gutete, cuya mirada supone una
     </figcaption>
 </figure>
 
-La sala de exhibición se presenta como un submundo, regido por su propia lógica,  al interior de la realidad. La luz que emana de la mesa, sobre la cual yacen las diapositivas, materializa este efecto al deslumbrar la mirada cautiva que se aproxima a la superficie para deslizarse sobre ella. En la penumbra de la sala, la instalación proponen un nuevo reparto de lo sensible, que materializa un cambio en “las formas de enunciación al cambiar los marcos, las escalas o los tramos, al construir relaciones nuevas entre la apariencia y la realidad, lo singular y lo común, lo visible y su significación” (Rancièr , 2010, p.67).
+La sala de exhibición se presenta como un submundo, regido por su propia lógica,  al interior de la realidad. La luz que emana de la mesa, sobre la cual yacen las diapositivas, materializa este efecto al deslumbrar la mirada cautiva que se aproxima a la superficie para deslizarse sobre ella. En la penumbra de la sala, la instalación proponen un nuevo reparto de lo sensible, que materializa un cambio en “las formas de enunciación al cambiar los marcos, las escalas o los tramos, al construir relaciones nuevas entre la apariencia y la realidad, lo singular y lo común, lo visible y su significación” (Rancière , 2010, p.67).
 
 La mirada performativa de los ojos de Gutete irradia un nuevo orden de realidad que altera la jerarquía de los cuerpos y nuestra interacción para con ellos. En la semioscuridad de la galería, la visión de los cuerpos heridos ante la cual el consumo mediático nos ha insensibilizado es sintetizada a través de la mirada de una sobreviviente, iluminando un sufrimiento que suele pasar inadvertido.
 
