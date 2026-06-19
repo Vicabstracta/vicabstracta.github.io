@@ -15,7 +15,7 @@ cover: /blog/apuntes/cuando-el-sonido-del-mar-se-detuvo/performance-sonido-del-m
     <img
         src="/blog/apuntes/cuando-el-sonido-del-mar-se-detuvo/performance-sonido-del-mar.avif">
     <figcaption>
-       Gabriela Carmona, Performance "Cuando el sonido del mar se detuvo", 2024.
+       Gabriela Carmona, Performance "Cuando el sonido del mar se detuvo", 2024
     </figcaption>
 </figure>
 

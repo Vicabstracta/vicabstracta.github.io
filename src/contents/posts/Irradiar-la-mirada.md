@@ -65,6 +65,6 @@ Maurette, P. (2015). El sentido olvidado. Mardulce.
 
 Rancière, J. (2010). El espectador emancipado. Manantial.
 
-Ranciere, J. (2017). El teatro de las imágenes en Valdés, A. (Ed), Alfredo Jaar: la política de las imágenes. 69- 89. Metales pesados.
+Rancière, J. (2017). El teatro de las imágenes en Valdés, A. (Ed), Alfredo Jaar: la política de las imágenes. 69- 89. Metales pesados.
 
 Thiebaut, C. (2018). La experiencia descoyuntada:a propósito del bombardeo “moral”sobre las ciudades. Revista Latinoamericana de Filosofía. 1 (44), 85 - 103.
