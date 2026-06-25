@@ -1,5 +1,5 @@
 ---
-title: When the Sound of the Sea Sopped
+title: When the Sound of the Sea Stopped
 published: 2025-03-27
 description: Gabriela Caromans' Encarnapieles
 tags: [Article]

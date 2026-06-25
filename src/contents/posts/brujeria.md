@@ -1,6 +1,6 @@
 ---
 title: Witchcraft
-published: 2024-16-12
+published: 2024-12-16
 description: "Review of the exhibition Brujería: animación contemporánea en Chile"
 tags: [Article]
 category: AICA E-mag

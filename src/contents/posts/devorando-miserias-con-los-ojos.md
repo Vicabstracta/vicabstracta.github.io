@@ -61,7 +61,7 @@ Esta realidad queda plasmada en la tela de _Nuevas Sustancias XII_. En el centro
     <img
         src="/blog/apuntes/devorando-miserias-con-los-ojos/Mariana-Najmanovich-Pantallas-blandas-II-oleo-sobre-tela-silicona-e-hilo-100-x-206-cm-2023.jpg">
     <figcaption>
-        Mariana Najmanovich, “Pantallas blandas II” [detalle], 2023, óleo sobre tela, silicona e hilo, 100 x 206 cm. Foto: Felipe Ugalde
+        Mariana Najmanovich, Pantallas blandas II [detalle], 2023, óleo sobre tela, silicona e hilo, 100 x 206 cm. Foto: Felipe Ugalde
     </figcaption>
 </figure>
 
@@ -97,18 +97,19 @@ En la obra del maestro neerlandés, un afamado médico cirujano realiza la disec
 
 En la obra de Mariana, una de las enfermeras presentes en la operación apunta a lo que parece ser el torso del criminal-criatura-humanoide, como dibujando con el dedo el trayecto que debería seguir el bisturí. El acontecimiento es presenciado por otras once enfermeras que rodean a la figura central. Aunque los gestos en sus rostros son apenas perceptibles, la inclinación de sus cuerpos hacia adelante delata su avidez por contemplar la miseria del condenado, cuyas partes, desparramadas, se desbordan de la camilla.
 
-A diferencia de las otras dos _Pantallas Blandas_, la piel sintética que recubre esta instalación no presenta relieves en forma de labios, sino solo los pares de ojos, que representan a decenas de espectadores virtuales que se unen a las enfermeras para ver el espectáculo.
+A diferencia de las otras dos *Pantallas Blandas*, la piel sintética que recubre esta instalación no presenta relieves en forma de labios, sino solo los pares de ojos, que representan a decenas de espectadores virtuales que se unen a las enfermeras para ver el espectáculo.
 
 <figure class="blog-image">
     <img
-        src="/blog/apuntes/devorando-miserias-con-los-ojos/Mariana-Najmanovich-Utopia-I-2023-oleo-sobre-papel-silicona-hilo-75-x-57-cm.jpg">
+        src="/blog/apuntes/devorando-miserias-con-los-ojos/najmanovich-utopia-I-II.jpg">
     <figcaption>
-        Mariana Najmanovich, Utopía I y II, 2023, óleo sobre papel, 75 x 57 cm. Foto: Felipe Ugalde
+        Mariana Najmanovich, Utopía II y I, 2023, óleo sobre papel, 75 x 57 cm. Foto: Felipe Ugalde
     </figcaption>
 </figure>
-El impulso morboso vuelve a manifestarse en las pinturas *Utopía I* y *II*, las cuales nos transportan a una especie de coliseo moderno donde se desarrolla una escena cautivadora. Cada cuadro muestra a un individuo siendo invadido por una maraña de cables. La finalidad específica del procedimiento no está clara, pero su violencia resulta evidente. Pareciera tratarse de una especie de tortura: más allá de su propósito utilitario, los seres se someten al cablerío como parte del procedimiento.
 
-Desde las gradas, los espectadores son testigos del acontecimiento. En _Utopía II_ no alcanzamos a verlos, ya que el encuadre se corta a la altura de un conjunto de doctores operando en segundo plano. En _Utopía I_, en tanto, once hombres con aspecto de aristócratas, absortos en la escena, devoran la desgracia de la víctima con los ojos. Ambas pinturas encapsulan el mensaje de esta sobrecogedora exposición: la imposibilidad de disociar las implicancias antiéticas de los avances tecnológicos del sistema socioeconómico que las avala.
+El impulso morboso vuelve a manifestarse en las pinturas *Utopía I* y *Utopía II*, las cuales nos transportan a una especie de coliseo moderno donde se desarrolla una escena cautivadora. Cada cuadro muestra a un individuo siendo invadido por una maraña de cables. La finalidad específica del procedimiento no está clara, pero su violencia resulta evidente. Pareciera tratarse de una especie de tortura: más allá de su propósito utilitario, los seres se someten al cablerío como parte del procedimiento.
+
+Desde las gradas, los espectadores son testigos del acontecimiento. En *Utopía II* no alcanzamos a verlos, ya que el encuadre se corta a la altura de un conjunto de doctores operando en segundo plano. En *Utopía I*, en tanto, once hombres con aspecto de aristócratas, absortos en la escena, devoran la desgracia de la víctima con los ojos. Ambas pinturas encapsulan el mensaje de esta sobrecogedora exposición: la imposibilidad de disociar las implicancias antiéticas de los avances tecnológicos del sistema socioeconómico que las avala.
 
 ---
 
