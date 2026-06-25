@@ -2,8 +2,8 @@
 title: "Devouring Hardships"
 published: 2024-03-16
 description: On Mariana Najmavich's Soft Screens
-tags: [Artículo]
-category:
+tags: [Article]
+category: Inédito
 author: Victoria Abaroa
 sourceLink: https://artishockrevista.com/2024/03/16/devorando-miserias-con-los-ojos/
 cover: /blog/apuntes/devorando-miserias-con-los-ojos/Mariana-Najmanovich-en-colaboracion-con-Hypereikon-Biologia-Liquida-2023-Still-de-video-2.jpg
@@ -43,7 +43,7 @@ The enterprise seems to brag about distancing itself from the sexualization of w
     </figcaption>
 </figure>
 
-A similar reflection is prompted by the screens in the Skin Cabinet. The collage series depicts cellphones embedded in rosy silicon skin projecting smiling selfies that mimic an Instagram feed. The cold screens interrupt the tactile warmth of human skin, insinuating their profound integration into our daily lives, almost as a part of our bodies. Simply leaving our houses without our cell phones, a dependence phenomenon that characterizes our times, makes us feel as incomplete as if being fully naked. 
+A similar reflection is prompted by the screens in the Skin Cabinet. The collage series depicts cellphones embedded in rosy silicon skin projecting smiling selfies that mimic an Instagram feed. The cold screens interrupt the tactile warmth of human skin, insinuating their profound integration into our daily lives, almost as a part of our bodies. Simply leaving our houses without our cell phones, a dependence phenomenon that characterizes our times, makes us feel as incomplete as if being fully naked.
 
 The construction of identity propelled by social media does not limit itself to the technological realm. Body modification attainable by plastic surgery, though less common than digital personalization, is equally substantial. According to the last global survey conducted by the International Society of Aesthetic Plastic Surgery (ISAPS), cosmetic surgeries reached a total of almost 35 million (ISAPS, 2023).  
 
@@ -121,4 +121,4 @@ The morbid impulse resurfaces in Utopia I and Utopia II, transporting viewers to
 
 By the bleachers, an undisturbed audience witnesses the scene. In Utopia II, the scene is obscured, as the frame cuts to the level of a group of doctors performing a procedure in the background. In contrast, in Utopia I, we catch sight of eleven men, seemingly belonging to the aristocracy, devouring the victim’s disgrace with their eyes. Both paintings encapsulate the message within this startling exhibition: the impossibility of dissociating the unethical implications of technological developments from the socioeconomic system that endorses them.
 
-Original article in spanish in https://artishockrevista.com/2024/03/16/devorando-miserias-con-los-ojos/
+Original article in Spanish in https://artishockrevista.com/2024/03/16/devorando-miserias-con-los-ojos/
