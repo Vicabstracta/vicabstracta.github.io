@@ -53,7 +53,7 @@ Y es que desde el inicio hasta el final de su carrera, Pollock captó movimiento
     <img
         src="/blog/apuntes/warhol-pollock-artistas-del-vestigio/untitled-figure-composition-pollock.jpg">
     <figcaption>
-      Jackson Pollock, Untitled (Figure Composition), 1938/1941. Imagen extraída de westpaificreview.com
+      Jackson Pollock, Untitled (Figure Composition), 1938/1941. Imagen extraída de westpacificreview.com
     </figcaption>
 </figure>
 
