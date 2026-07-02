@@ -2,7 +2,7 @@
 title: "Warhol-Pollock: Artistas del Vestigio"
 published: 2026-07-01
 description: De fantasmas y cicatrices
-tags: [Ensayo]
+tags: [Microensayo]
 category: Inédito
 author: Victoria Abaroa
 cover: /blog/apuntes/warhol-pollock-artistas-del-vestigio/yarn-warhol-1983.webp
