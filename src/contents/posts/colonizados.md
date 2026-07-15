@@ -4,8 +4,9 @@ published: 2026-15-07
 description: El cautiverio en el Mundo Feliz a través de los ojos de Diego Moya
 tags: [Microensayo]
 category: Inédito
+showFeaturedImage: false
 author: "Victoria Abaroa"
-cover:
+cover: /blog/apuntes/diego-moya-colonizados/diegomoya-colonizadas.jpg
 ---
 
 Quizás fue la luz la que me impulsó a acercarme al cuadro como un mosquito a una farola. O tal vez fue la serenidad en el rostro de la mujer. Su expresión de paz interior distorsionada en una especie de éxtasis alienado. Tal vez fue eso mismo lo que me atrajo, impulsada por la ilógica necesidad de salvarla de su cautiverio. Detrás del cristal, la mujer aparecía desconectada del mundo, y sin embargo conectada a la corriente de la sala.
