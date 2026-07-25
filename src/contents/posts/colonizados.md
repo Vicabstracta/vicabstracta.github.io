@@ -1,6 +1,6 @@
 ---
 title: "Colonizados"
-published: 2026-15-07
+published: 2026-07-15
 description: El cautiverio en el Mundo Feliz a través de los ojos de Diego Moya
 tags: [Microensayo]
 category: Inédito
@@ -9,7 +9,7 @@ author: "Victoria Abaroa"
 cover: /blog/apuntes/diego-moya-colonizados/diegomoya-colonizadas.jpg
 ---
 
-Quizás fue la luz la que me impulsó a acercarme al cuadro como un mosquito a una farola. O tal vez fue la serenidad en el rostro de la mujer. Su expresión de paz interior distorsionada en una especie de éxtasis alienado. Tal vez fue eso mismo lo que me atrajo, impulsada por la ilógica necesidad de salvarla de su cautiverio. Detrás del cristal, la mujer aparecía desconectada del mundo, y sin embargo conectada a la corriente de la sala.
+Quizás fue la luz la que me impulsó a acercarme al cuadro como un mosquito a una farola. O tal vez fue la serenidad en el rostro de la mujer. Su expresión de paz interior distorsionada en una especie de éxtasis alienado. Tal vez fue eso mismo lo que me atrajo, impulsada por la ilógica necesidad de salvarla de su cautiverio. Detrás del cristal, la mujer aparecía desconectada del mundo, y sin embargo conectada a la corriente de la sala de La Neomudéjar.
 
 Cual cordón umbilical oscuro, un cable conectaba su micro mundo a aquel que la rodeaba. El flujo eléctrico la unía también con otros seres en la misma situación. Habitantes de la Matrix o un Mundo Feliz, en un estado de dicha aislada. Embriagados por sus soledades colectivas e inmersos en una ilusión de comunidad. Trazos luminosos cruzaban sus rostros como venas de energía cósmica, pero no eran más que el brillo de un simulacro: adornos de un éxtasis digital sobre carcasas antropomórficas.
 
