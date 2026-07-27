@@ -63,7 +63,7 @@ La línea de avatares se cerraba a ambos costados con dos presencias radicalment
 
 El rostro de uno de los personajes lo delataba preso de la paranoia o del estupefaciente. El otro—payaso espectral cuya mueca intensificaba la miseria inscrita en sus párpados— ya había trascendido el éxtasis común para asentarse definitivamente en la demencia. Al frente, el reflejo del cristal duplicaba sus pupilas brillantes como perforaciones por las que se colaba el resplandor de un alma calcinada.
 
-El conjunto funcionaba como una radiografía colectiva, un archivo de bitácoras personales donde la luz invisible —ahora detectable— revelaba, cual rayos X, el mecanismo oculto del cautiverio. Sin embargo, los colonizados se mantenían indiferentes, inmutables, insensibles, inmortales. Al menos, hasta el fin de la exposición. Entonces serán desconectados de la corriente.  Quizás, ese sea el momento en el que nos toque a nosotros despertar de este sueño esclavizante.
+El conjunto funcionaba como una radiografía colectiva, un archivo de bitácoras personales donde la luz invisible —ahora detectable— revelaba, cual rayos X, el mecanismo oculto del cautiverio. Sin embargo, los colonizados se mantenían indiferentes, inmutables, insensibles, inmortales. Al menos, hasta el fin de la exposición, cuando sean desconectados de la corriente.  Quizás, ese sea el momento en el que nos toque a nosotros despertar de este sueño esclavizante.
 
 
 
