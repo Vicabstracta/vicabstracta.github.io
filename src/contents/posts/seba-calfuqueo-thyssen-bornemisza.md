@@ -1,5 +1,5 @@
 ---
-title: "EL CUERPO TAMBIÉN ES TERRITORIO"
+title: "El Cuerpo También Es Territorio"
 published: 2026-10-28
 description: >-
   Seba Calfuqueo en el Museo Thyssen

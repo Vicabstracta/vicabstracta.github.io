@@ -1,5 +1,5 @@
 ---
-title: "DELINEAR LA AUSENCIA"
+title: "Delinear la Ausencia"
 published: 2026-09-07
 description: >-
   Felix Gonzalez-Torres en el Reina Sofía

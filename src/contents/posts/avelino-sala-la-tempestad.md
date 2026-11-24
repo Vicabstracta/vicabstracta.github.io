@@ -1,5 +1,5 @@
 ---
-title: "AVELINO SALA: LA TEMPESTAD"
+title: "Avelino Sala: La Tempestad"
 published: 2026-09-14
 description: >-
   (El jardín de los senderos que se bifurcan)

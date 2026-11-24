@@ -1,5 +1,5 @@
 ---
-title: "GRIETAS DE ESPERANZA"
+title: "Grietas de Esperanza"
 published: 2026-10-20
 description: >-
   La Perla Peregrina de Fernando Sánchez Castillo
