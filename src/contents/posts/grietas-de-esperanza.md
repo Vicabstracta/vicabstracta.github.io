@@ -2,7 +2,7 @@
 title: "GRIETAS DE ESPERANZA"
 published: 2026-10-20
 description: >-
-  Inspirado en la idea de la perla como el resultado de una incomodidad, Fernando Sánchez Castillo propone un recorrido contrahistórico en el Palacio de...
+  La Perla Peregrina de Fernando Sánchez Castillo
 tags: [Artículo]
 category: Artishock
 author: Victoria Abaroa

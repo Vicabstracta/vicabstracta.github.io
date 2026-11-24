@@ -1,8 +1,8 @@
 ---
-title: "AVELINO SALA: LA TEMPESTAD (EL JARDÍN DE LOS SENDEROS QUE SE BIFURCAN)"
+title: "AVELINO SALA: LA TEMPESTAD"
 published: 2026-09-14
 description: >-
-  A través de referencias literarias e históricas, la exposición “La Tempestad (El jardín de los senderos que se bifurcan)”, de Avelino Sala (España, 19...
+  (El jardín de los senderos que se bifurcan)
 tags: [Artículo]
 category: Artishock
 author: Victoria Abaroa
@@ -75,7 +75,7 @@ Sin embargo, el gesto de resistencia no agota su fuerza en la denuncia del desas
     <figcaption>Avelino Sala, <em>Biblioteca de Babel</em>, 2026. 81 libros, corte láser y pintura ecológica. CentroCentro, Madrid, 2026. Foto: Amapola Creativa / Andrés Arranz</figcaption>
 </figure>
 
-Inspirada en el célebre relato de Borges, _Biblioteca de Babel_ se compone de tres murales cromáticos de 27 libros cada uno, los cuales recogen consignas extraídas de las protestas de _Black Lives Matter_, el 8M y _Fridays for Future_. La instalación corresponde a la reconfiguración y ampliación de un proyecto anterior, el cual contenía únicamente algunos libros del conjunto de *Fridays for Future —*en referencia a las movilizaciones climáticas impulsadas por Greta Thunberg en 2018*—* y llevaba el revelador nombre de _Books for Unwritten History_. Cada uno de los tomos ha sido pintado a mano por el artista, rescatando del desecho una serie de libros destinada a la basura para reincorporarlos como soportes materiales de la consigna política.
+Inspirada en el célebre relato de Borges, _Biblioteca de Babel_ se compone de tres murales cromáticos de 27 libros cada uno, los cuales recogen consignas extraídas de las protestas de _Black Lives Matter_, el 8M y _Fridays for Future_. La instalación corresponde a la reconfiguración y ampliación de un proyecto anterior, el cual contenía únicamente algunos libros del conjunto de *Fridays for Future* —en referencia a las movilizaciones climáticas impulsadas por Greta Thunberg en 2018— y llevaba el revelador nombre de _Books for Unwritten History_. Cada uno de los tomos ha sido pintado a mano por el artista, rescatando del desecho una serie de libros destinada a la basura para reincorporarlos como soportes materiales de la consigna política.
 En un movimiento circular, volvemos al _Museo arqueológico de nuestro tiempo_ y a la tozudez de la pulsión subversiva. La política de censura literaria del mundo feliz conecta así con la _Biblioteca de Babel_, al reconocer los libros como artefactos peligrosos e incendiarios. Finalmente, es a partir de los cimientos de este material rescatado que surgen las consignas que coronan cada tomo, alimentando las narrativas de los libros aún por escribir.
 
 <figure class="blog-image">

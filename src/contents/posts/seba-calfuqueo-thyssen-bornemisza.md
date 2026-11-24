@@ -1,8 +1,8 @@
 ---
-title: "EL CUERPO TAMBIÉN ES TERRITORIO. SEBA CALFUQUEO EN EL MUSEO THYSSEN-BORNEMISZA"
+title: "EL CUERPO TAMBIÉN ES TERRITORIO"
 published: 2026-10-28
 description: >-
-  Un viaje espiritual, histórico y político por el río Cautín, desplazándose a contracorriente. Así se podría resumir la propuesta de Seba Calfuqueo par...
+  Seba Calfuqueo en el Museo Thyssen
 tags: [Artículo]
 category: Artishock
 author: Victoria Abaroa

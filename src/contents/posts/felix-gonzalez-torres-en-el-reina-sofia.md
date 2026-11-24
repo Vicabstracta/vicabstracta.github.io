@@ -1,8 +1,8 @@
 ---
-title: "DELINEAR LA AUSENCIA. FELIX GONZALEZ-TORRES EN EL REINA SOFÍA"
+title: "DELINEAR LA AUSENCIA"
 published: 2026-09-07
 description: >-
-  La ausencia deliberada unifica la exposición "Dulce Venganza", de Felix Gonzalez-Torres, en el Museo Reina Sofía. Anclándose en la contradicción y la ...
+  Felix Gonzalez-Torres en el Reina Sofía
 tags: [Artículo]
 category: Artishock
 author: Victoria Abaroa
